@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Primeira Colônia Romana</title>
+        <subtitle>Fundação de Óstia</subtitle>
+        <text> @G[c3 stills_92.png]@L
+        @H A configuração "Falas" ("Speech") altera o volume das narrações. Reduza também o volume da "Música" para evitar que ela encubra os briefings. @L@L
+        @H Contexto Histórico @L
+        O ano é 706 a.C., e Roma é um reino que esteve em guerra com seus vizinhos etruscos quase constantemente ao longo de sua história. Para ampliar sua influência e seus lucros, tornando-se capaz de afirmar seu domínio local, @0Roma precisará de melhor acesso ao comércio. @L@L
+        Como o único acesso às lucrativas rotas marítimas é o rio Tibre, os romanos decidiram fundar sua primeira colônia propriamente dita. O novo assentamento será chamado de @0Óstia e ficará próximo às margens do mar Tirreno. @L@L O maior inimigo de Roma nessa época era a cidade etrusca de Veios (Veii). A distância de apenas 16 km (9,9 milhas) de Roma fazia dela uma ameaça séria na disputa pelo domínio regional. Após muitas guerras, os romanos finalmente conquistaram Veios em 396 a.C. @L@L
+
+        @G[c3_instructions_icon.png]
+        @H Instruções @L@L
+        Bem-vindo, governador. Falo em nome de Sua Majestade, como seu enviado. O Rei confiou a você uma missão muito importante: nossa cidade precisa enriquecer e prosperar. Para isso, fundaremos uma colônia que facilitará o comércio com nossos vizinhos mais distantes. @L@L
+        Sua Majestade acredita que você foi escolhido entre os candidatos por demonstrar grande talento e potencial. Portanto, não o instruirei sobre todos os fundamentos da construção de uma autêntica cidade romana. @L@L
+        Os detalhes da missão são os seguintes: estabeleça uma colônia comercial lucrativa extraindo @0argila e @0madeira da região e cultivando @0trigo para exportação. O Rei também pedirá com frequência que você financie nossa guerra contra os etruscos; portanto, preserve o favor de Sua Majestade atendendo prontamente a essas solicitações. @L@L
+        Quando a cidade alcançar 800 habitantes, o Rei permitirá que Óstia desfrute de alguns benefícios da cultura romana. Esse será seu primeiro e mais @0importante @0objetivo. Boa sorte, governador. Que Júpiter conduza seu talento à grandeza. @L@L
+
+        @H Éditos: @L
+        @0Primeira @0Colônia @0Romana - Roma enviará 100 denários por mês para financiar a expansão da cidade. @L@L
+        @0Origens @0Agrárias - As oficinas permanecerão indisponíveis durante todo o cenário. Os edifícios educacionais e de entretenimento ficarão bloqueados até que o primeiro objetivo, de 800 habitantes, seja alcançado. @L@L@L
+
+        @H Dicas Essenciais @L
+        Para evitar problemas de @0sentimento, mantenha o desemprego baixo e, quando necessário, pague salários maiores. Para prevenir @0doenças, ofereça às moradias cobertura de @0barbearia, @0clínica e @0casa @0de @0banhos assim que possível. @L@L
+        Cada @0templo @0pequeno possui capacidade de culto para 750 cidadãos daquele deus. Edifícios produtores de @0matérias-primas, como as minas de argila, produzem 9,6 cargas de carroça por ano quando operam em capacidade máxima. @L@L
+        Suas prioridades devem ser: estabelecer moradias, oferecer os serviços essenciais de saúde e proteção contra riscos, iniciar as exportações para obter receita adicional e somente depois fornecer água e alimento à população, evitando picos de desemprego e falência. @L@L
+        As ações devem ser executadas nessa ordem. Alimentar os cidadãos antes de a cidade gerar qualquer lucro era um conselho ruim oferecido pelo jogo original. @L@L
+        Mesmo depois de cumprir um objetivo, como alcançar 800 habitantes, você ainda precisará esperar a virada de um @0mês @0do @0jogo para que as condições sejam verificadas. @L@L@L
+
+        @H Informações Adicionais @L
+        A seção "Contexto Histórico" das mensagens pode ser ignorada sem prejuízo caso você não tenha interesse; ela existe para oferecer contexto e algumas informações interessantes aos fãs de história. Em geral, cada mensagem também possui uma seção chamada "Mensagem", com texto narrativo que pode ser ignorado, por exemplo, ao repetir um mapa. Números e objetivos importantes costumam aparecer nas seções "Novo Objetivo" ou "Recompensa". @L@L
+        Os @0Éditos são modificadores específicos de cada missão e alteram a maneira de abordar o mapa. Eles oferecem variedade e desafios para tornar cada cenário único e memorável. Alguns éditos concedem vantagens; outros impõem restrições, mas normalmente existe mais de uma maneira de resolver cada situação. Em determinados mapas, por exemplo, você pode preferir mais patrícios em vez de fornecer um segundo tipo de alimento a todos os plebeus. @L@L
+        Observe que a @0campanha foi projetada considerando o uso da opção @0Ativar @0força @0de @0trabalho @0universal, embora também seja possível vencê-la sem essa configuração. @L@L
+        Objetivos e mensagens importantes terão o símbolo @(!) ao lado, facilitando sua localização no menu de mensagens. Devido ao limite máximo de 1.000 mensagens, exclua as desnecessárias caso jogue um mapa por muito tempo e o menu comece a ficar congestionado. Nenhuma missão da Reconquered possui limite de tempo, mas as @0solicitações e @0invasões se repetirão para que o cenário continue reagindo durante partidas prolongadas. @L@L
+        Esta campanha foi criada para @0jogadores @0veteranos que já concluíram a campanha normal. Conhecimento sobre mapas personalizados será útil, mas não é obrigatório. Caso você seja novo no Caesar III, é recomendável concluir primeiro a campanha original ou jogar a minicampanha tutorial Governors Academia, que apresenta os fundamentos da construção de cidades e as mecânicas do Augustus. @L@L
+        Esteja avisado de que esta campanha não oferece uma experiência de construção livre. Não comece esperando construir o que quiser, onde quiser e quando quiser. O @0terreno é usado para limitar, sem eliminar completamente, os projetos tradicionais em blocos. O objetivo é @0inovar, @0adaptar-se e @0superar os desafios. Em geral, os mapas oferecem pelo menos um terço a mais de espaço e alimento do que o necessário, portanto tudo pode ser alcançado e nenhuma cidade terminará exatamente igual à outra. @L@L
+        O tamanho ideal de um bloco residencial atendido por um único conjunto de serviços, aproveitando ao máximo o alcance dos caminhantes, é 22x6, ou 24x8 contando as estradas. Esse é o projeto otimizado sem o risco de interrupção dos serviços. @L@L
+        Em muitas missões você poderá, ou deverá, construir projetos pouco convencionais, adaptados ao terreno e capazes de incorporar rochas ou outros obstáculos. O uso de caminhantes forçados deixou de ser vantajoso no Augustus, pois seus custos e o tempo necessário para configurá-los superam os benefícios desse artifício. Com os depósitos de carroças, a logística e a distribuição agora são muito mais fáceis de controlar. Você pode jogar como preferir, mas não recomendo nem incentivo o uso de caminhantes forçados. @L@L
+        Em geral, não haverá necessidade de recorrer à absorção artificial de mão de obra. Em vez de construir serviços sem utilidade apenas para empregar pessoas, você sempre poderá ampliar as atividades comerciais para acomodar a população excedente, desde que não se afaste demais dos objetivos do mapa. @L@L
+        Ao projetar partes específicas da cidade, principalmente em mapas maiores, você perceberá que ligar toda a malha viária em uma única cidade interconectada pode provocar grandes ineficiências. Caminhantes de destino, como vendedoras do mercado, carroceiros que entregam ou buscam mercadorias e trabalhadores de entretenimento, podem escolher aleatoriamente um percurso ruim. Por isso, muitas vezes é melhor não oferecer alternativas de caminho, reduzindo atrasos e aumentando a eficiência. Atualmente, isso pode ser feito deixando intervalos na rede de estradas, impedindo que caminhantes de destino passem de uma área do mapa para outra. No futuro, isso poderá ser feito com o "bloqueio de estrada definitivo", que permitirá bloquear especificamente esses caminhantes. @L@L
+        Os carroceiros das fazendas e da maioria dos edifícios de matérias-primas conseguem percorrer cerca de 22 quadrados em uma direção antes de não conseguirem retornar a tempo da próxima carga, o que reduz a produção. Os carroceiros da maioria das oficinas conseguem percorrer aproximadamente 44 quadrados antes de ocorrer o mesmo problema. A capacidade de um mercado sustentar grandes áreas residenciais cai drasticamente quando aumenta a distância percorrida para buscar mercadorias ou quando existem várias rotas possíveis. Ainda assim, você pode conectar vários blocos e criar um centro de distribuição, posicionando um celeiro ou armazém à mesma distância de cada mercado. @L@L
+        De modo geral, espere uma experiência mais difícil, mas não brutalmente injusta. Você recebeu o posto de @0arquiteto e o manterá durante toda a campanha. Por razões de equilíbrio, seu posto não aumentará, para que o apreço continue representando um risco ao longo do jogo. @L@L
+        Fundos pessoais de até 2.000 denários são transferidos para as missões seguintes. Os custos-base de cada posto foram multiplicados por dez, sem alterar o ganho de apreço obtido com presentes. Isso permite que os jogos no Coliseu sejam viáveis mesmo em um posto relativamente baixo. Observe que os novos níveis salariais afetam o custo dos subornos, e um presente suntuoso exige no mínimo 2.000 denários. Examine cuidadosamente o mapa e não presuma que tudo funcionará como na campanha original. @L@L
+
+        @H Créditos @L
+        Os cenários desta campanha foram criados por @0CommissarMarek com base nos mapas da campanha original. Agradecimentos especiais à excelente equipe de desenvolvimento do Augustus, que tornou tudo isso possível, e também a todos os testadores e membros da comunidade que participaram do processo de criação. Para tutoriais, dicas e estratégias, consulte o canal de CommissarMarek no YouTube. @L@L@L@L  </text>
+    </message>
+    <message uid="Drought">
+        <title>(!) O Rei Solicita Trigo (!)</title>
+        <subtitle>Seca no Vale do Tibre</subtitle>
+        <text>@G[c3 stills_43.png]@L
+        @H Mensagem @L
+        Governador, as colheitas fracassaram e os cidadãos de Roma estão passando fome. Ordeno que você armazene 32 cargas de carroça de @0trigo em Óstia para envio imediato. Isso trará algum alívio à cidade e evitará uma revolta violenta. @L
+        @L@L @G[decorative objetive .png] @H Novo Objetivo @L
+        Ao armazenar 32 cargas de carroça de @0trigo, elas serão enviadas automaticamente a Roma. Você receberá 15 pontos de @0apreço e 1.500 @0denários, e Roma passará a comprar uma @0cota anual maior de trigo. Este evento ocorrerá apenas uma vez. Até cumprir o objetivo, você perderá 1 ponto de @0apreço a cada 2 meses. @G[wheat_ware.png] @G[decorative objetive .png] @L@L@L
+        </text>
+    </message>
+    <message uid="Drought avoided">
+        <title>(!) Fome Evitada (!)</title>
+        <subtitle>O Rei Está Satisfeito</subtitle>
+        <text>@G[c3 stills_95.png]@L
+        @H Mensagem @L
+        Governador, graças a Ceres, os agricultores informam que as colheitas deverão voltar ao normal. Agradeço pelo envio imediato e informo que Roma comprará qualquer excedente produzido por Óstia para evitar novos incidentes como este. @L
+        @L@L @H Recompensa @L Roma passa a comprar uma @0cota anual maior de trigo; você recebe 1.500 @0denários e 15 pontos de @0apreço. @G[Drought_avoided.png] @L@L@L
+        </text>
+    </message>
+    <message uid="Croton">
+        <title>(!) Comércio Ultramarino (!)</title>
+        <subtitle>A Colônia Grega de Crotona Estabelece Contato</subtitle>
+        <text>@G[c3 stills_122.png]@L
+        @H Mensagem @L
+        Ao governador romano de Óstia: eu, Tirano de Crotona, em minha grande sabedoria, decidi que nossos dois povos se beneficiarão do comércio e da troca de mercadorias. Nossos comerciantes receberam ordens para realizar os preparativos necessários, e seus navios serão sempre bem-vindos em nossos portos, desde que, naturalmente, paguem a taxa de autorização comercial. @L@L
+        @H Novo Parceiro Comercial Desbloqueado @G[ruta_nueva.png] @L
+        A cidade de @0Crotona, localizada no sul da Itália, agora oferece relações comerciais, e as docas foram desbloqueadas. @L@L
+        @H Contexto Histórico @L
+        Antes da ascensão de Roma como única potência da Itália, o sul da península era ocupado predominantemente por inúmeras cidades-estado e colônias gregas. Algumas delas haviam sido fundadas ainda na Idade do Bronze. Sócrates descreveu os gregos como "sapos ao redor de um lago", em referência à sua disseminação pelo Mediterrâneo e também pelo mar Negro. @L@L
+        Uma das razões da expansão grega era o pragmatismo. Em vez de solucionar disputas políticas com violência, era comum que a facção mais poderosa financiasse uma expedição para enviar a oposição a uma espécie de exílio. Assim, evitava-se a violência e a cidade-estado conquistava uma nova colônia. @L@L
+        Com o tempo, essas colônias frequentemente se libertavam de seus governantes originais, desenvolviam uma cultura regional e, muitas vezes, passavam a ser governadas por um tirano. @L@L
+        Hoje podemos imaginar um tirano como um ditador cruel, mas, para os gregos e outros povos antigos, o termo significava "governante absoluto". Em alguns casos isso realmente resultava em políticas brutais de poder; em geral, porém, muitos tiranos governavam com prosperidade e sem opressão excessiva, e algumas dessas cidades-estado alcançaram grande sucesso. A associação direta com opressão política vem do sentido moderno da palavra. @L@L
+        </text>
+    </message>
+    <message uid="Schools and Entertainment">
+        <title>(!) Uma Verdadeira Colônia Romana (!)</title>
+        <subtitle>Entretenimento e Educação</subtitle>
+        <text>@G[c3 stills_123.png]@L
+        @H Mensagem @L
+        Governador, até agora Óstia foi um @0grande @0sucesso sob sua administração. Decreto que cidadãos instruídos sejam enviados de Roma para educar e entreter a população de Óstia, promovendo uma autêntica cultura romana. @L@L
+        Além disso, agora você poderá cobrar impostos da população local para financiar a expansão. Continue desempenhando suas funções com excelência e proporcione aos cidadãos de Óstia um padrão de vida mais elevado. @L@L@L
+        @H Recompensa @L
+        Edifícios desbloqueados: teatro, anfiteatro, colônia de atores, escola de gladiadores, escola, praça, estátuas e fórum. @G[Schools_and_Entertainment.png] @L@L@L
+        Para vencer, não é necessário evoluir as moradias além do nível de @0casa @0pequena. Entretanto, a cidade grega de Crotona pode vender cerâmica caso você deseje alcançar o nível de ínsula pequena, que oferece uma arrecadação tributária maior e um índice de @0Prosperidade mais alto. @L@L
+        @G[decorative objetive .png] @H Novo Objetivo @L
+        Alcance 1.250 habitantes e mantenha um @0teatro e uma @0escola ativos para atingir o nível de @0prosperidade 35. @G[Proper_Roman_Colony.png] @G[decorative objetive .png] @L@L
+        </text>
+    </message>
+    <message uid="Victory">
+        <title>Colônia de Óstia</title>
+        <subtitle>Você Venceu</subtitle>
+        <text>@G[c3 stills_127.png]@L
+        @H Missão Concluída @L
+        Governador, foi um desempenho extraordinário! Com Óstia sustentando a economia romana, não restam dúvidas sobre o futuro sucesso de Roma como potência regional. @L@L
+        Entretanto, seu talento seria desperdiçado na administração de um assentamento tão rudimentar. Avante, rumo a Brundisium! @L@L@L
+        </text>
+    </message>
+</localization>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Cidade de Brundisium</title>
+        <subtitle>Começa a Expansão Romana</subtitle>
+        <text>@G[c3 stills_93.png]@L
+
+        @H Contexto Histórico @L
+        Por volta de 245 a.C., depois de conquistar a região em 266 a.C., Roma estabeleceu em Brundisium uma colônia de direito latino. O local era habitado desde a Idade do Bronze, e fragmentos de cerâmica encontrados na região comprovam contatos com o mundo micênico. Tradições antigas também associavam a população local a origens gregas, embora Brundisium fosse então uma cidade messápia. @L@L
+        Os messápios eram um povo iapígio estabelecido no sul da península Itálica. O nome messápio da cidade, "Brention", significa "cabeça de cervo" e provavelmente fazia referência ao formato de seu porto. @L@L Brundisium tornou-se um centro comercial e porto estratégico de importância vital no sul da Itália. Em conflitos futuros, especialmente após as Guerras Púnicas, desempenharia um papel crucial como centro de abastecimento e base naval dos romanos. @L@L
+        Brundisium recebeu direitos de cidadania romana durante a Guerra Social e, mais tarde, Sula concedeu ao porto isenção de taxas alfandegárias. @L@L
+        Observe que, no início desta missão, Roma já não é um reino, mas uma república. Portanto, trate as solicitações do "Imperador" como se viessem do Senado Romano. @L@L
+
+        @G[c3 instructions icon.png]
+        @H Instruções @L
+        Bem-vindo a Brundisium, governador. Os exércitos romanos pacificaram suficientemente a população local, portanto sua única preocupação ainda será o desenvolvimento da cidade. Desejo que Brundisium se transforme em um centro comercial regional. Utilize os abundantes recursos locais e as terras férteis para criar uma cidade à altura dos padrões romanos, com moradias adequadas para todos os trabalhadores e uma ampla zona portuária que facilite o comércio ultramarino. @L@L
+        Em Brundisium, você conhecerá uma nova etapa do desenvolvimento de cada cidade. Antes que artesãos capazes de produzir mercadorias processadas sejam atraídos para cá, será necessário sustentar o crescimento inicial da colônia por meio da agricultura, da mineração ou da extração de madeira. Felizmente, esse processo será auxiliado pelo subsídio estatal mensal de 100 denários concedido a todas as colônias recém-fundadas. @L@L
+        Caso encontre tempo em sua agenda atribulada, aconselho que também se familiarize com as construções de grande escala, pois esse conhecimento será muito útil nas próximas missões. Boa sorte, governador, e não decepcione o povo de Roma. @L@L@L
+
+        @H Éditos @L
+        @0Solo @0Argiloso @0Abundante - Quando a cidade possuir 5 minas de argila ativas, você receberá mensalmente 2 unidades de argila e 2 de areia em qualquer armazém que aceite esses recursos. @L@L
+        @0Influência @0Cultural - Manter comércio com qualquer cidade da Grécia provocará uma perda adicional de 2 pontos de Apreço por ano. As bibliotecas estarão disponíveis desde o início desta e das próximas missões. As cidades gregas são Córcira e Epidamno. @L
+
+        @H Informações Adicionais @L
+        Na maioria dos mapas, o terreno manterá a estrutura fundamental da missão correspondente na campanha original, mas rochas, penhascos e água serão acrescentados para fragmentar os blocos tradicionais e oferecer um desafio maior. Do ponto de vista histórico, quase todos os mapas deveriam começar com uma cidade já construída. Como a maioria dos jogadores prefere não administrar áreas preexistentes, porém, essas estruturas serão limitadas em benefício da jogabilidade. @L@L
+        Você também conhecerá um novo conceito presente em todos os mapas futuros: a mecânica de subsídios. Ela será explicada detalhadamente em uma mensagem separada durante esta missão. @L@L@L
+        Os caminhos militar e pacífico foram reunidos em um só, e é recomendável jogar todos os mapas em ordem. As missões econômicas geralmente serão mais difíceis, com restrições logísticas e de espaço, mas as missões militares também terão limitações econômicas e de desenvolvimento. @L@L
+        Se desejar aprender a construir monumentos, alcance 1.500 habitantes para desbloquear um objetivo secundário relacionado ao mármore. @L@L
+        @H Eventos Persistentes @L
+        O Santuário de Mercúrio desbloqueia as praças. Os subsídios, que permanecem até a cidade alcançar índice de Prosperidade 10, concedem 100 denários por mês. As oficinas só são liberadas após o fim do subsídio. Devido às limitações do jogo, os preços iniciais das mercadorias serão ajustados depois que transcorrer 1 mês no jogo. @L@L@L@L
+        </text>
+    </message>
+    <message uid="subsidies">
+        <title>(!) Senado Subsidia a Colonização (!)</title>
+        <subtitle>Financiamento Inicial</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Mensagem @L
+        O Senado está financiando nossos esforços com o envio mensal de 100 denários. Isso continuará até a colônia alcançar índice de Prosperidade 10. Quando o subsídio terminar, a colônia poderá construir oficinas. @L@L
+        Essa mecânica estará presente em todos os mapas seguintes. Ela promove uma progressão natural, reduz o déficit orçamentário inicial e ajuda a equilibrar o crescimento geral. @L
+        @G[decorative objetive .png] @H Novo Objetivo @L
+        Alcance índice de Prosperidade 10 para desbloquear as oficinas. @G[more_properity.png] @G[decorative objetive .png] @L@L@L
+        </text>
+    </message>
+    <message uid="workshops">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Construção de Oficinas</subtitle>
+        <text>@G[c3 stills_74.png]@L
+        @H Mensagem @L
+        Parabéns por desenvolver uma colônia razoavelmente próspera! O subsídio colonial chegou ao fim, mas agora você pode construir oficinas e produzir mercadorias de valor muito maior. @L@L Essas mercadorias podem ser exportadas com lucro ou utilizadas para elevar o padrão de vida da população. @L@L
+        @H Oficinas Desbloqueadas @L
+        As oficinas produzem 4,8 cargas de carroça por ano. Como regra geral, salvo algumas exceções, são necessárias 2 oficinas para consumir toda a produção de um único edifício de matéria-prima operando com eficiência máxima. @G[workshop.png] @L@L@L@L
+        </text>
+    </message>
+    <message uid="elections">
+        <title>(!) Eleições (!)</title>
+        <subtitle>Ascensão no Cursus Honorum</subtitle>
+        <text>@G[c3 stills_125.png]@L
+        @H Mensagem @L
+        Governador, chegou o momento de novas eleições em Roma. Esta é uma excelente oportunidade para obter recursos pessoais adicionais e compensar possíveis perdas de Apreço causadas pelo comércio com os gregos. Para vencer as eleições, você precisará organizar jogos e conquistar apoio em Roma. @L@L
+        @G[decorative objetive .png] @H Novo Objetivo Secundário @L
+        Importe e armazene 2 unidades de @0vinho e mantenha 16 unidades de @0trigo para enviar a Roma. O envio será realizado automaticamente quando todas as mercadorias estiverem acumuladas. Como recompensa, você receberá 25 denários mensais adicionais em seu @0salário, somados automaticamente à remuneração de seu posto. @G[Elections.png] @G[decorative objetive .png] @L@L@L
+        @H Contexto Histórico @L
+        O cursus honorum, ou carreira das honras, era a sequência de magistraturas seguida pelos romanos que buscavam ascender na vida pública. Questores cuidavam principalmente do tesouro, dos pagamentos e dos registros do Estado. Os edis supervisionavam mercados, edifícios, abastecimento e jogos públicos. Pretores exerciam funções judiciais e também podiam comandar exércitos, enquanto os cônsules ocupavam a magistratura ordinária mais elevada. Quando o comando de um cônsul ou pretor era prorrogado após o término do mandato, ele podia servir como procônsul ou propretor. @L@L
+        O sistema não era plenamente meritocrático: riqueza, prestígio familiar, alianças e experiência militar influenciavam fortemente uma candidatura. Nas eleições para as magistraturas superiores, os cidadãos votavam em centúrias organizadas segundo patrimônio e idade. Os grupos mais ricos votavam primeiro, e a votação terminava assim que se formava uma maioria; por isso, as centúrias mais pobres muitas vezes nem eram chamadas. @L@L
+        Antes das eleições, era comum financiar festividades e jogos com recursos pessoais para conquistar o apoio popular e formar alianças com outros políticos. Candidaturas conjuntas eram permitidas. O suborno era ilegal, mas muito comum. @L@L
+        No topo do cursus honorum estavam os dois cônsules, magistrados eleitos que compartilhavam o poder durante um ano. Em Roma, eles alternavam mensalmente a precedência e o direito de ser acompanhado pelos doze lictores portando os fasces. Esses feixes de varas simbolizavam a autoridade do magistrado. Fora do pomerium, os fasces podiam incluir machados, símbolo do poder de comando militar; dentro do limite sagrado, os machados eram retirados em respeito ao direito de apelação dos cidadãos. @L@L
+        O pomerium não era a muralha nem toda a área urbanizada, mas uma fronteira religiosa definida pelos áugures ao redor da cidade. A tradição atribuía sua criação a Rômulo, que teria traçado um sulco sagrado em torno do monte Palatino. A lenda dizia que Remo atravessou esse limite em desafio ao irmão, episódio associado à sua morte. Roma cresceu muito além do pomerium, mas a fronteira continuou relevante para os auspícios e para a distinção entre autoridade civil e comando militar. Um comandante normalmente precisava abandonar seu imperium antes de entrar na cidade; durante um triunfo autorizado, recebia uma exceção temporária. @L@L
+        Os tribunos da plebe eram escolhidos pelos plebeus para defender seus interesses. Sua pessoa era considerada inviolável, e eles podiam vetar atos de outros magistrados e decisões que prejudicassem a plebe. Esse poder tornou o tribunato uma das instituições mais influentes e, nos últimos séculos da República, uma peça central das disputas políticas. @L@L@L
+        </text>
+    </message>
+    <message uid="Marble">
+        <title>(!) Extração de Mármore (!)</title>
+        <subtitle>Empreendimentos Lucrativos</subtitle>
+        <text>@G[c3 stills_126.png]@L
+        @H Mensagem @L
+        Salve, governador. Sou o cônsul Caio Atílio Bulbo. Meus conselheiros informaram que imensas riquezas aguardam para ser exploradas em sua nova colônia. As montanhas escondem preciosos veios de mármore, mercadoria muito cobiçada em todas as grandes cidades de nossa República. @L@L
+        Ofereço-lhe esta oportunidade para que, juntos, ampliemos nossa riqueza e influência. Fornecerei à cidade artesãos especializados na extração de @0mármore, enquanto você providenciará a mão de obra para as operações diárias nas pedreiras. @L@L
+        Atenciosamente,@L
+        Caio Atílio Bulbo, cônsul de Roma. @L@L@L
+        Caso queira vender mármore no exterior, será necessário autorizar o novo recurso nas docas pelo menu de "ordens especiais". Recursos indisponíveis no início do mapa, mas desbloqueados posteriormente, precisarão ser permitidos dessa maneira nas docas e nos mercados. @L@L
+        @H Desbloqueado @L
+        Monumentos e pedreiras de mármore. @G[monuments_marble.png] @L@L
+        @G[decorative objetive .png] @H Novo Objetivo Secundário @L
+        Construa e mantenha ativas 5 @0pedreiras de @0mármore. Como resultado, a cota de exportação de mármore para Sena Gálica será @0ampliada. Isso também dará acesso a novos edifícios de @0educação e @0entretenimento. @L@L
+        Construir um @0Oráculo exibirá dicas sobre a construção de monumentos e uma descrição detalhada de seus benefícios. @L@L
+        @H Informações Adicionais @L@L
+        Mármore e outros recursos podem ser utilizados na construção de edifícios avançados chamados monumentos. Ao erguer um Oráculo, um evento apresentará todas as informações necessárias sobre a construção e os benefícios dos monumentos. Para começar, a construção de um Santuário de Mercúrio dará acesso às praças, mecânica persistente em todos os mapas da campanha. @L@L
+        Este objetivo é opcional e não precisa ser concluído para vencer o cenário. Ele serve como introdução à construção de monumentos. Nas missões futuras haverá objetivos secundários semelhantes, capazes de conceder recursos adicionais, novos materiais, edifícios e outras vantagens. Cada um terá um custo ou uma tarefa associada. @L@L
+        @G[decorative objetive .png] @L@L@L
+        </text>
+    </message>
+    <message uid="plaza">
+        <title>(!) Praça Desbloqueada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Mensagem @L
+        Graças às generosas doações recebidas no novo Santuário de Mercúrio, renomadas guildas de artesãos abriram oficinas na cidade para produzir magníficos ladrilhos e mosaicos destinados à ornamentação dos espaços públicos. @L@L
+        @H Praça Desbloqueada @G[plaza.png] @L@L
+        </text>
+    </message>
+    <message uid="epithets">
+        <title>(!) Monumentos (!)</title>
+        <subtitle>Mecânicas do Augustus</subtitle>
+        <text>@G26
+        @H Mensagem @L
+        Esta é uma mensagem tutorial para quem ainda não conhece os monumentos e seus benefícios. Para construir um monumento, posicione sua fundação e pague o custo inicial. Em seguida, conecte um dos quadrados centrais do canteiro à rede de estradas. Construa uma Guilda de Arquitetura e um Campo de trabalho ligados à mesma malha viária. Garanta também acesso a armazéns abastecidos com madeira, tijolos, pedra, mármore ou ouro; o ouro só é necessário para o Panteão.
+        @G[camp_and_architect.png]
+        @L@L Os Campos de trabalho retiram recursos dos armazéns e os entregam aos canteiros que deles necessitam. Depois, um arquiteto da guilda inspeciona a obra, o que pode exigir várias visitas. Campos de trabalho próximos aos recursos e Guildas de Arquitetura próximas ao canteiro aceleram a construção. Alguns monumentos possuem várias etapas, representadas visualmente. Além disso, a maioria dos monumentos, todos os fortes e templos e também os trechos de estrada imperial possuem um custo mensal de manutenção. Considere construir uma estrada imperial quando sua cidade não conseguir cumprir todas as cotas exigidas; ela acelera as caravanas e a imigração. @L@L
+        @G[light_and_carava.png]
+        O Caravançará e o Farol são monumentos voltados especificamente ao comércio. Ambos permitem escolher uma política comercial que aumenta a capacidade dos mercadores ou melhora os preços de importação e exportação. O Caravançará consome 20 unidades de alimento (100 unidades correspondem a uma carga de carroça de celeiro ou armazém) para cada caravana que surge no mapa, mas reduz pela metade a duração das interrupções do comércio terrestre. Para coletar alimento e manter seus benefícios e sua política ativos, ele precisa de acesso a um celeiro no qual a vendedora do mercado esteja autorizada. As caravanas não precisam visitar fisicamente o Caravançará, portanto ele não altera seus destinos no mapa. @L@L
+        O Farol deve ser construído próximo à água e consome 4,8 cargas de carroça de madeira por ano para funcionar, metade da produção de uma única madeireira. Em contrapartida, os barcos de pesca viajam 10% mais rápido e as interrupções do comércio marítimo terminam 50% mais depressa. Sem madeira suficiente, o Farol deixa de funcionar. Ele retira madeira de um armazém, que precisa autorizar seu acesso. @L@L
+        @G[city_mint_full.png]@L
+        A Casa da Moeda exige a construção de um Senado e oferece duas opções ao governador: transformar cargas de ouro em dinheiro para a cidade e, caso exista uma residência do governador, também gerar recursos pessoais; ou derreter o dinheiro da cidade para produzir cargas de ouro. Esse ouro pode ser usado na construção do Panteão em mapas sem produção ou comércio do recurso, ou exportado quando os preços tornarem a operação lucrativa. @L@L
+        @G42 @L Por que um governador investiria em monumentos? A seguir estão alguns exemplos, mas existem muitos outros. O Augustus também converteu algumas estruturas originais em monumentos, portanto cabe ao governador decidir quais são úteis. @L@L
+        @G[mausoleums.png]
+        - Os primeiros 5 Mausoléus grandes ou 10 Mausoléus pequenos concedem à cidade um pequeno bônus global de saúde. O Augustus aplica uma penalidade global de saúde à medida que a população cresce, e os mausoléus ajudam a compensá-la. Embora reduzam a atratividade da área imediata, eles melhoram as moradias mais afastadas. Também oferecem espaço de culto para todos os deuses, assim como um Oráculo. @L@L
+        @G[hippo_coli.png]
+        - O Coliseu e o hipódromo concedem 5 pontos de entretenimento a todas as moradias, mesmo sem acesso direto. Construir ambos concede 10 pontos, pois os bônus se acumulam. Para comparação, 10 pontos adicionais de entretenimento são necessários para uma moradia evoluir de palácio grande para palácio luxuoso e correspondem a todo o entretenimento exigido por uma casa grande. @L@L
+        - Os Santuários concedem bônus globais quando construídos e oferecem espaço de culto para 4.000 seguidores do respectivo deus. O Panteão atende todos os deuses ao mesmo tempo, mas possui capacidade menor. Para obter o bônus principal, basta construir o Santuário. Já os benefícios dos epítetos só chegam às moradias que recebem sacerdotes daquele deus; sacerdotes de templos pequenos também fornecem a cobertura necessária aos blocos residenciais. @L@L
+        A seguir são apresentados os bônus de cada Santuário e seus epítetos, benefícios adicionais que podem ser escolhidos depois que o monumento estiver concluído e com todos os trabalhadores. Cada Santuário pode receber apenas 1 epíteto, que só pode ser trocado se o monumento for demolido. Escolha com cuidado o que mais beneficiará sua cidade. Todos os Santuários exigem muitos trabalhadores e possuem custo elevado de manutenção. O limite máximo de Santuários pode ser aumentado nas configurações de dificuldade. @L@L
+        @G[gt_ceres.png]
+        - Santuário de Ceres: os carroceiros das fazendas se movem 50% mais rápido.@L Epíteto Fecunda: moradias atendidas por sacerdotes de Ceres consomem 20% menos alimento.@L Epíteto Frugifera: templos de Ceres funcionam como mercados, coletando e distribuindo um tipo de alimento produzido localmente e também azeite. @L@L
+        @G[gt_neptune.png]
+        - Santuário de Netuno: aumenta em 1 quadrado o alcance de fontes e poços e em 2 o alcance dos reservatórios, reduz pela metade a mão de obra dos serviços de água, aumenta em 25% a velocidade dos navios mercantes e reduz o avanço de doenças em todas as moradias da cidade.@L Epíteto Equester: envia condutores de biga dos templos de Netuno ao hipódromo, caso exista um na cidade.@L Epíteto Adiutor: concede 5% de capacidade adicional às moradias atendidas por sacerdotes de Netuno e faz o Santuário fornecer água como um reservatório cheio, permitindo abastecer fontes em áreas antes inacessíveis. @L@L
+        @G[gt_mercury.png]
+        - Santuário de Mercúrio: mercadores terrestres e marítimos transportam 50% mais mercadorias, e os mercadores terrestres se movem 25% mais rápido.@L Epíteto Fortunus: reduz em 20% o consumo de cerâmica e móveis nas moradias atendidas por sacerdotes de Mercúrio.@L Epíteto Mercurius Mercator: reduz em 20% o consumo de azeite e vinho nessas moradias.@L Na campanha Reconquered, o Santuário de Mercúrio também desbloqueia a praça em todos os mapas. Caso tenha dificuldade com a atratividade, construa blocos residenciais em terrenos elevados para receber um bônus gratuito. Um benefício semelhante se aplica às moradias junto à água. @L@L
+        @G[gt_mars.png]
+        - Santuário de Marte: envia recrutas diretamente aos fortes da cidade e permite construir 4 fortes adicionais.@L Epíteto Ultor: faz com que os sacerdotes de Marte gerem alimento conforme as moradias atendidas e o entreguem ao posto de suprimentos; também reduz em 25% o custo de manutenção dos fortes.@L Epíteto Quirinus: reduz em 10% o consumo de todas as mercadorias nas moradias atendidas por sacerdotes de Marte. @L@L
+        @G[gt_venus.png]
+        - Santuário de Vênus: aumenta a atratividade de jardins, estátuas e templos, permite que as moradias armazenem mais mercadorias e faz com que regridam mais devagar.@L Epíteto Verticordia: produz vinho em quantidade proporcional à população atendida pelos templos de Vênus; os templos coletam e distribuem esse vinho às moradias e tavernas.@L Epíteto Genetrix: os sacerdotes oferecem entretenimento e embelezam as moradias, aumentando a atratividade da vizinhança sem exigir novas decorações. @L@L
+        @G[phanteon.png]
+        - Panteão: oferece culto a todos os deuses, realiza festivais anuais e reduz em 25% os custos de manutenção dos edifícios religiosos e culturais. Quando os deuses estão satisfeitos, também impede eventos como contaminação da água e desabamentos em minas e minas de argila.@L Epíteto Ara Maxima: todos os templos da cidade enviam sacerdotes ao Panteão, difundindo a fé e as bênçãos de seus deuses.@L Epíteto Roma Aeterna: permite que moradias com acesso ao Panteão evoluam um nível adicional mesmo sem cumprir todos os requisitos, o que é útil em mapas sem academias e com exigência elevada de Prosperidade. @L@L
+        Como sempre, consulte o manual ou assista aos vídeos de detalhamento de recursos no meu canal do YouTube para obter mais informações. @L@L@L@L
+        </text>
+    </message>
+    <message uid="marble completed">
+        <title>(!) Cotas de Mármore (!)</title>
+        <subtitle>Oportunidades Comerciais</subtitle>
+        <text>@G[c3 stills_115.png]@L
+        @H Mensagem @L
+        O cônsul Caio Atílio utilizou suas conexões políticas e pressionou os mercadores de Sena Gálica a aceitar uma quantidade maior de nossas exportações de mármore. @L@L
+        @H Recompensa @L
+        Cota de mármore ampliada. Academia, hospital, arena, Coliseu e Casa de leões desbloqueados. @G[marble_completed.png] @L@L
+        A partir de agora, neste cenário, ao alcançar a meta populacional você receberá 1 ponto adicional de Prosperidade a cada 3 meses. @L@L
+        </text>
+    </message>
+    <message uid="elections won">
+        <title>(!) Vitória nas Eleições (!)</title>
+        <subtitle>Carreira Política</subtitle>
+        <text>@G[c3 stills_125.png]@L
+        @H Mensagem @L
+        A campanha foi um sucesso. Você conquistou um assento no Senado e receberá um salário adicional. @L@L
+        @H Recompensa @L
+        Suas economias pessoais receberão 25 denários adicionais por mês a partir de agora. @G[add_personal_founds.png] @L@L
+        </text>
+    </message>
+    <message uid="victory">
+        <title>Cidade de Brundisium</title>
+        <subtitle>Você Venceu</subtitle>
+        <text>@G[c3 stills_127.png]@L
+        @H Missão Concluída @L
+        Desempenho brilhante, governador! Brundisium se desenvolveu exatamente como eu havia imaginado. Em breve veremos se é verdadeira a máxima de que um bom estadista também é um bom general. @L@L
+        Os tempos de paz estão chegando ao fim, pois preciso tanto de generais quanto de governadores. Antes disso, porém, ainda há uma última missão pacífica à sua espera: Capua o aguarda! @L@L
+        </text>
+    </message>
+</localization>

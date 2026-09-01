@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Integração de Capua</title>
+        <subtitle>A Rivalidade Samnita</subtitle>
+        <text>@G[c3 stills_71.png]@L
+        @H Contexto Histórico @L
+        A região de Capua já era habitada muito antes da ascensão de Roma. A cidade antiga desenvolveu-se a partir desses assentamentos e tornou-se um importante centro etrusco da Campânia, tradicionalmente associado ao período de maior influência etrusca na região, por volta do século VI a.C. A origem exata do nome Capua permanece discutida; formas antigas como Kapu são documentadas, mas a interpretação tradicional de "cidade dos pântanos" não é considerada segura. @L@L
+        Em 424 a.C., os samnitas conquistaram Capua e encerraram o domínio etrusco sobre a cidade. Os samnitas eram povos itálicos de forte tradição guerreira, estabelecidos nas montanhas do centro-sul da península. Nas décadas seguintes, a expansão deles sobre as férteis planícies da Campânia tornou-se uma ameaça cada vez maior para os capuanos. @L@L
+        Em 343 a.C., diante de uma nova ofensiva samnita, Capua pediu a proteção de Roma. Segundo a tradição preservada por Tito Lívio, os emissários capuanos chegaram a entregar formalmente a cidade e seu território aos romanos, obrigando Roma a defendê-los. A intervenção deu início à Primeira Guerra Samnita e aproximou Capua da esfera de influência romana. Embora os detalhes desse relato sejam debatidos pelos historiadores modernos, a aliança marcou um passo decisivo na expansão de Roma pela Campânia. @L@L
+
+        @G[c3 instructions icon.png]
+        @H Instruções @L
+        Governador, em nome do Senado Romano, assumo a responsabilidade de transmitir suas ordens. Os cônsules estão ocupados com a mobilização contra os samnitas e não podem instruí-lo pessoalmente. Tome o controle da região e transforme Capua em um verdadeiro centro comercial e potência econômica. Graças à força de nossas legiões, não será necessário concentrar esforços nas defesas da cidade. Mesmo com a hostilidade samnita, é improvável que Capua seja invadida diretamente. Sua principal contribuição será sustentar nosso @0esforço @0de @0guerra: o Senado exigirá remessas frequentes de trigo e armas para abastecer as legiões. @L@L
+        As terras próximas a Capua não possuem jazidas adequadas de pedra ou mármore; portanto, será necessário importar esses materiais para realizar grandes obras públicas. Em compensação, os campos capuanos são férteis e favorecem o cultivo de @0uvas, @0azeitonas e outros @0alimentos. O maior desafio será logístico: transportar rapidamente a produção das áreas rurais até os mercados. Um governador prudente aproveitará os robustos bois locais e organizará o transporte por meio de @0entrepostos @0de @0carroças. @L@L
+        Os habitantes também apreciam muito os ludi, ou jogos. Caberá a você administrar cuidadosamente os locais de entretenimento de Capua. @L@L
+        Apesar dos desafios que encontrará, o Senado espera que Capua alcance um índice de Prosperidade relativamente elevado. @L@L
+        Cumpra seu dever com prudência, governador. O Senado acompanhará seu progresso. @L@L
+
+        @H Éditos @L
+        @0Cidade @0dos @0Espetáculos @0Sangrentos - Para oferecer entretenimento, você dependerá de tavernas, arenas e um Coliseu; um objetivo secundário poderá ampliar essas opções. @L@L
+        @0Guerras @0Samnitas - Ferro barato pode ser importado para produzir armas, que serão solicitadas com frequência para sustentar o esforço de guerra. @L@L@L
+
+        @H Informações Adicionais @L
+        Roma ainda é uma república. Portanto, trate as solicitações do "Imperador" como ordens do Senado Romano. A cronologia da campanha abrange períodos muito diferentes e, em alguns casos, foram adotadas liberdades criativas, sobretudo no mapa imperial. Muitas cidades gregas exibidas como parceiras comerciais ainda não estavam sob domínio romano nesta época. @L@L
+        As tavernas podem complementar os teatros, embora seja necessário importar carne ou peixe para melhorar a qualidade do serviço. Elas só retiram carne ou peixe de celeiros, nunca de armazéns. O vinho é sempre necessário para que ofereçam entretenimento e é consumido a cada caminhante gerado pelo edifício. @L@L
+        Caso os espaços para docas sejam limitados e você queira ampliar a indústria, use entrepostos de carroças para levar recursos importados, como ferro, a outras áreas do mapa, processá-los e devolver as mercadorias prontas para exportação. Os entrepostos são especialmente eficientes no transporte de alimentos até bairros residenciais mais distantes. @L@L
+        Se desejar, construir um Santuário de Vênus com o epíteto Genetrix também concederá entretenimento e maior atratividade a todas as moradias atendidas por sacerdotes de Vênus, permitindo dispensar outras opções. @L@L
+        A ordem das missões procura acompanhar a evolução histórica de Roma, mas o formato original de Caesar III ainda pressupõe um "Imperador" e um governador que atravessa séculos. Essas convenções foram preservadas para manter o espírito do jogo. @L@L
+        O contexto histórico, contudo, procurará seguir a cronologia natural das inovações e dos acontecimentos romanos. @L@L
+        @H Eventos Persistentes @L
+        O Santuário de Mercúrio desbloqueia as praças. Os subsídios, mantidos até a cidade alcançar índice de Prosperidade 10, concedem 100 denários por mês. As oficinas só são liberadas após o fim do subsídio. Devido às limitações do jogo, os preços iniciais das mercadorias serão ajustados depois que transcorrer 1 mês no jogo. @L@L@L@L
+        </text>
+    </message>
+    <message uid="side objective 1">
+        <title>(!) Coliseu (!)</title>
+        <subtitle>Favores aos Mercadores</subtitle>
+        <text>@G[c3 stills_118.png]@L
+        @H Mensagem @L
+        Alguns romanos influentes desejam adquirir terras em Capua e nos arredores para lazer e lucro. Os habitantes locais, porém, talvez não recebam bem uma mudança tão ampla na propriedade das terras. @L@L
+        @G[decorative objetive .png] @H Novo Objetivo Secundário @L
+        Construir um grandioso @0Coliseu ajudará a conquistar o apoio da população. Você também lucrará com as transações fundiárias, ganhará influência sobre nossos parceiros comerciais e ampliará as cotas de comércio. @G[coliseum.png] @G[decorative objetive .png]@L@L@L
+        </text>
+    </message>
+    <message uid="side objective 2">
+        <title>(!) Animais Exóticos (!)</title>
+        <subtitle>Variedade de Espetáculos</subtitle>
+        <text>@G[c3 stills_83.png]@L
+        @H Mensagem @L
+        Guildas mercantis do sul estão dispostas a nos vender @0animais @0exóticos trazidos de antigas terras fenícias no norte da África. Se você construir um @0Farol para orientar os navios, essas feras poderão aumentar a qualidade de nossos espetáculos. @L@L
+        @G[decorative objetive .png] @H Novo Objetivo Secundário @L
+        Construa um Farol para desbloquear as Casas de leões. @G[lighthouse.png] @G[decorative objetive .png] @L@L@L
+        @H Contexto Histórico @L
+        Em séculos posteriores, Capua se tornaria um dos centros mais famosos do treinamento de gladiadores. A palavra latina ludus podia designar tanto os jogos quanto as escolas que preparavam seus combatentes. Cada escola era administrada por um lanista, responsável pelo treinamento dos gladiadores e pela negociação dos espetáculos com seus patrocinadores. Os combates, inicialmente associados a cerimônias funerárias e celebrações privadas da elite, acabaram se transformando numa das formas mais conhecidas de entretenimento público romano. @L@L
+        A profissão de lanista tinha má reputação. Como gladiadores treinados representavam investimentos valiosos, seus proprietários negociavam cuidadosamente contratos, pagamentos e indenizações por ferimentos ou mortes. @L@L
+        Nem todo combate terminava com a morte de um participante. Um gladiador derrotado que demonstrasse coragem podia ser poupado, e perder um lutador experiente sem compensação era dispendioso. Ainda assim, o risco era real e variava conforme a época, o tipo de espetáculo e a decisão de quem financiava os jogos. @L@L
+        Tampouco todos os gladiadores eram escravizados. Prisioneiros de guerra, condenados e pessoas escravizadas formavam grande parte desse grupo, mas homens livres também podiam assinar contratos para pagar dívidas, ganhar dinheiro ou buscar fama. @L@L
+        Foi numa escola de gladiadores de Capua que Espártaco recebeu treinamento antes de liderar, em 73 a.C., a revolta que daria início à Terceira Guerra Servil. @L@L
+        </text>
+    </message>
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Desbloqueadas</subtitle>
+        <text>@G[c3 stills_74.png]@L
+        @H Mensagem @L
+        O subsídio colonial chegou ao fim, e Capua não receberá mais 100 denários por mês. Em compensação, você já pode ordenar a construção de @0oficinas. @G[workshop.png] @L@L@L@L
+        </text>
+    </message>
+    <message uid="side objective 1 completed">
+        <title>(!) População Apaziguada (!)</title>
+        <subtitle>Novas Oportunidades Comerciais</subtitle>
+        <text>@G[c3 stills_17.png]@L
+        @H Mensagem @L
+        Romanos abastados começaram a adquirir terras locais para ampliar suas propriedades, mas também financiaram os jogos inaugurais do novo Coliseu. Os habitantes talvez se queixem da concentração de riqueza, porém o pão e os espetáculos oferecidos deverão conter a insatisfação. @L@L
+        Como recompensa por seus esforços, seus novos aliados patrícios usaram a própria influência para tornar nossas @0oportunidades @0comerciais ainda mais lucrativas. @L@L
+        @H Recompensa @L
+        Diversas cotas comerciais foram ampliadas. @G[Masses_Calmed.png] @L@L@L
+        </text>
+    </message>
+    <message uid="side objective 2 completed">
+        <title>(!) Farol Concluído (!)</title>
+        <subtitle>Animais Exóticos para os Espetáculos</subtitle>
+        <text>@G[c3 stills_82.png]@L
+        @H Mensagem @L
+        O novo Farol orienta com segurança os navios que chegam de terras distantes. Seus capitães já não precisam seguir a costa com o mesmo cuidado, o que facilita a navegação. Embarcações comerciais carregadas de animais exóticos começaram a chegar a Capua. @L@L
+        @H Recompensa @L
+        Casas de leões desbloqueadas. @G[lion_house.png] @L@L@L
+        </text>
+    </message>
+    <message uid="weapon requests start">
+        <title>(!) Guerras Samnitas (!)</title>
+        <subtitle>O Senado Requisita Armas</subtitle>
+        <text>@G[c3 stills_98.png]@L
+        @G[decorative objetive .png] @H Mensagem @L
+        Depois que Roma assumiu a proteção de Capua, a guerra contra os samnitas recomeçou com toda a força. A República precisa de armamentos, e Capua deve cumprir seu dever. A partir de agora, oficiais romanos solicitarão remessas frequentes de @0armas e @0trigo para abastecer as legiões em campanha. @G[Samnite_Wars.png] @G[decorative objetive .png] @L
+        @H Contexto Histórico @L
+        Capua permaneceu durante séculos entre as cidades mais importantes da Itália. No início da Segunda Guerra Púnica, era considerada uma potência capaz de mobilizar cerca de 30 mil infantes e 4 mil cavaleiros. Sua economia também era conhecida pela produção de cereais e pela fabricação de utensílios de bronze, elogiados por autores romanos como Catão, o Velho, e Plínio, o Velho. @L@L@L@L@L
+        </text>
+    </message>
+    <message uid="plaza">
+        <title>(!) Praça Desbloqueada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Mensagem @L
+        Graças às generosas doações recebidas no novo Santuário de Mercúrio, renomadas guildas de artesãos abriram oficinas na cidade para produzir magníficos ladrilhos e mosaicos destinados à ornamentação dos espaços públicos. @L@L
+        @H Recompensa @L
+        Praça desbloqueada. @G[plaza.png] @L@L
+        </text>
+    </message>
+    <message uid="depots">
+        <title>(!) Rodas da Mudança (!)</title>
+        <subtitle>Um Sistema de Transporte Robusto</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Mensagem @L
+        O terreno desta província está se mostrando muito mais acidentado do que esperávamos. Invista na construção de entrepostos de carroças para transportar mercadorias rapidamente por longas distâncias. @L@L
+        @G[decorative objetive .png] @H Novo Objetivo Secundário @L
+        Construa e mantenha ativos 4 entrepostos de carroças para receber uma @0recompensa @0secreta. @G[dpot.png] @G[decorative objetive .png] @L@L
+        </text>
+    </message>
+    <message uid="depots dcompleted">
+        <title>(!) Excedentes Abundantes (!)</title>
+        <subtitle>Sistema de Abastecimento Eficiente</subtitle>
+        <text>@G[c3 stills_95.png]@L
+        @H Mensagem @L
+        Graças ao uso eficiente de bois treinados, as equipes de logística de Capua agora conseguem transportar rapidamente toda a produção das fazendas e propriedades rurais. Frutas frescas já não permanecem armazenadas por longos períodos, reduzindo as perdas por deterioração. @L@L
+        @H Recompensa @L
+        Receba mensalmente 2 unidades adicionais de @0uvas, @0azeitonas, @0trigo e @0frutas diretamente nos estoques, desde que haja espaço disponível. @G[obj_supp_cap.png] @L@L
+        </text>
+    </message>
+    <message uid="victory">
+        <title>Capua Próspera</title>
+        <subtitle>Você Venceu</subtitle>
+        <text>@G[c3 stills_127.png]@L
+        @H Missão Concluída @L
+        Excelente trabalho, governador! Você não apenas manteve nossas tropas abastecidas: graças à sua liderança, Capua tornou-se um dos pilares da presença romana na Campânia e está pronta para apoiar a República contra qualquer inimigo. Roma reconhecerá este feito! @L@L
+        Tarentum será um verdadeiro teste de suas capacidades. Lá, não bastará desenvolver uma grande cidade: você também precisará comandar as legiões romanas. Prepare-se para a próxima missão. @L@L
+        </text>
+    </message>
+    <message uid="Taverns">
+        <title>Economia de Serviços</title>
+        <subtitle>Tavernas Fortalecem o Setor Privado</subtitle>
+        <text>@G[deno.png]@L
+        @H Mensagem @L
+        Governador, diante da escassez de outras opções de entretenimento, os cidadãos receberiam muito bem a construção de tavernas. Esses estabelecimentos também contribuirão para a economia da cidade. @L@L
+        Enquanto o vinho estiver correndo, a população permanecerá satisfeita, mas espere também um pequeno aumento da criminalidade e da insalubridade. @L@L
+
+        @H Novo Desenvolvimento @L
+        - Se a cidade possuir pelo menos 2 tavernas ativas, receberá entre 100 e 250 denários por mês. O valor aparecerá na categoria "Diversos" do Conselheiro Financeiro. @L@L
+        - Enquanto essa contribuição estiver ativa, a saúde da cidade diminuirá ligeiramente a cada mês. @L@L
+
+        Dica: para compensar essa penalidade, aproveite o bônus passivo de saúde dos mausoléus ou ofereça à população tipos adicionais de alimento além do mínimo exigido pelas moradias. A penalidade não é severa e não deverá provocar doenças generalizadas se os demais serviços de saúde funcionarem adequadamente. @L@L@L
+
+        @H Contexto Histórico @L
+        O vinho ocupava um lugar central na cultura romana e servia de base para diferentes bebidas. Em muitas situações, beber vinho sem diluição era visto como um hábito excessivo ou pouco civilizado; por isso, era comum misturá-lo com água e, às vezes, acrescentar mel, ervas ou especiarias. @L@L
+        Soldados e trabalhadores também consumiam posca, bebida simples feita de água misturada a vinagre de vinho ou vinho azedo. Era barata, refrescante e normalmente possuía pouco ou nenhum álcool. @L@L
+        O vinho podia ser armazenado em ânforas de cerâmica, barris de madeira ou recipientes de couro. A qualidade e o preço variavam muito: vinhos modestos abasteciam grande parte da população, enquanto safras prestigiadas eram reservadas aos consumidores mais ricos. @L@L
+        O De re coquinaria, coletânea culinária da Antiguidade tardia tradicionalmente associada ao nome de Apício, reúne receitas para vinhos condimentados e diversos métodos de conservação de alimentos. O texto recomenda, por exemplo, mel, mosto reduzido, vinagre, sal e especiarias em diferentes preparações. Não se trata, porém, de um manual de administração de propriedades rurais, e sua autoria por um único "Apício" não é considerada certa. @L@L
+        A conservação era essencial para a economia alimentar antiga. Carnes e peixes podiam ser salgados, secos ou conservados em vinagre; frutas também eram secas ou guardadas em mel, vinho reduzido e outros líquidos. Esses métodos reduziam as perdas e permitiam transportar e vender alimentos durante períodos mais longos, ainda que alterassem seu sabor e textura. @L@L
+        </text>
+    </message>
+</localization>

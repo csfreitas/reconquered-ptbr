@@ -1,0 +1,51 @@
+name: Relato de teste
+description: Informe um problema encontrado na beta PT-BR.
+title: "[Beta] "
+labels: ["community-test"]
+body:
+  - type: input
+    id: mission
+    attributes:
+      label: Missão e evento/UID
+      placeholder: "RC01 — Victory"
+    validations:
+      required: true
+  - type: input
+    id: augustus
+    attributes:
+      label: Versão ou commit do Augustus
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: Origem do Caesar III
+      options: [Steam, GOG, CD-ROM, Outra]
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoria
+      options: [Tradução, Layout ou glifo, Áudio ou volume, Gatilho ou evento, Travamento, Instalação, Outro]
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Resultado observado
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Confirmação
+      options:
+        - label: Não anexei assets originais do Reconquered ou Caesar III.
+          required: true
