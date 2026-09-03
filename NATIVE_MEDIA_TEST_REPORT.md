@@ -2,7 +2,7 @@
 
 Data de corte: **2026-09-03**
 
-Estado: **implementação experimental aprovada em CI / reprodução dentro do jogo pendente**
+Estado: **implementação experimental aprovada em CI / reprodução do briefing RC01 aprovada em campanha por diretório / rota `.campaign` pendente**
 
 ## Augustus
 
@@ -25,7 +25,7 @@ O companion aceita `speech` e `background_music`. Entradas ou arquivos ausentes 
 
 ## Geração do pacote
 
-- CI do pacote: [Windows, Linux e macOS aprovados](https://github.com/csfreitas/reconquered-ptbr/actions/runs/33755566527);
+- CI do pacote: [Windows, Linux e macOS aprovados](https://github.com/csfreitas/reconquered-ptbr/actions/runs/33756063857);
 - 20 companions gerados a partir dos planos aprovados;
 - 20/20 companions reproduzíveis em modo `--check`;
 - UIDs conferidos contra os overlays textuais;
@@ -56,11 +56,25 @@ O comando de verificação confirmou todos os arquivos e hashes instalados. Apó
 
 O teste unitário usa payload sintético próprio e cobre instalação, verificação, preservação do XML canônico, backup, desinstalação e remoção de diretórios vazios.
 
-O artefato Windows MinGW x64 do CI foi iniciado durante 12 segundos numa cópia isolada do Caesar III e recebeu explicitamente essa cópia como diretório de dados. Ele permaneceu ativo até o encerramento deliberado, criou janela e renderizador e inicializou áudio sem crash nem solicitação de diretório. O SDL informou o diretório global de preferências do Augustus; ele estava vazio e permaneceu sem arquivos. Nenhum arquivo da instalação Steam foi utilizado ou alterado.
+O artefato Windows MinGW x64 do CI foi iniciado durante 12 segundos numa cópia isolada do Caesar III e recebeu explicitamente essa cópia como diretório de dados. Ele permaneceu ativo até o encerramento deliberado, criou janela e renderizador e inicializou áudio sem crash nem solicitação de diretório. Nenhum arquivo da instalação Steam foi utilizado ou alterado.
+
+## Teste funcional interativo — RC01 Ostia
+
+Em 2026-09-03, o mesmo artefato foi aberto contra a cópia isolada e a campanha em diretório. Antes da execução, os 32 arquivos existentes no diretório global de preferências do Augustus foram copiados e inventariados por SHA-256. O teste alterou somente `augustus-log.txt` e `augustus-log-backup.txt`; ambos foram restaurados a partir da cópia, e a comparação final confirmou 32/32 arquivos idênticos ao estado anterior.
+
+O log confirmou, na mesma sessão:
+
+```text
+Loading custom campaign scenario  RC01 Ostia.mapx
+Loaded custom message localization  localization/pt-BR/messages/RC01 Ostia.xml
+Loaded custom message media localization  localization/pt-BR/media/RC01 Ostia.xml
+```
+
+O responsável pelo projeto iniciou RC01 Ostia e aprovou o briefing como “impecável”. Texto, voz PT-BR e música foram reproduzidos juntos com equilíbrio artístico aprovado. A fixture não correspondia ao patch 1.0.1.0 e não continha o pacote completo de assets do build; por isso o log registrou avisos de assets ausentes e falhas ao gravar save/configuração. Essas limitações não impediram o carregamento dos dois overlays nem a reprodução do briefing e não foram atribuídas à feature de mídia localizada.
 
 ## Limites honestos
 
-- ainda não foi acionada uma mensagem dentro do jogo para confirmar auditivamente fala, música e fallback;
-- o carregamento de campanha em diretório e `.campaign` usa a infraestrutura já existente do Augustus e compilou em todas as plataformas, mas o caminho `.campaign` ainda não foi exercitado interativamente;
+- fala e música do briefing RC01 foram confirmadas auditivamente em campanha por diretório; fallback, eventos intermediários, vitória e interrupção antecipada do áudio ainda não receberam evidência interativa específica;
+- o carregamento de campanha em diretório está exercitado; o caminho `.campaign` usa a infraestrutura já existente do Augustus e compilou em todas as plataformas, mas ainda não foi exercitado interativamente;
 - esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
