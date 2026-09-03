@@ -106,3 +106,16 @@ As preferências globais foram preservadas antes de cada execução. Depois da �
 - carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
 - a vitória RC01 não recebeu prova funcional interativa e, por decisão do responsável, sua reprodução, equilíbrio e interrupção foram delegados ao QA comunitário; isso não constitui aprovação funcional. Esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
+
+## Revisão técnica posterior ao teste funcional
+
+Em 2026-09-03, uma revisão de propriedade de memória, portabilidade e evolução do formato resultou em dois commits adicionais na mesma branch experimental do Augustus:
+
+- [`b9d2518d1`](https://github.com/csfreitas/augustus/commit/b9d2518d1): separa a versão do companion de mídia da versão do overlay textual e restringe seus nomes de arquivo ao subconjunto ASCII portável entre Windows, Linux e macOS;
+- [`4e84eb094`](https://github.com/csfreitas/augustus/commit/4e84eb094): corrige a propriedade dos buffers de áudio carregados da campanha em SDL2 e SDL3, preservando o buffer no SDL3 enquanto a faixa puder acessá-lo e liberando-o após a destruição da faixa.
+
+A [nova matriz do CI](https://github.com/csfreitas/augustus/actions/runs/33781266284) foi aprovada em 18/18 alvos. Ela inclui compilações SDL2 e SDL3 em Windows, Linux e Android, além dos demais alvos do projeto. Os avisos sobre ações baseadas em Node.js 20 e ausência de artefato `deploy/` em Android/iOS pertencem à infraestrutura preexistente do workflow e não indicam falha de compilação da feature.
+
+O artefato Windows MinGW x64 correspondente a `4e84eb094` foi preservado somente no scratch local. Seu executável possui SHA-256 `9AF5AFF478EC0DACB69912E568470324B0AE38B4AF2B4D7EE14568CFCD0625C5`. A matriz comprova compilação, mas não substitui uma medição dinâmica de memória. O teste funcional anterior foi executado no commit `993bcaa5c`; portanto, um reteste curto de briefing, evento com fanfarra e fechamento antecipado ainda é necessário para aprovar funcionalmente o novo artefato.
+
+O Augustus ainda não possui uma infraestrutura de testes unitários para o parser de localização. Os casos negativos e de fallback permanecem cobertos pelo validador do pacote e pelas provas funcionais documentadas acima, mas uma futura contribuição upstream deve preferencialmente exercitar o parser C diretamente, sem duplicar sua lógica em um teste externo.
