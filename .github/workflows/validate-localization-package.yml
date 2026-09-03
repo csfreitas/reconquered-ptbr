@@ -1,0 +1,35 @@
+name: Validate localization package
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    name: ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os:
+          - ubuntu-latest
+          - windows-latest
+          - macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile Python tools
+        run: >-
+          python -m py_compile
+          generate_native_media_overlays.py
+          reconquered_ptbr_native_media.py
+          reconquered_ptbr_media.py
+          tests/test_native_media_installer.py
+      - name: Validate generated media companions
+        run: python generate_native_media_overlays.py --check
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
