@@ -100,8 +100,9 @@ As preferências globais foram preservadas antes de cada execução. Depois da �
 ## Limites honestos
 
 - fala, música, os quatro fallbacks e a interrupção antecipada do briefing RC01 foram confirmados auditivamente em campanha por diretório; ao iniciar a missão imediatamente, fala e música pararam corretamente;
-- a tentativa de alcançar o primeiro evento ficou inconclusiva porque o Mapa do Império travou na fixture sem o conjunto completo de assets. O log registrou ausência maciça de grupos `UI`, `Terrain_Maps`, `Industry` e outros; esse resultado não foi atribuído ao overlay;
-- o commit [`993bcaa5c`](https://github.com/csfreitas/augustus/commit/993bcaa5c75233df2ad89bfa9ee865e29d2ae7c1) limpa callbacks pendentes antes da parada explícita em briefing, eventos e vitória pela API comum SDL2/SDL3. A [matriz multiplataforma](https://github.com/csfreitas/augustus/actions/runs/33774971291) passou em 18/18 alvos; o teste interativo específico fanfarra → fala continua pendente em uma instalação de teste completa;
+- depois de acrescentar à fixture os 57 arquivos de `assets` ausentes, Crotona tocou `fanfare_nu3.wav` por 4,139 s e iniciou normalmente a voz localizada; o evento da seca/trigo também iniciou sua voz;
+- ao fechar imediatamente o evento do trigo durante a fanfarra, a fala não iniciou depois do fechamento. Isso aprova no Windows SDL2 tanto a sequência fanfarra → fala quanto o cancelamento antecipado do callback;
+- o commit [`993bcaa5c`](https://github.com/csfreitas/augustus/commit/993bcaa5c75233df2ad89bfa9ee865e29d2ae7c1) implementa essa proteção em briefing, eventos e vitória pela API comum SDL2/SDL3. A [matriz multiplataforma](https://github.com/csfreitas/augustus/actions/runs/33774971291) passou em 18/18 alvos;
 - carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
-- esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
+- a vitória RC01 ainda não recebeu prova funcional interativa; esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.

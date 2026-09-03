@@ -48,7 +48,7 @@ Os dois caminhos foram exercitados em fixture limpa no host Windows:
 - não houve teste dentro do Augustus, conforme a dispensa aprovada para a versão 1.0;
 - Linux e macOS ainda não tiveram execução nativa, embora o integrador use somente Python padrão e preserve caminhos sensíveis a maiúsculas/minúsculas;
 - Android, Nintendo Switch e PS Vita dependem por enquanto de preparação em computador e transferência manual;
-- fanfarra seguida de fala, interrupção ao fechar mensagens, glifos e equilíbrio final permanecem no QA comunitário.
+- fanfarra seguida de fala e interrupção ao fechar briefing/evento foram aprovadas em RC01 no Windows SDL2; vitória, demais missões, glifos e equilíbrio final permanecem no QA comunitário.
 
 ## Correção sobre a rc.1
 
