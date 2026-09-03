@@ -104,5 +104,5 @@ As preferências globais foram preservadas antes de cada execução. Depois da �
 - ao fechar imediatamente o evento do trigo durante a fanfarra, a fala não iniciou depois do fechamento. Isso aprova no Windows SDL2 tanto a sequência fanfarra → fala quanto o cancelamento antecipado do callback;
 - o commit [`993bcaa5c`](https://github.com/csfreitas/augustus/commit/993bcaa5c75233df2ad89bfa9ee865e29d2ae7c1) implementa essa proteção em briefing, eventos e vitória pela API comum SDL2/SDL3. A [matriz multiplataforma](https://github.com/csfreitas/augustus/actions/runs/33774971291) passou em 18/18 alvos;
 - carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
-- a vitória RC01 ainda não recebeu prova funcional interativa; esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
+- a vitória RC01 não recebeu prova funcional interativa e, por decisão do responsável, sua reprodução, equilíbrio e interrupção foram delegados ao QA comunitário; isso não constitui aprovação funcional. Esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
