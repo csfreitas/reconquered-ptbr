@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC07_07B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_MED_MUSIC_R01.wav" />
+    </message>
+    <message uid="Climate">
+        <speech filename="RC07_07E01_Climate_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC07_07E02_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="disease">
+        <speech filename="RC07_07E03_Disease_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC07_07E04_Wine_Health_History_PTBR_G01.wav" />
+    </message>
+    <message uid="wine">
+        <speech filename="RC07_07E05_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC07_07W_Victory_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_DUTY_MUSIC_R01.wav" />
+    </message>
+</media_localization>

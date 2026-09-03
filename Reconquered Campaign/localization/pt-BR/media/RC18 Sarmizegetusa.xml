@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC18_18B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_FRT_MUSIC_R01.wav" />
+    </message>
+    <message uid="fish">
+        <speech filename="RC18_18E01_Lake_Fish_PTBR_G01.wav" />
+    </message>
+    <message uid="natives">
+        <speech filename="RC18_18E02_Local_Traders_History_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC18_18E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="fish unlocked">
+        <speech filename="RC18_18E04_Fishing_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="natives unlocked">
+        <speech filename="RC18_18E05_Native_Area_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC18_18E06_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="mars GT">
+        <speech filename="RC18_18E07_Bandits_PTBR_G01.wav" />
+    </message>
+    <message uid="mars done">
+        <speech filename="RC18_18E08_Trade_Protected_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC18_18W_Victory_Trajan_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_IMPERIAL_MUSIC_R01.wav" />
+    </message>
+</media_localization>

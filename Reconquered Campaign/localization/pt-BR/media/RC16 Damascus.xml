@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC16_16B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_MED_MUSIC_R01.wav" />
+    </message>
+    <message uid="iron requests">
+        <speech filename="RC16_16E01_Iron_Requests_History_PTBR_G01.wav" />
+    </message>
+    <message uid="objective 1">
+        <speech filename="RC16_16E02_Missionaries_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC16_16E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="objective 1 completed">
+        <speech filename="RC16_16E04_Mission_Posts_PTBR_G01.wav" />
+    </message>
+    <message uid="Scouts">
+        <speech filename="RC16_16E05_Scouts_PTBR_G01.wav" />
+    </message>
+    <message uid="scouts completed">
+        <speech filename="RC16_16E06_Safe_Border_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC16_16E07_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="Far East">
+        <speech filename="RC16_16E08_Far_East_Trade_History_PTBR_G01.wav" />
+    </message>
+    <message uid="Forum">
+        <speech filename="RC16_16E09_Forum_Penalty_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC16_16W_Victory_Pompey_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_PROSP_MUSIC_R01.wav" />
+    </message>
+</media_localization>

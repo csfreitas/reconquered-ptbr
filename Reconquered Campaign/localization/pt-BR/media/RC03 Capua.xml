@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC03_03B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_CIV_MUSIC_R01.wav" />
+    </message>
+    <message uid="side objective 1">
+        <speech filename="RC03_03E01_Colosseum_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 2">
+        <speech filename="RC03_03E02_Exotic_Animals_History_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC03_03E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 1 completed">
+        <speech filename="RC03_03E04_Colosseum_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 2 completed">
+        <speech filename="RC03_03E05_Lighthouse_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="weapon requests start">
+        <speech filename="RC03_03E06_Weapon_Requests_History_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC03_03E07_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="depots">
+        <speech filename="RC03_03E08_Cart_Depots_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="depots dcompleted">
+        <speech filename="RC03_03E09_Cart_Depots_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="Taverns">
+        <speech filename="RC03_03E11_Taverns_History_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC03_03W_Victory_Consul_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_DUTY_MUSIC_R01.wav" />
+    </message>
+</media_localization>

@@ -60,3 +60,17 @@ python3 reconquered_ptbr_media.py uninstall "/caminho/para/Reconquered Campaign"
 ## Conteúdo deste repositório
 
 A árvore Git contém os 20 overlays PT-BR, planos de integração, instaladores e documentação. Os WAVs não são versionados devido ao tamanho; estão somente nos assets da release. Contribuições e relatos devem seguir [CONTRIBUTING.md](CONTRIBUTING.md), sem anexar conteúdo original do Reconquered ou Caesar III.
+
+## Evolução experimental: mídia localizada nativa
+
+A branch `feature/native-localized-media-package` prepara uma rota futura para builds do Augustus que ofereçam mídia localizada nativa. Ela não altera a `v1.0.0-rc.2` publicada.
+
+Nessa rota, o pacote instala somente arquivos próprios em:
+
+```text
+localization/pt-BR/messages/
+localization/pt-BR/media/
+localization/pt-BR/audio/
+```
+
+Os XMLs canônicos do Reconquered são validados, mas não são modificados. Os 20 companions são gerados de modo reproduzível com `generate_native_media_overlays.py`. O instalador experimental é `reconquered_ptbr_native_media.py`; consulte [NATIVE_MEDIA_TEST_REPORT.md](NATIVE_MEDIA_TEST_REPORT.md) para o estado real da validação.

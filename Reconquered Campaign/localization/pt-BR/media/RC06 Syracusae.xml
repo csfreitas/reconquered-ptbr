@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC06_06B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_WAR_MUSIC_R01.wav" />
+    </message>
+    <message uid="Blockade">
+        <speech filename="RC06_06E01_Blockade_History_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 1">
+        <speech filename="RC06_06E02_Naval_Salvage_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC06_06E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 1 completed">
+        <speech filename="RC06_06E04_Salvage_Complete_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC06_06E05_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="workers">
+        <speech filename="RC06_06E06_Unemployment_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC06_06W_Victory_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_TRIUMPH_MUSIC_R01.wav" />
+    </message>
+</media_localization>

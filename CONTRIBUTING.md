@@ -23,3 +23,14 @@ Abra uma issue e informe missão, UID/evento, versão do Augustus, origem da ins
 - imitação deliberada de voz real existente.
 
 Ao enviar uma contribuição, você declara que possui direito de fornecê-la ao projeto para avaliação e inclusão. A licença definitiva do projeto ainda será definida antes de uma versão estável.
+
+## Companions de mídia nativa
+
+Não edite manualmente os 20 arquivos em `Reconquered Campaign/localization/pt-BR/media/`. Altere os planos aprovados e execute:
+
+```sh
+python3 generate_native_media_overlays.py
+python3 generate_native_media_overlays.py --check
+```
+
+Cada UID precisa existir no overlay textual correspondente. Somente nomes simples de arquivo são aceitos; diretórios, prefixos de drive e travessia de caminho são proibidos. A mídia deve ser criação própria ou possuir autorização de distribuição comprovável.

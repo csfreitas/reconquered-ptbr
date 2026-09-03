@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC05_05B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_WAR_MUSIC_R01.wav" />
+    </message>
+    <message uid="Iron deposits">
+        <speech filename="RC05_05E01_Iron_Deposits_History_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 1">
+        <speech filename="RC05_05E02_Weapons_Objective_History_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC05_05E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 2">
+        <speech filename="RC05_05E04_Governor_Residence_PTBR_G01.wav" />
+    </message>
+    <message uid="side objective 2 completed">
+        <speech filename="RC05_05E05_Iberian_Gold_PTBR_G01.wav" />
+    </message>
+    <message uid="Punic War">
+        <speech filename="RC05_05E06_Punic_War_History_PTBR_G01.wav" />
+    </message>
+    <message uid="smithies done">
+        <speech filename="RC05_05E07_Weapons_Industry_Complete_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC05_05E08_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="collapse">
+        <speech filename="RC05_05E09_Mine_Collapse_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC05_05W_Victory_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_TRIUMPH_MUSIC_R01.wav" />
+    </message>
+</media_localization>

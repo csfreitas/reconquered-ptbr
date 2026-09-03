@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC04_04B_Briefing_PTBR_G02.wav" />
+        <background_music filename="RC_PTBR_B_WAR_MUSIC_R01.wav" />
+    </message>
+    <message uid="funding">
+        <speech filename="RC04_04E01_Funding_PTBR_G02.wav" />
+    </message>
+    <message uid="side objective 1">
+        <speech filename="RC04_04E02_Caravanserai_Objective_PTBR_G02.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC04_04E03_Subsidy_Ends_PTBR_G02.wav" />
+    </message>
+    <message uid="side objective 1 completed">
+        <speech filename="RC04_04E04_Trade_Routes_PTBR_G02.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC04_04E05_Plaza_PTBR_G02.wav" />
+    </message>
+    <message uid="wheat">
+        <speech filename="RC04_04E06_Wheat_Objective_History_PTBR_G02.wav" />
+    </message>
+    <message uid="wheat done">
+        <speech filename="RC04_04E07_Wheat_Unlocked_PTBR_G04.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC04_04W_Victory_PTBR_G02.wav" />
+        <background_music filename="RC_PTBR_W_TRIUMPH_MUSIC_R01.wav" />
+    </message>
+</media_localization>

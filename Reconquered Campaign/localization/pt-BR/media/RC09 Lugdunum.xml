@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC09_09B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_URB_MUSIC_R01.wav" />
+    </message>
+    <message uid="mint">
+        <speech filename="RC09_09E01_City_Mint_PTBR_G01.wav" />
+    </message>
+    <message uid="mint done">
+        <speech filename="RC09_09E02_Mint_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC09_09E03_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="civil war">
+        <speech filename="RC09_09E04_Civil_War_History_PTBR_G01.wav" />
+    </message>
+    <message uid="natives">
+        <speech filename="RC09_09E05_Stubborn_Locals_History_PTBR_G01.wav" />
+    </message>
+    <message uid="natives done">
+        <speech filename="RC09_09E06_Mission_Posts_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC09_09E07_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="vines">
+        <speech filename="RC09_09E08_Ceres_Worship_PTBR_G01.wav" />
+    </message>
+    <message uid="vines done">
+        <speech filename="RC09_09E09_Vines_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="public works">
+        <speech filename="RC09_09E10_Public_Works_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC09_09W_Victory_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_PROSP_MUSIC_R01.wav" />
+    </message>
+</media_localization>

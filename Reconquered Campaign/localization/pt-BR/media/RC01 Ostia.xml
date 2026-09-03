@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC01_Ostia_Briefing_PTBR_MASTER.wav" />
+        <background_music filename="RC_PTBR_B_CIV_MUSIC_R01.wav" />
+    </message>
+    <message uid="Drought">
+        <speech filename="RC01_Ostia_Drought_PTBR_MASTER.wav" />
+    </message>
+    <message uid="Drought avoided">
+        <speech filename="RC01_Ostia_Drought_Avoided_PTBR_MASTER.wav" />
+    </message>
+    <message uid="Croton">
+        <speech filename="RC01_Ostia_Croton_PTBR_MASTER.wav" />
+    </message>
+    <message uid="Schools and Entertainment">
+        <speech filename="RC01_Ostia_Schools_Entertainment_PTBR_MASTER.wav" />
+    </message>
+    <message uid="Victory">
+        <speech filename="RC01_Ostia_Victory_PTBR_MASTER.wav" />
+        <background_music filename="RC_PTBR_W_DUTY_MUSIC_R01.wav" />
+    </message>
+</media_localization>

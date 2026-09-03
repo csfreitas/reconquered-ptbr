@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC02_02B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_CIV_MUSIC_R01.wav" />
+    </message>
+    <message uid="subsidies">
+        <speech filename="RC02_02E01_Subsidy_PTBR_G01.wav" />
+    </message>
+    <message uid="workshops">
+        <speech filename="RC02_02E02_Workshops_PTBR_G01.wav" />
+    </message>
+    <message uid="elections">
+        <speech filename="RC02_02E03_Elections_History_PTBR_G01.wav" />
+    </message>
+    <message uid="Marble">
+        <speech filename="RC02_02E04_Marble_Proposal_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC02_02E05_Plaza_PTBR_G01.wav" />
+    </message>
+    <message uid="marble completed">
+        <speech filename="RC02_02E07_Marble_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="elections won">
+        <speech filename="RC02_02E08_Elections_Won_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC02_02W_Victory_Consul_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_DUTY_MUSIC_R01.wav" />
+    </message>
+</media_localization>

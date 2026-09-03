@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC15_15B_Briefing_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_MED_MUSIC_R01.wav" />
+    </message>
+    <message uid="objective 1">
+        <speech filename="RC15_15E01_Food_Program_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC15_15E02_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="objective 1 completed">
+        <speech filename="RC15_15E03_Shipments_PTBR_G01.wav" />
+    </message>
+    <message uid="Pirates Raid trade routes">
+        <speech filename="RC15_15E04_Pirate_Raid_PTBR_G01.wav" />
+    </message>
+    <message uid="Pirates wiped out">
+        <speech filename="RC15_15E05_Coastline_Secured_History_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC15_15E06_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC15_15W_Victory_Augustus_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_PROSP_MUSIC_R01.wav" />
+    </message>
+</media_localization>

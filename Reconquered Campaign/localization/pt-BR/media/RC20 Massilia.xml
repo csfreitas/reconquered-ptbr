@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<media_localization version="1" language="pt-BR">
+    <message uid="intro">
+        <speech filename="RC20_20B_Briefing_Senate_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_B_WAR_MUSIC_R01.wav" />
+    </message>
+    <message uid="large temples">
+        <speech filename="RC20_20E01_Large_Temples_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="large temples done">
+        <speech filename="RC20_20E02_Large_Temples_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="garum">
+        <speech filename="RC20_20E03_Garum_Production_History_PTBR_G01.wav" />
+    </message>
+    <message uid="patrician objective done">
+        <speech filename="RC20_20E04_Romanization_Completed_PTBR_G01.wav" />
+    </message>
+    <message uid="second wine">
+        <speech filename="RC20_20E05_Second_Wine_Choice_PTBR_G01.wav" />
+    </message>
+    <message uid="plaza">
+        <speech filename="RC20_20E06_Plaza_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="subsidy">
+        <speech filename="RC20_20E07_Subsidy_Ends_PTBR_G01.wav" />
+    </message>
+    <message uid="poem">
+        <speech filename="RC20_20E08_Poem_Of_The_Sea_PTBR_G01.wav" />
+    </message>
+    <message uid="statues">
+        <speech filename="RC20_20E09_Statues_Objective_PTBR_G01.wav" />
+    </message>
+    <message uid="statues done">
+        <speech filename="RC20_20E10_Statues_Unlocked_PTBR_G01.wav" />
+    </message>
+    <message uid="victory">
+        <speech filename="RC20_20W_Final_Victory_Consul_PTBR_G01.wav" />
+        <background_music filename="RC_PTBR_W_FINALE_MUSIC_R01.wav" />
+    </message>
+</media_localization>
