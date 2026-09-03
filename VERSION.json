@@ -1,11 +1,13 @@
 {
-  "version": "0.1.0-beta.1",
-  "released_for": "community-testing",
+  "version": "1.0.0-rc.2",
+  "status": "community-prerelease-in-game-qa-pending",
   "baseline": "Reconquered Current public fileid=2243",
-  "baseline_manifest_sha256": "CA47BDCF991C47D9DC42D6C2D0517F95D3D0E9C6F8840C132153313C93831AC0",
-  "localized_missions": ["RC01", "RC02", "RC03"],
-  "optional_audio": ["RC01 victory G05"],
+  "localized_missions": 20,
+  "localized_messages": 198,
+  "speech_files": 197,
+  "music_files": 10,
   "augustus_requirement": "PR #1893 or compatible build",
-  "status": "approved-community-beta",
-  "not_official": true
+  "not_official": true,
+  "remote_publication": true,
+  "supersedes": "v1.0.0-rc.1"
 }

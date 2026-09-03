@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Damasco</title>
+        <subtitle>Fundação da Síria Romana</subtitle>
+        <text> @G[c3 stills_120.png]@L  
+		@H Contexto Histórico @L
+		A província romana da Síria foi organizada por Pompeu em 64 a.C., depois que ele encerrou os últimos vestígios do reino selêucida; isso não foi consequência direta da campanha contra os piratas. A região de Damasco possui ocupação desde o Neolítico e a cidade foi um importante centro político e comercial sob diferentes povos. As rotas sírias conectariam o Mediterrâneo ao comércio oriental, inclusive à seda chinesa transportada por muitos intermediários. @L@L
+		Durante grande parte da história romana, a maior potência além da fronteira síria foi o Império Parta. Ele não era um Estado sucessor macedônico: a dinastia arsácida, de origem iraniana, conquistou territórios do Império Selêucida e combinou tradições iranianas, helenísticas e locais. Seus exércitos destacavam-se pela cavalaria, especialmente arqueiros montados e cavaleiros pesados. @L@L
+		Como mencionado, a expedição de Crasso terminou em desastre na Batalha de Carras, em 53 a.C. Décadas depois, em 36 a.C., Marco Antônio invadiu o território parto por uma rota ligada à Armênia, cujo rei Artavasdes II era aliado instável de Roma. @L@L
+		Problemas de planejamento, logística, máquinas de cerco e coordenação tornaram a campanha de Antônio um fracasso. A retirada causou perdas graves por ataques, fome, doenças e clima. A Armênia não foi simplesmente subjugada pelos partas em consequência imediata: Antônio voltou-se depois contra Artavasdes, ocupou o reino e levou o rei prisioneiro ao Egito, enquanto a disputa romano-parta pela região continuou. @L@L
+		Os partas invadiram a Síria e outras províncias romanas em 40 a.C., não em 53 a.C., sob o príncipe Pácoro e com participação do romano Quinto Labieno. Públio Ventídio Basso derrotou os invasores em campanhas de 39 e 38 a.C.; Pácoro, herdeiro do trono, morreu em combate, mas o rei Orodes II não foi morto por Ventídio. Infantaria bem posicionada, fundeiros e o uso do terreno ajudaram a neutralizar a cavalaria parta. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Bem-vindo à Síria, governador. A missão não será simples. A região não possui acesso fácil a água potável, o que limitará o crescimento de qualquer assentamento permanente. As comunidades locais controlam os oásis; até negociar com elas, você dependerá de poços. @L@L
+		Damasco não tem acesso fácil ao mar, deixando grande parte do oeste da República fora de alcance, mas o potencial de comércio terrestre é imenso. A região também possui minério de ferro de alta qualidade, valorizado e adequado à fabricação de armas. Oliveiras e videiras crescem perto dos oásis. Sua principal dificuldade econômica será obter argila, inexistente localmente. @L@L
+		Não subestime a atividade militar. A Pártia está em guerra com a República e deseja retirar a região do controle romano; espere ataques exploratórios e incursões. Estabeleça defesas adequadas para que Damasco não pareça um alvo fácil. Boa sorte, governador: orgulhe o Senado e transforme Damasco numa próspera cidade romana. @L@L
+		
+		@H Éditos @L@
+		Geography @of @Damascus - Ferro e armas têm grande demanda, enquanto argila e cerâmica são importações caras. O acesso a reservatórios começa fortemente restrito e poderá ser ampliado no futuro. Oráculos, mausoléus e ninfeus estão indisponíveis. @L@L
+		@Eastern@ Provinces - Você só pode construir e manter funcionários em um único fórum. A colônia deverá sustentar-se principalmente pelo comércio. Mais de 1 fórum provocará penalidades. @L@L
+		@H Informações Adicionais @L
+		Roma ainda é uma república nesta missão. Interprete os pedidos de “César” como determinações do Senado Romano. @L@L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="iron requests">
+        <title>(!) Ferro de Damasco (!)</title>
+        <subtitle>A República Exige Ferro</subtitle>
+        <text> @G[c3 stills_142.png]@L  
+		@H Mensagem @L
+		Governador, a República necessita de ferro para armas, ferramentas e outros equipamentos. Ferro de alta qualidade é essencial ao Senado e ao povo de Roma. Felizmente, Damasco é o lugar perfeito para estabelecer mineração em grande escala. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		A partir de agora, Roma solicitará ferro anualmente. Pedidos de outras mercadorias poderão ocorrer ao mesmo tempo. @G[Damascene_Steel.png] @G[decorative objetive .png] @L@L@L@L
+		@H Contexto Histórico @L
+		Embora não esteja diretamente ligado ao ferro, examinaremos aspectos da vida cotidiana romana. Uma moradia urbana comum era a ínsula, edifício de apartamentos e lojas construído com alvenaria, concreto e madeira em proporções variadas. Os pisos térreos podiam abrigar lojas, oficinas, tavernas e @thermopolia, que vendiam comidas e bebidas. @L@L
+		Em muitas ínsulas, os apartamentos superiores eram menores, mais baratos e mais difíceis de alcançar. Incêndios, desabamentos e construção deficiente constituíam riscos, embora qualidade e organização variassem entre cidades e edifícios. @L@L
+		Romanos ricos podiam pagar ligações privadas aos aquedutos. A água corria principalmente pela gravidade e era distribuída por reservatórios e tubulações; não era “bombeada” no sentido moderno. A maioria da população dependia de fontes públicas, poços e carregadores. @L@L
+		Drenagem e esgoto variavam muito. Grandes cidades possuíam canais como a Cloaca Máxima, mas seu alcance não era universal. Águas residuais e lixo podiam acumular-se em ruas e bairros pobres, apesar de calçadas, sarjetas e normas locais. @L@L
+		Os hábitos alimentares dependiam de riqueza, região e ocupação. Um café da manhã simples podia incluir pão, queijo, frutas ou sobras, mas não era necessariamente a maior refeição. Trabalhadores precisavam de alimentação suficiente, embora pobreza e desigualdade limitassem a dieta. @L@L
+		O almoço geralmente era leve e podia ser comprado em bancas ou @thermopolia. Pães achatados com queijo, ervas, azeite, azeitonas, figos ou carne lembram algumas preparações modernas, mas chamá-los de precursores diretos da pizza é simplificação. Tomates eram desconhecidos na Europa antiga. Espetos e outros alimentos fáceis de transportar também existiam. @L@L
+		A @cena, refeição do fim do dia, costumava ser a principal refeição para quem podia realizá-la, variando de uma refeição modesta a banquetes da elite. @L@L
+		Fogo aberto, lamparinas, oficinas e abundância de madeira tornavam os incêndios urbanos perigosos. Roma e outras cidades sofreram grandes conflagrações. @L@L
+		Augusto organizou em 6 d.C. os @vigiles como força pública permanente de vigilância noturna e combate a incêndios, formada sobretudo por libertos e organizada em coortes. Antes disso, existiram iniciativas públicas e brigadas privadas compostas por pessoas escravizadas, mas @vigiles não era simplesmente o nome de todos esses escravos. @L@L
+		Durante incêndios, equipes usavam baldes, bombas manuais, ganchos e ferramentas. Edifícios podiam ser derrubados para criar corta-fogos, prática comparável à abertura de faixas sem combustível em incêndios florestais. Os vigiles também patrulhavam as ruas e atuavam contra roubos e desordens noturnas. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="objective 1">
+        <title>(!) Missionários (!)</title>
+        <subtitle>Garantindo Água Potável</subtitle>
+        <text> @G[c3 stills_67.png]@L  
+		@H Mensagem @L
+		Governador, sem água potável, o potencial de crescimento de Damasco ficará gravemente limitado. Para obter acesso, precisamos negociar com as comunidades que atualmente recusam nossa entrada nos oásis. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Alcance 2.500 habitantes e acumule 7.000 denários para liberar postos missionários. No momento da liberação, 5.000 denários serão gastos. @G[Missionaries.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Damasco não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L
+		</text>
+    </message>
+
+    <message uid="objective 1 completed">
+        <title>(!) Postos Missionários (!)</title>
+        <subtitle>Comunidades Locais Pacificadas</subtitle>
+        <text>  @G[c3 stills_04.png]@L 
+		@H Mensagem @L
+		Governador, as comunidades locais observaram o crescimento da colônia e finalmente aceitaram negociar o acesso de nossos engenheiros aos oásis para construir reservatórios. Os termos são diretos: venderão os direitos sobre a água por 5.000 denários e exigirão postos missionários romanos junto a cada oásis, conforme a política da colônia. @L@L
+		@H Recompensa @L 
+		Postos missionários liberados. Foram pagos 5.000 denários aos líderes locais. @G[Locals_Pacified.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Scouts">
+        <title>(!) Batedores (!)</title>
+        <subtitle>Equites Damasceni</subtitle>
+        <text> @G[c3 stills_122.png]@L 
+		@H Mensagem @L
+		Governador, chegou um relatório do capitão da milícia: @L
+		“Salve, governador. Recebi informações contraditórias sobre as possíveis rotas de invasão. Alguns afirmam que o interior é intransponível para destacamentos partas; outros sustentam que todas as vias óbvias são ameaças. Imploro que recrute batedores de cavalaria para investigar minuciosamente cada acesso que as forças invasoras poderão utilizar.” @L@L
+		Seu fiel capitão, @L
+		Gaius Zaccharias Lusor @L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Mantenha 1 forte de cavalaria e 48 soldados ativos para receber informações vitais. @G[cavalry.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="scouts completed">
+        <title>(!) Fronteira Segura (!)</title>
+        <subtitle>Batedores de Cavalaria Retornam</subtitle>
+        <text> @G[c3 stills_98.png]@L 
+		@H Mensagem @L
+		Salve, governador. Pela graça de Marte, seu capitão informa que os batedores identificaram áreas orientais protegidas contra qualquer ataque pelo terreno intransponível. @L@L
+		@H Inteligência @L
+		A borda aberta do mapa próxima ao ponto de saída está protegida contra invasões. @G[free_invations.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="Far East">
+        <title>(!) Império do Extremo Oriente (!)</title>
+        <subtitle>Novos Mercados</subtitle>
+        <text> @G[c3 stills_14.png]@L
+		@H Mensagem @L
+		Governador, exploradores de um império desconhecido no Oriente chegaram a Damasco. Os mercados que representam poderão oferecer novas oportunidades lucrativas, mas o líder da expedição exige um grande tributo a alguém chamado “Filho do Céu” antes de enviar caravanas. @L@L
+		Talvez o poderoso Júpiter ou Marte tenha visitado essas terras e um descendente governe ali? De qualquer modo, nossos diplomatas e estudiosos estão fascinados pelos estrangeiros, por suas roupas e mercadorias exóticas. @L@L
+		@H Novo Desenvolvimento @L
+		Novo parceiro comercial liberado. @G[ruta_nueva.png] @L@L
+		@H Contexto Histórico @L
+		Produtos chineses, sobretudo seda, chegaram ao mundo romano por intermediários muito antes de qualquer contato diplomático registrado. Em 97 d.C., o enviado chinês Gan Ying alcançou a região do golfo Pérsico, mas não chegou a Roma. Uma missão registrada na China em 166 d.C. afirmou representar o governante romano; talvez fosse composta por mercadores, e não prova o início do comércio apenas naquele ano. @L@L
+		O intercâmbio utilizava caravanas terrestres e rotas marítimas pelo oceano Índico. Seda e especiarias seguiam para o oeste, enquanto vidro, metais, moedas e outros produtos romanos viajavam para o leste. A distância e os muitos intermediários limitavam o volume e o contato direto. A economia romana continuava baseada principalmente no comércio interno e com regiões vizinhas. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="Forum">
+        <title>(!) Ira do Senado (!)</title>
+        <subtitle>Violação Tributária</subtitle>
+        <text> @G[c3 stills_57.png]@L
+		@H Mensagem @L
+		Governador, impostos e tarifas locais serão administrados diretamente por representantes de Roma, com uma parcela fixa destinada à manutenção da cidade. Interrompa qualquer cobrança excedente ou sofrerá as consequências. @L@L
+		@H Novo Desenvolvimento @L
+		Você perdeu 20 de Apreço e 1.500 denários. A penalidade poderá repetir-se; além do Senado, somente um fórum é permitido para tributação. @G[menos_favor_money.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Damasco Próspera</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Eu o aplaudo, governador. Damasco agora é uma verdadeira cidade romana. Alcançar esse resultado no ambiente inóspito da Síria não foi tarefa pequena. @L@L
+		Em Londinium, você aprenderá a usar economias de escala: venderá muito mais produtos por preços menores para financiar uma enorme cidade na Britânia. @L@L
+		</text>
+    </message>
+</localization>

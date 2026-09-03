@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Lugdunum</title>
+        <subtitle>A Maior Cidade da Gália Romana</subtitle>
+        <text> @G[c3 stills_116.png]@L 
+		@H Contexto Histórico @L
+		Lugdunum, a atual Lyon, foi fundada pelos romanos em 43 a.C. sob a direção de Lúcio Munácio Planco e recebeu inicialmente o nome de @Colonia @Copia @Felix @Munatia. O nome Lugdunum aparece nas fontes e moedas ainda no fim da República e se consolidou durante o período imperial. @L@L
+		A conquista da Gália por Caio Júlio César ocorreu principalmente entre 58 e 50 a.C., mas não criou imediatamente uma única província chamada “Gália Romana”. Os territórios conquistados foram administrados de formas provisórias e posteriormente reorganizados. Sob Augusto, a Gália foi dividida nas províncias da Aquitânia, Bélgica e Lugdunense, enquanto a antiga Gália Transalpina tornou-se a Narbonense. @L@L
+		A Gália não era uma nação unificada, mas um conjunto de povos com línguas e costumes relacionados, além de importantes diferenças políticas e regionais. Suas sociedades não eram simplesmente “menos avançadas” que Roma: possuíam especializações próprias em agricultura, metalurgia, artesanato e comércio. É provável que os romanos tenham adotado ou desenvolvido a cota de malha, a @lorica @hamata, por contato com povos célticos do norte da Itália. @L@L
+		Os exércitos gauleses podiam reunir nobres a cavalo ou a pé, acompanhados de seus dependentes e guerreiros. Grande parte da força era formada por infantaria com lanças e escudos, além de tropas ligeiras. Arcos aparecem nas evidências, embora a composição e o armamento variassem muito entre povos e campanhas. @L@L 
+		Cavaleiros ligeiros eram empregados em incursões, reconhecimento e ataques às linhas de abastecimento. César venceu muitos adversários por disciplina, logística e tática, mas também dependia de aliados e tropas auxiliares. Antes de grandes combates, suas forças construíam fossos, estacas, armadilhas, paliçadas, torres e posições para artilharia leve. @L@L 
+		Essa engenharia atingiu escala extrema no cerco de Alésia, quando o exército de César construiu duas linhas de fortificações: uma voltada para os sitiados e outra contra o exército de socorro. Habitantes mandúbios expulsos da fortaleza ficaram presos entre os dois lados. Vercingetórix não os readmitiu para preservar os suprimentos, e César recusou sua passagem; sofreram fome e exposição. As fontes não permitem determinar com segurança quantas pessoas morreram. @L@L
+		É fácil reduzir episódios assim a números, mas isso empobrece a história. Essas pessoas tinham vidas, preocupações e motivações próprias. Examinar a tragédia com empatia permite compreender melhor o custo humano dos acontecimentos. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Bem-vindo à Gália, governador. O clima é frio demais para oliveiras e pouco favorável às videiras, muitas comunidades locais resistem às mudanças romanas e a economia está estagnada. Sua tarefa é resolver a maior parte desses problemas — exceto o clima, naturalmente. Muitas cidades da região exportam matérias-primas excedentes; aproveite-as para transformar Lugdunum num centro manufatureiro. @L@L
+		Algumas cidades ainda desejarão comprar o excelente ferro, a argila ou a areia de Lugdunum. Há até rumores de veios de ouro nas áreas rochosas ao redor da futura cidade. Para reforçar a economia, estabeleça uma Casa da Moeda municipal. Como governador, você poderá reservar parte da renda para financiar jogos locais; a plebe certamente ficará inquieta nesta paisagem sombria. @L@L
+		Uma última questão diz respeito às comunidades locais. Até agora, elas resistiram aos esforços de romanização, dificultando nosso planejamento urbano. Ensine-lhes um pouco de latim e ofereça produtos para comércio, demonstrando os benefícios do domínio romano. @L@L@L
+		
+		@H Éditos @L
+		@Barbaric@ Province - Os salários subirão para níveis consideráveis, o terreno é acidentado e comunidades locais ou lobos ocupam áreas importantes para a expansão. @L@L Videiras e vinho permanecerão indisponíveis até a cidade atingir 5.000 habitantes. @L@L
+		@Civil @Wars - Pedidos de armas, ouro, dinheiro e trigo serão frequentes. A missão reúne acontecimentos das guerras civis envolvendo Marco Antônio e Caio Otávio, mais tarde conhecido como Augusto. @L@L
+		@H Informações Adicionais @L
+		Não haverá atividade militar em Lugdunum, a menos que você force legiões romanas a cobrar dívidas. O mapa já é difícil para muitos jogadores, portanto os eventos serão relativamente tolerantes. @L@L
+		Há comunidades nativas no mapa. Elas se revoltarão se você construir edifícios nas terras que reivindicam como suas; estradas, rodovias e postos missionários podem ser construídos com segurança. Use a visualização de “risco nativo” para identificar as áreas disponíveis. @L@L 
+		Pacificar essas comunidades com postos missionários não é necessário para vencer. Se desejar fazê-lo, um evento apresentará novas instruções quando a população atingir 3.500 habitantes. @L@L
+ 		Roma ainda é, por pouco tempo, uma república. Interprete os pedidos de “César” como determinações do Senado Romano. @L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas após o fim do subsídio. Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L
+		Historicamente, você deveria começar com uma cidade já construída, mas poucos jogadores apreciariam isso. Caberá a você erguer tudo do zero. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="mint">
+        <title>(!) Cunhagem (!)</title>
+        <subtitle>Casa da Moeda Municipal</subtitle>
+        <text> @G[c3 stills_123.png]@L 
+		@H Mensagem @L
+		Governador, o ouro local nos oferece uma oportunidade única. Se estabelecermos uma Casa da Moeda municipal, poderemos empregá-lo para fortalecer a economia da cidade. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa uma Casa da Moeda e forneça-lhe funcionários para receber uma recompensa. Enquanto ela estiver ativa e houver ouro nos armazéns, você receberá 100 denários adicionais por mês, além de sua função habitual. @G[city_mint_full.png] @G[decorative objetive .png] @L@L Possuir uma residência do governador e uma Casa da Moeda em funcionamento também concederá uma pequena renda pessoal adicional. @G[gob_house.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="mint done">
+        <title>(!) Casa da Moeda Concluída (!)</title>
+        <subtitle>Renda Adicional</subtitle>
+        <text> @G[c3 stills_04.png]@L 
+		@H Mensagem @L
+		Bom trabalho, governador. A Casa da Moeda está em funcionamento, e logo veremos seus benefícios. @L@L
+		@H Recompensa @L
+		De agora em diante, você receberá 100 denários adicionais por mês enquanto houver ouro nos armazéns e a Casa da Moeda estiver ativa. @G[more_funds.png] @L@L@L 
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Lugdunum não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+    </message>
+
+    <message uid="civil war">
+        <title>(!) Guerra Civil (!)</title>
+        <subtitle>Luta pela Supremacia</subtitle>
+        <text> @G[c3 stills_109.png]@L 
+		@H Mensagem @L
+		Governador, a guerra civil recomeçou. Não estamos em posição de escolher um lado, mas forneceremos ao Senado tudo o que nos for solicitado. Esperemos que a crise termine em breve. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		Pedidos de armas, ouro e trigo passarão a ocorrer com maior frequência. @G[Struggle_for_Dominance.png] @G[decorative objetive .png] @L
+		
+		@H Contexto Histórico @L
+		Para compreender as guerras civis, é útil começar pelas transformações do exército romano. No sistema manipular, muitos soldados ainda eram cidadãos mobilizados segundo sua condição econômica e forneciam parte do próprio equipamento. Sua identidade política estava ligada a Roma e às comunidades aliadas. Depois da Guerra Social, no início do século I a.C., a cidadania foi ampliada a grande parte dos itálicos, aprofundando uma identidade romana comum. @L@L
+		As elites da cidade ainda podiam desprezar pessoas nascidas fora de Roma. Ao mesmo tempo, a expansão territorial exigia exércitos maiores e campanhas mais longas. Caio Mário teve papel importante nas guerras do fim do século II a.C., mas a ideia de um único pacote de “reformas marianas” instituído em 107 a.C. é contestada. Recrutamento, organização e equipamento mudaram gradualmente. @L@L
+		A águia tornou-se o principal estandarte legionário, e as antigas categorias de hastati, principes, triarii e vélites desapareceram ao longo do processo de formação da legião de coortes. O Estado passou a assumir parcela crescente do equipamento, ampliando o recrutamento de cidadãos pobres. A duração padronizada de 25 anos e os sistemas regulares de aposentadoria pertencem sobretudo ao período imperial, embora comandantes republicanos já buscassem terras e recompensas para veteranos. @L@L
+		Isso podia ligar a lealdade dos soldados ao general que prometia pagamento, espólios e terras e pressionava o Senado em favor dos veteranos. Governadores vitoriosos também dependiam de reconhecimento político para ratificar decisões e celebrar conquistas, alimentando conflitos com adversários em Roma. @L@L
+		Essas mudanças contribuíram para as guerras civis, mas não foram sua única causa. Competição aristocrática, desigualdade, violência política e comandos prolongados também foram decisivos. Os legionários carregavam ferramentas e construíam acampamentos, estradas, pontes e obras públicas. A combinação de disciplina, engenharia, logística e capacidade de recuperação transformou o exército romano num instrumento de conquista sem paralelo no Mediterrâneo. 
+		@L@L@L@L
+		</text>
+    </message>
+
+    <message uid="natives">
+        <title>(!) Comunidades Resistentes (!)</title>
+        <subtitle>Habitantes Locais Rejeitam a Influência Romana</subtitle>
+        <text> @G[c3 stills_76.png]@L 
+		@H Mensagem @L
+		Governador, nossos esforços até agora não produziram resultado. As comunidades locais permanecem firmes em seus costumes, mas surgiu uma possível solução. Se enviarmos produtos romanos como presente, talvez reconheçam as vantagens de estabelecer relações comerciais. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Armazene 16 unidades de azeite e 16 de móveis. Esses produtos serão consumidos para conquistar a confiança dos habitantes e liberar o posto missionário. @L 
+		@G[Stubborn_Locals.png] @G[decorative objetive .png] @L@L@L
+		
+		@H Contexto Histórico @L
+		As primeiras campanhas de César envolveram aliados gauleses, a migração dos helvécios e a intervenção contra Ariovisto, rei germânico que atravessara o Reno. César apresentou suas ações como proteção de aliados e mediação de disputas, mas também ampliou deliberadamente a presença militar e política de Roma. @L@L
+		Com o avanço da guerra, diversos povos formaram coalizões contra os romanos e, em 52 a.C., muitos se uniram sob Vercingetórix. César havia aumentado suas forças, criado legiões e empregado cavalaria auxiliar, inclusive germânica, antes de enfrentar a grande revolta. @L@L
+		César tratou com brutalidade várias comunidades adversárias. Cidades foram saqueadas, povoados destruídos e populações mortas ou escravizadas, práticas comuns na guerra antiga, mas devastadoras. Plutarco atribui às campanhas a conquista de mais de 800 cidades, um milhão de mortos e outro milhão de escravizados; esses totais são amplamente discutidos e não podem ser aceitos como contagem segura. @L@L
+		Fontes antigas frequentemente exageram exércitos e destruição. Ainda assim, não há dúvida de que a guerra causou enorme perda populacional, deslocamento, escravização e destruição material na Gália. @L@L
+		Alguns estudiosos e comentaristas modernos discutem se determinadas ações, especialmente tentativas de destruir grupos específicos como os eburões, podem ser analisadas com conceitos próximos ao genocídio. O fato de a violência extrema ser aceita no mundo antigo ajuda a explicar o contexto, mas não elimina a responsabilidade nem o sofrimento das vítimas. @L@L
+		Roma também incorporou aliados e elites gaulesas, e alguns notáveis receberam cidadania ou, posteriormente, assentos no Senado. Isso mostra que a política romana não buscava exterminar todas as pessoas por etnia, mas podia destruir comunidades, instituições e culturas que resistissem ao domínio. @L@L
+		O objetivo não é julgar César de forma simplista nem justificar suas ações. As evidências, os limites das fontes e o custo humano devem ser apresentados para que o leitor forme sua própria avaliação. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="natives done">
+        <title>(!) Postos Missionários (!)</title>
+        <subtitle>Habitantes Locais Admiram o Artesanato Romano</subtitle>
+        <text> @G[c3 stills_70.png]@L
+		@H Mensagem @L
+		As comunidades locais vieram procurar novos produtos. Podemos aproveitar a oportunidade para enviar representantes e intérpretes e ampliar a influência romana. @L
+		@H Recompensa @L
+		Postos missionários liberados. @G[missionary_post.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="vines">
+        <title>(!) Culto a Ceres (!)</title>
+        <subtitle>Deusa da Fertilidade</subtitle>
+        <text> @G56 
+		@H Mensagem @L
+		Infelizmente, não parece haver maneira de obter videiras para a cidade. Isso dificultará a atração de patrícios, etapa vital de nosso desenvolvimento. Se construirmos um Grande Templo de Ceres, deusa da agricultura e da fertilidade, talvez sua bênção permita o cultivo local de uvas. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		A construção do Grande Templo de Ceres liberará o cultivo local de videiras. @G[gt_ceres_med.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="vines done">
+        <title>(!) Videiras e Vinho (!)</title>
+        <subtitle>Ceres se Agrada de Nossa Devoção</subtitle>
+        <text> @G56
+		@H Mensagem @L
+		Ceres nos concedeu sua bênção: mudas de videira estão brotando e prontas para o cultivo. 
+		@H Recompensa @L
+		Videiras e vinho liberados. @G[obj_wine.png] @L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Lugdunum Lucrativa</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L
+		@H Missão Concluída @L
+		Tarefa muito bem executada, governador. Lugdunum é uma colônia próspera e instruída, exemplo para todas as cidades da Gália Romana. @L@L
+		Prepare-se: Carthago será o próximo teste de suas habilidades administrativas. @L@L
+		</text>
+    </message>
+
+    <message uid="public works">
+        <title>(!) Serviço Militar (!)</title>
+        <subtitle>Obras Públicas</subtitle>
+        <text> @G[c3 stills_76.png]@L 
+		@H Mensagem @L
+		Governador, nossos soldados não têm outras obrigações além de proteger a província contra animais selvagens e manter a ordem pública. Por isso, também foram designados para auxiliar no desenvolvimento provincial e na cobrança de tarifas. 
+		@H Novo Desenvolvimento @L
+		Enquanto você mantiver pelo menos 1 forte completo de qualquer tipo em atividade, receberá 75 denários por mês.
+		 @L@L
+		</text>
+    </message>
+</localization>

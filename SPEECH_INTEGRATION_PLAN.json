@@ -1,0 +1,1920 @@
+{
+  "version": "1",
+  "status": "approved-artistic-baselines-packaged-community-functional-qa-pending",
+  "baseline": "Reconquered public current / fileid=2243",
+  "missions": [
+    {
+      "id": "RC01",
+      "xml": "RC01 Ostia corrected.xml",
+      "baseline_sha256": "9D19E006236E2B242825C6A5537C50AD66B43225ECD03B88478039C15130471B",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC01_Ostia_Briefing_PTBR_MASTER.wav",
+          "sha256": "74AD008934780D1C39592024B6783A11095F8B85E011608C79E535E2E09B8ED1",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 127.76
+        },
+        {
+          "uid": "Drought",
+          "file": "RC01_Ostia_Drought_PTBR_MASTER.wav",
+          "sha256": "953017972F284DA751BF886C0BC189B52AA74847C4414ECDFCADD9C9CEB724ED",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 19.55
+        },
+        {
+          "uid": "Drought avoided",
+          "file": "RC01_Ostia_Drought_Avoided_PTBR_MASTER.wav",
+          "sha256": "4A96B12DF20E6016F94729EE11A2787BC1D3B359AB7D8F79F422F666E1FA8A5D",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 17.43
+        },
+        {
+          "uid": "Croton",
+          "file": "RC01_Ostia_Croton_PTBR_MASTER.wav",
+          "sha256": "CEA6854E66C470FA921335C2CC994CF91EF482B1C63E04FACF12F5B43669C79D",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 105.12
+        },
+        {
+          "uid": "Schools and Entertainment",
+          "file": "RC01_Ostia_Schools_Entertainment_PTBR_MASTER.wav",
+          "sha256": "C376DC0851EB551E5A3C4EE4C8131D7905EFCD1848C1E855F83CBF3132B77D2A",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 32.65
+        },
+        {
+          "uid": "Victory",
+          "file": "RC01_Ostia_Victory_PTBR_MASTER.wav",
+          "sha256": "77480D63942CA2026F4C4176049699A8CDD2758DD409A41320D638630DAB0626",
+          "channels": 1,
+          "sample_width_bits": 24,
+          "sample_rate_hz": 44100,
+          "duration_seconds": 22.32
+        }
+      ]
+    },
+    {
+      "id": "RC02",
+      "xml": "RC02 Brundisium corrected.xml",
+      "baseline_sha256": "2A04A7B66ADC95F7C65553B76CFC45CAC0B3F564BA0A86FF4CE4E3508AD76FE1",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC02_02B_Briefing_PTBR_G01.wav",
+          "sha256": "40874041261CEA652DB29259ED45B340316B5D9F05AF5ED4DC5799AA031C40EF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 224.143
+        },
+        {
+          "uid": "subsidies",
+          "file": "RC02_02E01_Subsidy_PTBR_G01.wav",
+          "sha256": "453BA321177486B3AE3A939E53B6BC349427CEF64AD32E3740F5C21C2B945AB6",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 30.291
+        },
+        {
+          "uid": "workshops",
+          "file": "RC02_02E02_Workshops_PTBR_G01.wav",
+          "sha256": "C40F8F7355CEC15691D1DE25004AED04654EBC92E60D24A567FBD2C040AA92C0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 33.736
+        },
+        {
+          "uid": "elections",
+          "file": "RC02_02E03_Elections_History_PTBR_G01.wav",
+          "sha256": "CD72296C7B66DB0154A47EF11D00B6F746DFAE0FD78B4D9E0F04FDF2AE6F1FB3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 77.5
+        },
+        {
+          "uid": "Marble",
+          "file": "RC02_02E04_Marble_Proposal_PTBR_G01.wav",
+          "sha256": "3BBD750677505EB0C991BDE0E0A279FDCDDCCDBC752C81CB4A013D64C8B4B601",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 116.259
+        },
+        {
+          "uid": "plaza",
+          "file": "RC02_02E05_Plaza_PTBR_G01.wav",
+          "sha256": "22ED06487F8588393DA5C10F7D4139FBFF8D3F42FB406E16B1933229FE849FB2",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.822
+        },
+        {
+          "uid": "marble completed",
+          "file": "RC02_02E07_Marble_Completed_PTBR_G01.wav",
+          "sha256": "0661951330B83A5D51389F1A6A3F7E61C8C311A3F76035517EE12356CF6378FC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.487
+        },
+        {
+          "uid": "elections won",
+          "file": "RC02_02E08_Elections_Won_PTBR_G01.wav",
+          "sha256": "40C6E4432C057667274EB57B4A54085F3F06F71C60AC0C4D38C38BE4CC701042",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.781
+        },
+        {
+          "uid": "victory",
+          "file": "RC02_02W_Victory_Consul_PTBR_G01.wav",
+          "sha256": "4F93C78564AA0469221A5F964D9447AAAC6932E1FD910268F966C393A6DD2D86",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 21.93
+        }
+      ]
+    },
+    {
+      "id": "RC03",
+      "xml": "RC03 Capua corrected.xml",
+      "baseline_sha256": "7CC8095E9DDC7982263C55438BDDD3E30443E89B0DA7F871683DE1FAF650031F",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC03_03B_Briefing_PTBR_G01.wav",
+          "sha256": "CE68B526F3BFC54E3639420E148D3843AD2B133C08240327AD5F05EEDD35EEA1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 276.549
+        },
+        {
+          "uid": "side objective 1",
+          "file": "RC03_03E01_Colosseum_Objective_PTBR_G01.wav",
+          "sha256": "EA58F694BB68FC3C1EFA57A9011ACCA46B80104CF7408A8C9020FE74957EE35D",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.187
+        },
+        {
+          "uid": "side objective 2",
+          "file": "RC03_03E02_Exotic_Animals_History_PTBR_G01.wav",
+          "sha256": "E217C318DD6C667AA75570A5F6526E2F2850312CA7A6DB74587553A35AA30CC5",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 44.358
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC03_03E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "C0DE98FA593952060546C0281C6B258BC58675DD65E08EF1B5D7DAFCF087716E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.414
+        },
+        {
+          "uid": "side objective 1 completed",
+          "file": "RC03_03E04_Colosseum_Completed_PTBR_G01.wav",
+          "sha256": "4A60CD84A021C66D3651866D2CD46CB4E2964EB313BC47E1C2DBC7C119569472",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 31.02
+        },
+        {
+          "uid": "side objective 2 completed",
+          "file": "RC03_03E05_Lighthouse_Completed_PTBR_G01.wav",
+          "sha256": "0BA319606BB44546426C8474AE6573784329CF8A5D96E325C1BF33F9028F6C97",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 19.151
+        },
+        {
+          "uid": "weapon requests start",
+          "file": "RC03_03E06_Weapon_Requests_History_PTBR_G01.wav",
+          "sha256": "3007A787B38F3931700DCCBFD15B46144A41784EAB440C71B9EDED646AEDDC30",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 38.324
+        },
+        {
+          "uid": "plaza",
+          "file": "RC03_03E07_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "E36BAA6093043C9128C064D35A158459094EC35AB1923F8046AACEF074DE22AA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.511
+        },
+        {
+          "uid": "depots",
+          "file": "RC03_03E08_Cart_Depots_Objective_PTBR_G01.wav",
+          "sha256": "45D3D693DC4DBAB75EC2C5F425E4B44023B6E3029BA2111A92C5DF2E155B8E52",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 18.671
+        },
+        {
+          "uid": "depots dcompleted",
+          "file": "RC03_03E09_Cart_Depots_Completed_PTBR_G01.wav",
+          "sha256": "1CAD87BDE5650BD5D375776FE9C705C58D5F673B270136F34793BDBD15E99F4C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.909
+        },
+        {
+          "uid": "Taverns",
+          "file": "RC03_03E11_Taverns_History_PTBR_G01.wav",
+          "sha256": "D490C04D8F5AF9C37E22C8C6934D754ADCD56B44A53FA087343ADBDDAA46133A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 92.678
+        },
+        {
+          "uid": "victory",
+          "file": "RC03_03W_Victory_Consul_PTBR_G01.wav",
+          "sha256": "8D7778CA99C303B5445846CA25626A092D851316BB7A73E414BF7C1EF86EE1E4",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 27.5
+        }
+      ]
+    },
+    {
+      "id": "RC04",
+      "xml": "RC04 Tarentum corrected.xml",
+      "baseline_sha256": "4612AC98B2F0D468B324B5B524031A9EE3663730DA67139B73A50E1731B5AA4E",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC04_04B_Briefing_PTBR_G02.wav",
+          "sha256": "54DFCB257605E3EDECB78F38D2AFA1EA94B1D4A220637E9C1763848613F0336B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 224.447
+        },
+        {
+          "uid": "funding",
+          "file": "RC04_04E01_Funding_PTBR_G02.wav",
+          "sha256": "3D62346B2FE945C757337D1A74C3D7445BB0FC11ED519F67733CA823FAA471AC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 64.65
+        },
+        {
+          "uid": "side objective 1",
+          "file": "RC04_04E02_Caravanserai_Objective_PTBR_G02.wav",
+          "sha256": "9C179D9A7168DE5FE852CD05533CCF02DB7BEEE805D12D032FD5D42270E06012",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 27.8
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC04_04E03_Subsidy_Ends_PTBR_G02.wav",
+          "sha256": "48EFCB599C252EFE378133C67C7302B42BE3150237AD12B446ABF7F82153144F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.593
+        },
+        {
+          "uid": "side objective 1 completed",
+          "file": "RC04_04E04_Trade_Routes_PTBR_G02.wav",
+          "sha256": "1253F21F05AE9FE116ABFB5AA92B2E351C035466A06C89CA01312D83CAD38717",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.686
+        },
+        {
+          "uid": "plaza",
+          "file": "RC04_04E05_Plaza_PTBR_G02.wav",
+          "sha256": "2FECB3AC5B6E679B23ED0829328544550957F492B98920AA991175F2E5FC8358",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.579
+        },
+        {
+          "uid": "wheat",
+          "file": "RC04_04E06_Wheat_Objective_History_PTBR_G02.wav",
+          "sha256": "680B95DC439522687FE202D510017911A205B37D62D4788AA00597003383DFEB",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 63.359
+        },
+        {
+          "uid": "wheat done",
+          "file": "RC04_04E07_Wheat_Unlocked_PTBR_G04.wav",
+          "sha256": "960912CCAA7B2540527EF0E4B9D2174908627C29B94D7E85BF0FE2D544DEC1AB",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.185
+        },
+        {
+          "uid": "victory",
+          "file": "RC04_04W_Victory_PTBR_G02.wav",
+          "sha256": "140FF7CC208C4C9FAFCEF54606E876EDAA66C612D889B7EC0D3BA5F3B1EBAED1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.64
+        }
+      ]
+    },
+    {
+      "id": "RC05",
+      "xml": "RC05 Tarraco corrected.xml",
+      "baseline_sha256": "9852B7112E1457DB34BFBCB70E48881CE2DC01FA177D8275556272119F69EADB",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC05_05B_Briefing_PTBR_G01.wav",
+          "sha256": "8EC311956A7047394152D7DAC9C3127447BD93CC133CE3076F2BFDA60692926D",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 235.2
+        },
+        {
+          "uid": "Iron deposits",
+          "file": "RC05_05E01_Iron_Deposits_History_PTBR_G01.wav",
+          "sha256": "D0E5EAA3883F88399CC39A0F13E9911DB4F3FB78B213D96A5C7F0F6FABF3A058",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 100.243
+        },
+        {
+          "uid": "side objective 1",
+          "file": "RC05_05E02_Weapons_Objective_History_PTBR_G01.wav",
+          "sha256": "293C3EAB8B1B8FF4F319C36BC56063F2DB78397DDA3D57F5707455A064614910",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 78.037
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC05_05E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "E85B67522870862F821F5903FD6DE09418E0269EE8DA809080325B700CA518CA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.42
+        },
+        {
+          "uid": "side objective 2",
+          "file": "RC05_05E04_Governor_Residence_PTBR_G01.wav",
+          "sha256": "F91F7205D785F680C11A097C4CE8AC3CF61DC9F04476EA6236296127467914AC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 19.945
+        },
+        {
+          "uid": "side objective 2 completed",
+          "file": "RC05_05E05_Iberian_Gold_PTBR_G01.wav",
+          "sha256": "BCCC0BC861BF8E3AECFBAC0FFE54063EB2FBAD7E0EB486E69F979A4F3A265BE2",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 20.64
+        },
+        {
+          "uid": "Punic War",
+          "file": "RC05_05E06_Punic_War_History_PTBR_G01.wav",
+          "sha256": "9A6C717FEB0B567139B1AAB732CC19BA5A1C6858476B367EB3F61755FE473C1B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 139.06
+        },
+        {
+          "uid": "smithies done",
+          "file": "RC05_05E07_Weapons_Industry_Complete_PTBR_G01.wav",
+          "sha256": "A887F17A30546BC28398711A55319B7A96F0FFAE1F4248ECFDFB11AB082CEA31",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.99
+        },
+        {
+          "uid": "plaza",
+          "file": "RC05_05E08_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "D5546DF9D3C4B95455775BC665930A185BDA3CC100E787C7036B13EC0E9D08B1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.539
+        },
+        {
+          "uid": "collapse",
+          "file": "RC05_05E09_Mine_Collapse_PTBR_G01.wav",
+          "sha256": "84E437F85BA2084A2074A850D203A523D058D0D16A84276EC0E24D9B4A670251",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.244
+        },
+        {
+          "uid": "victory",
+          "file": "RC05_05W_Victory_PTBR_G01.wav",
+          "sha256": "B54E8CD1959C1107346AB667D2CE8C8B138B436FE4263F311BB19EF4600C8249",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 19.92
+        }
+      ]
+    },
+    {
+      "id": "RC06",
+      "xml": "RC06 Syracusae corrected.xml",
+      "baseline_sha256": "C93F332AD43EB75AE492BFCF21BAF1584F7821A8E5DE8533BA8FCFFB64ED99C5",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC06_06B_Briefing_PTBR_G01.wav",
+          "sha256": "B8FC8749E0BAE2B86A5CC5719FA9C1A151B7272849A8F8646828971995C1D4F7",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 227.625
+        },
+        {
+          "uid": "Blockade",
+          "file": "RC06_06E01_Blockade_History_PTBR_G01.wav",
+          "sha256": "9EFBFBB5AE58D39ED7EDA2A9BF5AB606835A58D6A89814A34214D405C30AED6B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 54.938
+        },
+        {
+          "uid": "side objective 1",
+          "file": "RC06_06E02_Naval_Salvage_Objective_PTBR_G01.wav",
+          "sha256": "BC8F906691398562CCA8EE1549E5DA12C9BAEF74C2648752DCF618AA4B3EFBD6",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 37.227
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC06_06E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "568F8D2387E01164472F57935D74D5D1FE39779AB7FEBBE3A89D71A80B38ABAE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 11.042
+        },
+        {
+          "uid": "side objective 1 completed",
+          "file": "RC06_06E04_Salvage_Complete_PTBR_G01.wav",
+          "sha256": "88B870ED17CA9A3E8E0E3990495100693585E74B4BE6EB328EE075724B6636F2",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 20.725
+        },
+        {
+          "uid": "plaza",
+          "file": "RC06_06E05_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "0EE0C87A3C68BB2B734474F3F686B0EAFBFFE0BF8B33C583787843788AF4F162",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.674
+        },
+        {
+          "uid": "workers",
+          "file": "RC06_06E06_Unemployment_Objective_PTBR_G01.wav",
+          "sha256": "2F2D006B15614F2888AF4EA3694446C9D32F7E035D806D6876420DBE9E2B2631",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 72.645
+        },
+        {
+          "uid": "victory",
+          "file": "RC06_06W_Victory_PTBR_G01.wav",
+          "sha256": "EC4A71C1D3207C574938B336A52A0D658FE1817982B467CC0620E5025F98E6EA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.427
+        }
+      ]
+    },
+    {
+      "id": "RC07",
+      "xml": "RC07 Miletus corrected.xml",
+      "baseline_sha256": "88E896A5E10277888568FA305026CDA3863CCEB4592DA7D8F7ABB8FA8138C68A",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC07_07B_Briefing_PTBR_G01.wav",
+          "sha256": "AA15A811AD2D19D47764743CED0F352C232854E86BA0D20E74FB9B67CA6DC47C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 277.183
+        },
+        {
+          "uid": "Climate",
+          "file": "RC07_07E01_Climate_PTBR_G01.wav",
+          "sha256": "9E3609847618DE030716C64903B510C1A1AD8F00FD45BC285DFAB8DC42A9ADDF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.939
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC07_07E02_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "59FAAFD6A57C037625D7D51D3ADC204BEF3C44113A61CDB9692322CF52E6DDB0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.567
+        },
+        {
+          "uid": "disease",
+          "file": "RC07_07E03_Disease_PTBR_G01.wav",
+          "sha256": "49FF811EBFE849A287118372AFF536A6C337C8E23E0757A788D0ABE05764AF1A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 50.145
+        },
+        {
+          "uid": "plaza",
+          "file": "RC07_07E04_Wine_Health_History_PTBR_G01.wav",
+          "sha256": "8CFA5DE4826AFA1B219BE8CA701B55F33C83B0FEFD90EDBA5D8C723C0630F389",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 52.442
+        },
+        {
+          "uid": "wine",
+          "file": "RC07_07E05_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "C33465A85D294E64A47A4298CDC9395FA00B18A068CD97693C6E346E41D9C0B2",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.795
+        },
+        {
+          "uid": "victory",
+          "file": "RC07_07W_Victory_PTBR_G01.wav",
+          "sha256": "955B87D970B8CD6E73DCA696D55F773C35845D58CE770D409A03E609B091801A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 16.665
+        }
+      ]
+    },
+    {
+      "id": "RC08",
+      "xml": "RC08 Mediolanum corrected.xml",
+      "baseline_sha256": "BEB886490B059A07E11A505E1D2D25AC98951651C206CF9AF86A20F9CA9689C7",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC08_08B_Briefing_PTBR_G01.wav",
+          "sha256": "8C394E8BBB5681B67F22EBD044031692F9CA8184C413ED7FBF98148D062854C4",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 296.935
+        },
+        {
+          "uid": "Militarization",
+          "file": "RC08_08E01_Militarization_PTBR_G01.wav",
+          "sha256": "6C899B5AF47945AAA3567B7F0D5EC46FD750FE70C61F43DEFE07E959BFBE9813",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 95.892
+        },
+        {
+          "uid": "trade permit",
+          "file": "RC08_08E02_Trade_Permit_PTBR_G01.wav",
+          "sha256": "6E5E77A87A3A2296DDAA2FA881735F3D6A9869C2076E9A4779947B5DB2510D56",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 51.15
+        },
+        {
+          "uid": "Mars GT",
+          "file": "RC08_08E03_Gifts_Accepted_PTBR_G01.wav",
+          "sha256": "F3731DF63F12D7C62912D9ED1491343F80DC7C8450629FD45797C3C87791BFA9",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 32.487
+        },
+        {
+          "uid": "favor",
+          "file": "RC08_08E04_Mars_Temple_History_PTBR_G01.wav",
+          "sha256": "31B7CC17ED5B740C9DF99CEDD2FEDFAD4CF78ACEB05329136BC626A617690CFE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 82.302
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC08_08E05_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "15DF8588F25358CA18C352AF18941572D1E065A1439BF0B1296903A0F4EF8EDC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.14
+        },
+        {
+          "uid": "plaza",
+          "file": "RC08_08E06_Favor_Penalty_PTBR_G01.wav",
+          "sha256": "2B4B4F9BEDFB4188CBA2F1073389015FF961D4CB49807748910BA2BDB8834EEF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 29.019
+        },
+        {
+          "uid": "gifts accepted",
+          "file": "RC08_08E07_Clinics_Pontifex_History_PTBR_G01.wav",
+          "sha256": "29FCF97C75DA91AEF84B6768C62457627F9D95109855AD99A0DC746FFB71B635",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 116.413
+        },
+        {
+          "uid": "clinic",
+          "file": "RC08_08E08_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "12ABD72678DA10F6BD7326B9A916751F653A24D5C2513BCB9D5F17C02EE5236B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 11.052
+        },
+        {
+          "uid": "victory",
+          "file": "RC08_08W_Victory_PTBR_G01.wav",
+          "sha256": "024AE6BE80DAB98F4661E13A3E848D9F6C2DD7BB9F892F12EFC979945E4D450D",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 19.383
+        }
+      ]
+    },
+    {
+      "id": "RC09",
+      "xml": "RC09 Lugdunum corrected.xml",
+      "baseline_sha256": "3FDBFACA438A55B7BED351F514A43F342B1379995FA53A5F6BA2D1344A540C4E",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC09_09B_Briefing_PTBR_G01.wav",
+          "sha256": "7FB9937C5C67FF24A7FC898B2CCA8520C212AA913657D932EE170380D9BAD984",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 272.69
+        },
+        {
+          "uid": "mint",
+          "file": "RC09_09E01_City_Mint_PTBR_G01.wav",
+          "sha256": "5D94FF198DD3731C36DFABDB0B63467AE46F2213DDAFF5FDB040ED1C53E8ABB4",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 32.751
+        },
+        {
+          "uid": "mint done",
+          "file": "RC09_09E02_Mint_Completed_PTBR_G01.wav",
+          "sha256": "0E968A055DB72C1009DF7AE1DAF5D86BC04E97FEBE21848F2C12195960C85E18",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.82
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC09_09E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "0CEC5164108D2D6B4AC53418FD768996437C32061FFC14AE15A978345A718763",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.485
+        },
+        {
+          "uid": "civil war",
+          "file": "RC09_09E04_Civil_War_History_PTBR_G01.wav",
+          "sha256": "C4DCBA75849E61FEB1C0E60C3F9BBD226F811AE9F12DB6107A1D1CB3B08CFFD0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 89.483
+        },
+        {
+          "uid": "natives",
+          "file": "RC09_09E05_Stubborn_Locals_History_PTBR_G01.wav",
+          "sha256": "ABCD039BA2C61AE1B17B9BA855F2FCF5B3CFBE6962692DA5D816F21906F6826E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 110.812
+        },
+        {
+          "uid": "natives done",
+          "file": "RC09_09E06_Mission_Posts_PTBR_G01.wav",
+          "sha256": "13B838BF8D5BC53A5860FF6F111E3C905DEDD2CABA249697CAEEB89F8C0B92AF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.911
+        },
+        {
+          "uid": "plaza",
+          "file": "RC09_09E07_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "4CEF9585C91D49CCFBF02B40C52C0158B712B1AF081CF4F1C7CABBCA79506D29",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.158
+        },
+        {
+          "uid": "vines",
+          "file": "RC09_09E08_Ceres_Worship_PTBR_G01.wav",
+          "sha256": "08EFDA742EEFB0325D7339A79C1F61E1B19633472BBB63FBD93C87954A331D44",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 23.993
+        },
+        {
+          "uid": "vines done",
+          "file": "RC09_09E09_Vines_Unlocked_PTBR_G01.wav",
+          "sha256": "B5932A27768F071766FBFF9990BA197EEE7C6CADF259C2365F9540615BF7C83E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 8.055
+        },
+        {
+          "uid": "public works",
+          "file": "RC09_09E10_Public_Works_PTBR_G01.wav",
+          "sha256": "C7E2818BCE8489C3908B2E367F609BD1167E1FD6C6EF2059E587251A81A56D5A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 23.087
+        },
+        {
+          "uid": "victory",
+          "file": "RC09_09W_Victory_PTBR_G01.wav",
+          "sha256": "D1F8F3709429B56827079C757CF63C4C8353D15EFE59F77E9609DF481C6AB72F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.408
+        }
+      ]
+    },
+    {
+      "id": "RC10",
+      "xml": "RC10 Carthago corrected.xml",
+      "baseline_sha256": "016B3246FD8059809BD9B4D0FD6D56E05E8B9419EB573D5B172527D503F28F15",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC10_10B_Briefing_PTBR_G01.wav",
+          "sha256": "5A9A95498276318927D94FECA8CF3560230D0DBE5C4CED3B9FD61A88321182C1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 234.274
+        },
+        {
+          "uid": "civil war event 1",
+          "file": "RC10_10E01_Pharsalus_History_PTBR_G01.wav",
+          "sha256": "A71889584027E8B4973E73F82C291561AA3471E8CAE94D66328506EF3AD4AEE5",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 130.168
+        },
+        {
+          "uid": "civil war pompei",
+          "file": "RC10_10E02_Pompeian_Loyalty_PTBR_G01.wav",
+          "sha256": "48040D2538D14EA28F12E2C8191363CC995517DD5161E0840092507DD932B749",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 30.285
+        },
+        {
+          "uid": "plaza",
+          "file": "RC10_10E03_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "CC9CCE68C2AA9A64660A4B1B9ED42031DF2F1E8B147EF3AD9E12A3D04C1F3834",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.925
+        },
+        {
+          "uid": "civil war caesar",
+          "file": "RC10_10E04_Caesar_Alliance_PTBR_G01.wav",
+          "sha256": "8E838C7BA56B4E6CCE10F38A2DF23BDC44C13850B11248CBFC81090FA8AEC46B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 70.8
+        },
+        {
+          "uid": "civil war caesar attack",
+          "file": "RC10_10E05_Caesarian_Invasion_PTBR_G01.wav",
+          "sha256": "BA46544E6280FFAABDD11F0FE1473033BE41E30D3DFBBB0320EDAB3C32A95E45",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 5.36
+        },
+        {
+          "uid": "wheat",
+          "file": "RC10_10E06_Wheat_Unlocked_PTBR_G01.wav",
+          "sha256": "62D27A8EA69E6BF2A89C7B1F2EE6FB2EBB8312A18B0FF854BD65C1965903F30C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.628
+        },
+        {
+          "uid": "caesar gives up",
+          "file": "RC10_10E07_Civil_War_Ends_PTBR_G01.wav",
+          "sha256": "F259B1D91835EAD34168DA4B2C6E5EBCA9CE932DC06387226956F7C6F0A6C6E7",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 30.559
+        },
+        {
+          "uid": "lighthouse",
+          "file": "RC10_10E08_Lighthouse_PTBR_G01.wav",
+          "sha256": "DF2FC5BEE80A9969643594156826814FCD351A8FD4B3B99A5E1BDBE15E449F44",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 8.767
+        },
+        {
+          "uid": "victory",
+          "file": "RC10_10E10_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "8B7AC3F77A97B54B0E6634555428544E0C87B275EB2869FF5A5F483050BB7B7F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.5
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC10_10W_Victory_PTBR_G01.wav",
+          "sha256": "5859F187B9DDBB71ABB99DACBEB65412258A36E5321F79B7EF211AD0F549DAB1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.857
+        }
+      ]
+    },
+    {
+      "id": "RC11",
+      "xml": "RC11 Tarsus corrected.xml",
+      "baseline_sha256": "C4ABCA48C67E4AA86478402E7B633634380B33582C9B7F58E165770B127F88A0",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC11_11B_Briefing_PTBR_G01.wav",
+          "sha256": "620388C67F85D9522277C9B6FF27D6010BC46BDBC753998747296B65A7FDFE51",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 267.046
+        },
+        {
+          "uid": "caravenserai",
+          "file": "RC11_11E01_Caravanserai_History_PTBR_G01.wav",
+          "sha256": "D573D185C1C4DDEC8CADA6968EAB8845CA3F1AA4284BF45E05D377456DFA35C8",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 180.273
+        },
+        {
+          "uid": "favor event start",
+          "file": "RC11_11E02_Returning_Favor_Crassus_PTBR_G01.wav",
+          "sha256": "E391951A35B810707EF2185AB0756AC081F34B5752AB957502E6089D0469B8BD",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 53.843
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC11_11E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "7A332835BFE615D51075E4640D54962C569CDFE97884CF2B1188E5F33FCBE326",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.35
+        },
+        {
+          "uid": "favor repayed",
+          "file": "RC11_11E04_Favor_Repaid_Crassus_PTBR_G01.wav",
+          "sha256": "7549A4123179D591DF07E6FE6E0B73B64ABC29127E8835738081BDA490335E97",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 23.937
+        },
+        {
+          "uid": "alexandria",
+          "file": "RC11_11E05_Alexandria_History_PTBR_G01.wav",
+          "sha256": "561784BF34783B51B1189587AD7678D6A9B9175AB8CAF1CEEEA1863E668C50EA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 68.142
+        },
+        {
+          "uid": "plaza",
+          "file": "RC11_11E06_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "6142437089B0A045AE5C4E1A7E472DD442E4A57DFEA6C03728B8F84922A43F9A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.605
+        },
+        {
+          "uid": "temples",
+          "file": "RC11_11E07_Cultural_Tensions_PTBR_G01.wav",
+          "sha256": "E7C27AA091A123EBCBE7150359E819735F3409CFF490EAC41299E9D0078850DA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 25.259
+        },
+        {
+          "uid": "scam",
+          "file": "RC11_11E08_Crassus_Expedition_PTBR_G01.wav",
+          "sha256": "F643177FEFD20798CC4C1D4FCA50E291ED52DFC234A86A811775023235BE07C0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 33.958
+        },
+        {
+          "uid": "ignored",
+          "file": "RC11_11E09_Offer_Refused_Crassus_PTBR_G01.wav",
+          "sha256": "5745714BEA8676F65EDCAD2DE9EE089C44E2A31B06E7123E981F555F98423E3E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 18.216
+        },
+        {
+          "uid": "victory",
+          "file": "RC11_11W_Victory_Pompey_PTBR_G01.wav",
+          "sha256": "11AFB8897642D78C53855339CCF41CBF7725B4550633610AAEE2CA37E9A5D357",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.1
+        }
+      ]
+    },
+    {
+      "id": "RC12",
+      "xml": "RC12 Tingis corrected.xml",
+      "baseline_sha256": "2E9C8030EDA785C8577F05AC7A008DCEE4620623F4168E21272D0C5EAD409E0D",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC12_12B_Briefing_PTBR_G01.wav",
+          "sha256": "3DB3638A76DD904085405E40A6C0385FA263EDC1AFD13A8559B01455B7509A13",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 237.555
+        },
+        {
+          "uid": "bog iron",
+          "file": "RC12_12E01_Bog_Iron_History_PTBR_G01.wav",
+          "sha256": "8B467B478B16B3B3B19031CADF6730B5D1FFA504BDAE7458F0095E1F8EA2CB85",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 97.623
+        },
+        {
+          "uid": "Marble price event",
+          "file": "RC12_12E02_Marble_Prices_PTBR_G01.wav",
+          "sha256": "4B85161028D3E1B3AAC553DD69BB62DC17BCF83439134E4E04B6EF7D853E4918",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.02
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC12_12E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "F509CE73F7C661CB6651473285FEB42EE1F21E67D288C8A0657CE3B5397C14AC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.879
+        },
+        {
+          "uid": "plaza",
+          "file": "RC12_12E04_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "DF8AD9AF469857C2778C6BE2F84233CFA36A07077F78B10607BFC0A7A392659C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.62
+        },
+        {
+          "uid": "marble",
+          "file": "RC12_12E05_Toletum_Materials_PTBR_G01.wav",
+          "sha256": "D79B2D65479F5653187ED210654BE44A4AAE188AE67ACD943D710D6AAFD7803C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 21.704
+        },
+        {
+          "uid": "victory",
+          "file": "RC12_12W_Victory_Consul_PTBR_G01.wav",
+          "sha256": "59310A826AB931EE44C1FF8682805F3607B5ED22F04E74BE81EC88816113EC84",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.642
+        }
+      ]
+    },
+    {
+      "id": "RC13",
+      "xml": "RC13 Valentia corrected.xml",
+      "baseline_sha256": "653330E929737F20C947A7B62F87F9C9120BEBC09BC92EE920FC06D4C4626BDC",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC13_13B_Briefing_PTBR_G01.wav",
+          "sha256": "3DE1F54DA7BE4C870FC093BA914E8565901D070CB5772C9D3B8553355AE092F9",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 271.956
+        },
+        {
+          "uid": "corruption",
+          "file": "RC13_13E01_Corruption_History_PTBR_G01.wav",
+          "sha256": "008F4C64B3E35DA356F61E814459D2AD291B39AEFFD712CD34D72DF432E10A94",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 49.786
+        },
+        {
+          "uid": "corruption solved",
+          "file": "RC13_13E02_Corruption_Reduced_PTBR_G01.wav",
+          "sha256": "5AC3D64CBA812AE3F1B601963131DC5DC3BED1977ACBD56C5278DFA84D0777E3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 28.178
+        },
+        {
+          "uid": "patrican event",
+          "file": "RC13_13E03_Entertainment_Unlocked_PTBR_G01.wav",
+          "sha256": "469CDA9F9E0D0922D44804641A859D448255F25C9FFE0084066299D0CAF252E3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.658
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC13_13E04_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "494CBB1B9F2F720855A285D5FFD3CA6E9A3455940CD6B0415464DF51AFE76460",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 11.764
+        },
+        {
+          "uid": "plaza",
+          "file": "RC13_13E05_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "610A68CEF4BFF17953506679F7339A1856EF1C235B8BA051688A3A08BDF65252",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.68
+        },
+        {
+          "uid": "victory",
+          "file": "RC13_13W_Victory_Consul_PTBR_G01.wav",
+          "sha256": "51EF000ED72AE1F84C5F9C221C4260D1077D9640CD401DA80D75B1BB8A2D310B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.473
+        }
+      ]
+    },
+    {
+      "id": "RC14",
+      "xml": "RC14 Lutetia corrected.xml",
+      "baseline_sha256": "D8F45BC934FFAC6FC6527D93E994277A37B6BB272F878F85A44BEBBA537BC877",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC14_14B_Briefing_PTBR_G01.wav",
+          "sha256": "4926C09A844CA563EB81253238DD4FF7E7368FCBD13D264C23770DF2DCE9ECED",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 203.698
+        },
+        {
+          "uid": "rome route",
+          "file": "RC14_14E01_Rome_Trade_Route_PTBR_G01.wav",
+          "sha256": "538AC3EF6FBB52662C2F20E7AA3D5F6F9AC109FCAD1F37D0ED4E953E97EABFE3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 27.63
+        },
+        {
+          "uid": "natives",
+          "file": "RC14_14E02_Hostile_Communities_History_PTBR_G01.wav",
+          "sha256": "14C6954C455A4A4FEB20E1C7AF18A33DC899F48D587DEA515FCBD82E51DC6906",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 126.167
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC14_14E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "DEB85876E487995874C1633219E9101F6FD830D826AEEDDF69EC4DFB798AE2F3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.95
+        },
+        {
+          "uid": "mission post unlocked",
+          "file": "RC14_14E04_Mission_Posts_Unlocked_PTBR_G01.wav",
+          "sha256": "9BC4A85E6A70A583198D85B05E5B2EB85C2CEE8FD40761B7C00E49A242E5D79C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 18.656
+        },
+        {
+          "uid": "plaza",
+          "file": "RC14_14E05_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "0D01E7077C215FCF8474D358005C3AABC15495C6CFF1AFA0484C0F53777141AF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.752
+        },
+        {
+          "uid": "Augustus dies",
+          "file": "RC14_14E06_Augustus_Death_History_PTBR_G01.wav",
+          "sha256": "7069E254905F500E62C04A0B9964B78467C59E1FFAAF9DC27C0A3F14F91368A1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 105.641
+        },
+        {
+          "uid": "victory",
+          "file": "RC14_14W_Victory_Augustus_PTBR_G01.wav",
+          "sha256": "ED56579740E2D93234319721F660EB480F4ECA84D5DB4BB8EFC70A9868F0C026",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.861
+        }
+      ]
+    },
+    {
+      "id": "RC15",
+      "xml": "RC15 Caesarea corrected.xml",
+      "baseline_sha256": "AF95A63F12B9C992611B8C59461F1CE784B3CB6B472B91B03024209D226B3C69",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC15_15B_Briefing_PTBR_G01.wav",
+          "sha256": "1DF7FD83DA271287A271C83C40E55F17B23AC809471E8BB4576D79ADBD29AE51",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 235.193
+        },
+        {
+          "uid": "objective 1",
+          "file": "RC15_15E01_Food_Program_PTBR_G01.wav",
+          "sha256": "3787B4C32471CFBFB6269BFB12AD69B5D7D9DEAE33DD21149992C9EFD80D10ED",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 40.398
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC15_15E02_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "481C3AE3F9C3834FB8CA4B701577DAC0807B55A4D8477CA505D14B75883E5323",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 11.29
+        },
+        {
+          "uid": "objective 1 completed",
+          "file": "RC15_15E03_Shipments_PTBR_G01.wav",
+          "sha256": "F8EE4A3E3D3C32AFE92CF0548498D46BBABE5DAA7EB6CF9F21DA18B2B4CB81AB",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 24.267
+        },
+        {
+          "uid": "Pirates Raid trade routes",
+          "file": "RC15_15E04_Pirate_Raid_PTBR_G01.wav",
+          "sha256": "5208615F53BBDADD95371C382635A15B4F2188B717C93C9BD81102ADA262275A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 38.518
+        },
+        {
+          "uid": "Pirates wiped out",
+          "file": "RC15_15E05_Coastline_Secured_History_PTBR_G01.wav",
+          "sha256": "2736B6B80543B037663F67A0D2E7791B287D108648EFBA7AE1A77938A7B0C33D",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 146.1
+        },
+        {
+          "uid": "plaza",
+          "file": "RC15_15E06_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "DE6A735F773DAC07687E7E40437B891964212CEDD0927F77DC2A914943841915",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.838
+        },
+        {
+          "uid": "victory",
+          "file": "RC15_15W_Victory_Augustus_PTBR_G01.wav",
+          "sha256": "DF3F6EF62C255DE5E47EBAC4AAFCD56A1BF707FC14B36486265B8AC82549F5F1",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.97
+        }
+      ]
+    },
+    {
+      "id": "RC16",
+      "xml": "RC16 Damascus corrected.xml",
+      "baseline_sha256": "2DCB60559C3940A76A1DD93389BDFB3E01CEF19406C3B8CAEEC7B78FD208CCD1",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC16_16B_Briefing_PTBR_G01.wav",
+          "sha256": "7E25777AB84137CAC3AFE692F2456D5F53F8008783BCD3A661374E31E025DCDC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 251.84
+        },
+        {
+          "uid": "iron requests",
+          "file": "RC16_16E01_Iron_Requests_History_PTBR_G01.wav",
+          "sha256": "237E512D65F81DFE0F55ADBB6E5CAF931CBC77E9A2B707A2DA1C53337CFA1F75",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 171.224
+        },
+        {
+          "uid": "objective 1",
+          "file": "RC16_16E02_Missionaries_PTBR_G01.wav",
+          "sha256": "3BEA036CDB338A8307C9F50387726C1D461971A4571245493B1E0D6A9781B3CE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.308
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC16_16E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "AABE13EE4E7DB787E3AAD18BD28E514C17BFE4382E3A9193FB40C77F1E2880A8",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.482
+        },
+        {
+          "uid": "objective 1 completed",
+          "file": "RC16_16E04_Mission_Posts_PTBR_G01.wav",
+          "sha256": "27CCCFA5C8B650E2AC37B0E38920CA0464287CA033FDAC5EE1CB369F5BCD9FC6",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 28.504
+        },
+        {
+          "uid": "Scouts",
+          "file": "RC16_16E05_Scouts_PTBR_G01.wav",
+          "sha256": "E5FF7AF1328164519FF10DEE30D8AE85581BC191167EC670504D4450D399B423",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 37.119
+        },
+        {
+          "uid": "scouts completed",
+          "file": "RC16_16E06_Safe_Border_PTBR_G01.wav",
+          "sha256": "739A0C6DA48AD2857454668EB1F12BA6E2B5F5354CFEC205196162AB2EEC50BE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.254
+        },
+        {
+          "uid": "plaza",
+          "file": "RC16_16E07_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "3C976449C830B886FD4734AFE22D2A0304B956244F338997B9DDB554BA05DB5B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.564
+        },
+        {
+          "uid": "Far East",
+          "file": "RC16_16E08_Far_East_Trade_History_PTBR_G01.wav",
+          "sha256": "E2022F56C5C478999AE00C93D37AE6BFF2CBB31DDE28F098BC16343FA0001AA9",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 91.091
+        },
+        {
+          "uid": "Forum",
+          "file": "RC16_16E09_Forum_Penalty_PTBR_G01.wav",
+          "sha256": "103FAD93EBCCD3EA153E07D7C927AA2E739D1B4D6BD54D804153F91421359300",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 27.2
+        },
+        {
+          "uid": "victory",
+          "file": "RC16_16W_Victory_Pompey_PTBR_G01.wav",
+          "sha256": "99D6D6546A0BD63C925ED578C8C4038BAA792D5BD8BD3DE1B107A5C30F49A7DA",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 20.767
+        }
+      ]
+    },
+    {
+      "id": "RC17",
+      "xml": "RC17 Londinium corrected.xml",
+      "baseline_sha256": "A6B63E3D61C462C8365D8B30214F6757CAEFA497F286ECDBFA2EB17F9344A6A5",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC17_17B_Briefing_PTBR_G01.wav",
+          "sha256": "8A239E99F303044EC895E8D8AA497C568B7B5FD835E4027967477100B28B6EE4",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 255.17
+        },
+        {
+          "uid": "Gladiator revolts",
+          "file": "RC17_17E01_Gladiator_Revolts_PTBR_G01.wav",
+          "sha256": "8B478FE632779913A650258811D0522EBD27F8C9B99A4973588DC83951AD032D",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 32.53
+        },
+        {
+          "uid": "Revolts end",
+          "file": "RC17_17E02_Revolts_End_PTBR_G01.wav",
+          "sha256": "4850B70252BC2967E14219D816A76AC58470738AD0C24D265E3CA3DDDBC6C6F7",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 24.456
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC17_17E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "F5ABB87A9FD9A6C8708645637F7492131996413CAF3A868E23DFEDE6B52FBFB5",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.682
+        },
+        {
+          "uid": "Iceni uprisings",
+          "file": "RC17_17E04_Iceni_Uprising_PTBR_G01.wav",
+          "sha256": "2AFE838E562328124795CE980BF8A1EE65B2F59E1E90219C719E08A59FC7C825",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 41.955
+        },
+        {
+          "uid": "Boudica dies",
+          "file": "RC17_17E05_Boudica_Defeated_History_PTBR_G01.wav",
+          "sha256": "1B1389030E3A3D19DBEC8AD0B66DC820B43601E66C9BB43FB0B4E8FE08D39B54",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 156.281
+        },
+        {
+          "uid": "hint to build forts",
+          "file": "RC17_17E06_Mounting_Unrest_History_PTBR_G01.wav",
+          "sha256": "45425F982E359A4A08CD123FE90AF6FD2D181417505BA753262EC6F40D21C1DC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 78.897
+        },
+        {
+          "uid": "plaza",
+          "file": "RC17_17E07_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "CEF5A1077DA864E877D177D3CC8E2203A30D0ABCE4974F05D522D6F6979C5B92",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.832
+        },
+        {
+          "uid": "oil alternatives",
+          "file": "RC17_17E08_Local_Oil_PTBR_G01.wav",
+          "sha256": "50F93DE417740DBCC4C1DB7ED0F574E7497E4D2423B70A7F90C679DFB2912E34",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 41.548
+        },
+        {
+          "uid": "victory",
+          "file": "RC17_17W_Victory_Imperial_PTBR_G01.wav",
+          "sha256": "EFD4E804610924F0F584E66A87774AAD3B62980A97F94EF3E144327FCA251BF8",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.977
+        }
+      ]
+    },
+    {
+      "id": "RC18",
+      "xml": "RC18 Sarmizegetusa corrected.xml",
+      "baseline_sha256": "5B64AFE5F9517E373165C5575D2ED77D502FC1861B75CD065CAC4C2D274C9224",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC18_18B_Briefing_PTBR_G01.wav",
+          "sha256": "7F8BECA5279DD5A275CF2731472D1F2A31E55F122DB4D65057B6FE924A639C54",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 278.586
+        },
+        {
+          "uid": "fish",
+          "file": "RC18_18E01_Lake_Fish_PTBR_G01.wav",
+          "sha256": "5321562A5F0072706280210C62DACF25B875E8955018708409EF58B13F997B29",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 27.013
+        },
+        {
+          "uid": "natives",
+          "file": "RC18_18E02_Local_Traders_History_PTBR_G01.wav",
+          "sha256": "4944AD5568B113393837B7EE2D83CF885C846112D8319FBE8D299123B738DDCE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 68.312
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC18_18E03_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "2994D7BAA6028FD3FA9CE1723120C81A0B33ACC3208878AB2A3A24994649C15F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.296
+        },
+        {
+          "uid": "fish unlocked",
+          "file": "RC18_18E04_Fishing_Unlocked_PTBR_G01.wav",
+          "sha256": "F9ABB60715DBF92CB45FCF60F1A46A41393D573953D0398A99FC514641CEC141",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 19.689
+        },
+        {
+          "uid": "natives unlocked",
+          "file": "RC18_18E05_Native_Area_Unlocked_PTBR_G01.wav",
+          "sha256": "6FC3F5EE8C7BF18EA2242D7B9183CBDF280BA91A29D76B6B9420C8608BE5E26C",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.703
+        },
+        {
+          "uid": "plaza",
+          "file": "RC18_18E06_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "B42DB09D208D2BB53AEBFACCFDF9A542EBDCD2B7582A458FDC65FED95C173715",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 16.69
+        },
+        {
+          "uid": "mars GT",
+          "file": "RC18_18E07_Bandits_PTBR_G01.wav",
+          "sha256": "AC0F56481D65CA3D0BA9547265C0D7FB3BB7202BEE118501478C984108948BAC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 25.709
+        },
+        {
+          "uid": "mars done",
+          "file": "RC18_18E08_Trade_Protected_PTBR_G01.wav",
+          "sha256": "4B73C5F6AC576D70C5E9DDDB524AE89F1F3127F410A1FB23C2FC8614BCB320B0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.14
+        },
+        {
+          "uid": "victory",
+          "file": "RC18_18W_Victory_Trajan_PTBR_G01.wav",
+          "sha256": "8D7277A6895E49B173A7195EE1CB4EF3688258B240F6FAC75528578F07B6FEC0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 16.998
+        }
+      ]
+    },
+    {
+      "id": "RC19",
+      "xml": "RC19 Lindum corrected.xml",
+      "baseline_sha256": "145336655A9A7A7EFC56ADB6F100BEFCBD5A97BFFC7186967B13D11BAB0EF099",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC19_19B_Briefing_Hadrian_PTBR_G01.wav",
+          "sha256": "84D27545B72ABD926E49D2759C07EAE42EA933A5511938B12DE4C2511F81BEA3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 305.863
+        },
+        {
+          "uid": "Choice",
+          "file": "RC19_19E01_Local_Tribes_Choice_PTBR_G01.wav",
+          "sha256": "29C2B1550BB397B03087434F0A19480EEE53B89A3D1EB3DBCDCD0913E99C6A8A",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 66.647
+        },
+        {
+          "uid": "Stone circles",
+          "file": "RC19_19E02_Stone_Circles_PTBR_G01.wav",
+          "sha256": "2961DB0EA4C8B5236286F7E6CFADF713A785C9D76138DEEF0346BF8EA4486AAF",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 39.66
+        },
+        {
+          "uid": "Fish or Vines",
+          "file": "RC19_19E03_Fish_Or_Vines_PTBR_G01.wav",
+          "sha256": "EE1648020818D6946C1A31E2D375E07A5408FC3B335C8A3F455101E35C8D6E33",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 44.905
+        },
+        {
+          "uid": "Neptune",
+          "file": "RC19_19E04_Neptune_Fish_PTBR_G01.wav",
+          "sha256": "274CDF85CEB1BF54373FC2A6B1E0FFD502EFBD99D4439ED9576304C92E23297F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 12.359
+        },
+        {
+          "uid": "Military path",
+          "file": "RC19_19E05_Military_Path_PTBR_G01.wav",
+          "sha256": "97112FD72518D1A9E0239804914D1E578BBBE0055EE27D7A5EDA08BB28FD264E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 33.927
+        },
+        {
+          "uid": "Economic path",
+          "file": "RC19_19E06_Economic_Path_PTBR_G01.wav",
+          "sha256": "A88B4C406C29FB1B03C735CD0E2078D978B31624FB73970DA373ED96694D66FD",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.9
+        },
+        {
+          "uid": "Ceres",
+          "file": "RC19_19E07_Ceres_Vines_PTBR_G01.wav",
+          "sha256": "53179E03D7DEB5385DD6826CFFE7E053F23504C230EA13E1FDC67D86102CB229",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 13.108
+        },
+        {
+          "uid": "plaza",
+          "file": "RC19_19E08_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "2AB24227CEEC312B52CED3EF69709B5E8BDE29D0F378D8D4E9C0F5CBAC8CD737",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.097
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC19_19E09_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "CF6EBF12C123B5A5C5142B72F57FF679D0F61343E7C429C5AE7085D75FEA402F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.067
+        },
+        {
+          "uid": "raid attacks",
+          "file": "RC19_19E10_Blood_Feud_Raids_PTBR_G01.wav",
+          "sha256": "87AA43CB85DB45DDBA71C7175DD18888551BDA32CCCED8C6C1D2C56F20EA3C59",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 28.611
+        },
+        {
+          "uid": "natives cleared 1",
+          "file": "RC19_19E11_Natives_Assimilated_PTBR_G01.wav",
+          "sha256": "C63F049390D88F707A575069DAAA4B62416075E58BA209FCE69C6E211F63A3CE",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.72
+        },
+        {
+          "uid": "wall1",
+          "file": "RC19_19E12_Wall_Foundations_History_PTBR_G01.wav",
+          "sha256": "01D3333B085A36D6FAEE3DA60569C3C75B104FEBDDF34B99652166F9E1C62A49",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 91.392
+        },
+        {
+          "uid": "wall2",
+          "file": "RC19_19E13_Wall_Bastions_PTBR_G01.wav",
+          "sha256": "A3FE6EAE2F34D02386264FCF299B995B3C95E1D9508BD34EE34F0500AB4CA6D8",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 26.022
+        },
+        {
+          "uid": "wall3",
+          "file": "RC19_19E14_Wall_Barracks_PTBR_G01.wav",
+          "sha256": "336E865D6509BDB35D1F78EC3397C88328B52900B6174DBAE8256DC457D2426E",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 25.425
+        },
+        {
+          "uid": "wall4",
+          "file": "RC19_19E15_Wall_Officers_Quarters_PTBR_G01.wav",
+          "sha256": "0CF41E7D2FB5F67D1FECFE8B820F6A03B9B561D242302CF6F22A4DBA0C952F94",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 31.775
+        },
+        {
+          "uid": "wall5",
+          "file": "RC19_19E16_Wall_Completed_PTBR_G01.wav",
+          "sha256": "C407DDD6939B23951C1B0866D8691CCA535CE1092BE9F415A3F12CF7000F0D9F",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 44.494
+        },
+        {
+          "uid": "victory",
+          "file": "RC19_19W_Victory_Hadrian_PTBR_G01.wav",
+          "sha256": "6682C7F6DBBD8F9397C5E8A4958AF9C70AB6B2CE3FDEE3813165F9D53E217CB0",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 16.373
+        }
+      ]
+    },
+    {
+      "id": "RC20",
+      "xml": "RC20 Massilia corrected.xml",
+      "baseline_sha256": "4C1DA54C309DB91AC9E4D892DC83732659BB799C0B48777854F09C3042670819",
+      "speech": [
+        {
+          "uid": "intro",
+          "file": "RC20_20B_Briefing_Senate_PTBR_G01.wav",
+          "sha256": "5355FC8DDBF32B15401D891810F97BBCCD6E9731A93EEDECD80A51395E5CD2B6",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 326.067
+        },
+        {
+          "uid": "large temples",
+          "file": "RC20_20E01_Large_Temples_Objective_PTBR_G01.wav",
+          "sha256": "98044DCBF739F53FF8929C2621B0AB6FC43C6B7267EA3A718C7495240CAFD92B",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 23.34
+        },
+        {
+          "uid": "large temples done",
+          "file": "RC20_20E02_Large_Temples_Completed_PTBR_G01.wav",
+          "sha256": "65F9182D70A3662CE813761E949D99164FFF43A997C8C866B7BF6B2062327FC8",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 15.19
+        },
+        {
+          "uid": "garum",
+          "file": "RC20_20E03_Garum_Production_History_PTBR_G01.wav",
+          "sha256": "72EDBB09F8E7B138487F74F99C7F378D1F8088E0B492D5940BBE94961ABC4CB6",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 78.328
+        },
+        {
+          "uid": "patrician objective done",
+          "file": "RC20_20E04_Romanization_Completed_PTBR_G01.wav",
+          "sha256": "EBB8F467275558ADAE1922D634473E9F4A733F15860A5798EF3289ACE297E7EC",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 17.623
+        },
+        {
+          "uid": "second wine",
+          "file": "RC20_20E05_Second_Wine_Choice_PTBR_G01.wav",
+          "sha256": "E09702107EADD2EFF06253DAA379FB7C8645A79720BC22CFAB4D0FE46BF81705",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 44.347
+        },
+        {
+          "uid": "plaza",
+          "file": "RC20_20E06_Plaza_Unlocked_PTBR_G01.wav",
+          "sha256": "5459F8EF4B8017323CADEFFA2EB5ED46C5C62D2D593E58366A2747595E98F717",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.121
+        },
+        {
+          "uid": "subsidy",
+          "file": "RC20_20E07_Subsidy_Ends_PTBR_G01.wav",
+          "sha256": "F7009533C9FE8741C80D4E9A32D1FA205DF6EE084B1DEC45E23ED92B6C16A770",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 10.94
+        },
+        {
+          "uid": "poem",
+          "file": "RC20_20E08_Poem_Of_The_Sea_PTBR_G01.wav",
+          "sha256": "7A51973C7BD923863E1115EB94668DC184DBD8FB5659B96259A741E715AF5A18",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 24.389
+        },
+        {
+          "uid": "statues",
+          "file": "RC20_20E09_Statues_Objective_PTBR_G01.wav",
+          "sha256": "06B49B0C175BD4D3B9F1EACCB8F3B908A719E0D50B987F587763D3570FA5F8C3",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 30.5
+        },
+        {
+          "uid": "statues done",
+          "file": "RC20_20E10_Statues_Unlocked_PTBR_G01.wav",
+          "sha256": "0E79AB4C992EB6C6040C20CC9E2B59F18029C84A2E871502C45AB4668CF51D52",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 14.851
+        },
+        {
+          "uid": "victory",
+          "file": "RC20_20W_Final_Victory_Consul_PTBR_G01.wav",
+          "sha256": "7EC2D82085A0372AB7F60DE78FE7A9DF4DC0A0B71272EC30199D82CC7365E552",
+          "channels": 1,
+          "sample_width_bits": 16,
+          "sample_rate_hz": 24000,
+          "duration_seconds": 34.716
+        }
+      ]
+    }
+  ]
+}

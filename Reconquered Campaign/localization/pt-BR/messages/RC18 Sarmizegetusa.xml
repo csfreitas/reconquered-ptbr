@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Sarmizegetusa Regia</title>
+        <subtitle>Províncias Dácias</subtitle>
+        <text> @G[c3 stills_107.png]@L 
+		@H Contexto Histórico @L
+		Sarmizegetusa Regia foi a capital fortificada do reino dácio antes da conquista de Trajano. Situava-se nas montanhas Orăștie, na atual Romênia, e reunia funções políticas, religiosas e defensivas. Depois da vitória romana em 106 d.C., a antiga capital foi destruída. A colônia romana Ulpia Traiana Sarmizegetusa foi fundada alguns anos depois numa planície cerca de 40 quilômetros distante, provavelmente perto de um antigo acampamento legionário. A missão combina os dois locais por razões de jogabilidade. @L@L
+		A ocupação romana exigiu estradas, pontes, fortes e centros administrativos para atravessar o terreno da Dácia e conectar minas e assentamentos à rede imperial. @L@L
+		Como exemplo de derrota de um exército romano no início do período imperial, examinaremos a Batalha da Floresta de Teutoburgo, em 9 d.C. @L@L
+		Armínio, príncipe querusco e antigo comandante auxiliar com cidadania romana, conhecia os métodos de Roma. Não era simplesmente um desertor comum: usou sua posição e suas alianças para organizar a revolta. O governador Públio Quintílio Varo avançou sem reconhecimento e segurança adequados. Chuva, terreno arborizado, coluna alongada e ataques surpresa impediram a formação romana. Durante vários dias, os guerreiros germânicos atacaram e recuaram, explorando a desordem. @L@L
+		Os romanos ainda construíram acampamentos durante a retirada, mas foram progressivamente cercados e destruídos; não há base segura para dizer que a derrota total ocorreu porque foram surpreendidos ao montar um acampamento ao anoitecer. Muitos fugitivos e prisioneiros foram mortos. Fontes romanas relatam sacrifícios e execução ritual de oficiais, e achados posteriores mostram violência extrema, embora detalhes como pessoas queimadas vivas não possam ser tratados como certeza. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Governador, uma nova missão o aguarda. Estabeleça uma colônia romana na Dácia, representada aqui junto à antiga capital inimiga de Sarmizegetusa. A região é importante, pois os dácios ainda não abandonaram toda resistência ao domínio romano. Use os recursos iniciais adicionais para formar legiões rapidamente: a atividade inimiga já começou. @L@L
+		Sarmizegetusa apresentará um novo desafio. Até agora, você podia depender do amplo comércio imperial para sustentar a cidade e oferecer empregos. Isso não será possível: há poucas rotas, e elas sofrem com o banditismo. @L@L
+		Um governador diligente buscará amizade entre as comunidades locais, numerosas o bastante para compensar a falta de exportações. O acesso a artigos de luxo também será difícil, pois o clima não favorece videiras nem oliveiras. @L@L
+		A cidade deverá possuir o esplendor habitual. Apesar do terreno e das despesas, Sarmizegetusa deve prosperar e demonstrar aos dácios a força de uma cidade romana. @L@L
+		Não subestime o inimigo. As táticas dácias e os muitos ângulos de ataque serão difíceis de enfrentar. @L@L
+		
+		@H Éditos @L
+		@Dangerous @Trade @Routes - Problemas comerciais serão frequentes, e as cotas não bastarão para sustentar completamente a cidade. Recomenda-se negociar com as comunidades nativas. @L@L
+		@Dacia - Espere intensa atividade militar. O Grande Templo de Marte reduzirá as interrupções comerciais. Escola de gladiadores, cova de leões, arena e Coliseu estão indisponíveis. @L@L
+		
+		@H Informações Adicionais @L
+		Comerciantes nativos podem ser muito eficientes, mas exigem preparação adequada. Quando um posto missionário visitar uma cabana de reunião, ela enviará um carroceiro ao armazém mais próximo que contenha qualquer produto marcado para exportação, independentemente do valor. Quanto mais depressa ele retornar, mais cedo reaparecerá. Autorize comerciantes terrestres no armazém; eles comprarão qualquer produto marcado para exportação, mesmo que normalmente só seja vendido por rota marítima. @L@L
+		O mapa começa com recursos adicionais. Use-os para formar o exército rapidamente, antes mesmo de estabelecer comércio. Um único forte auxiliar talvez não baste. Planeje a primeira área residencial: a velocidade da imigração determinará se haverá trabalhadores suficientes para a infraestrutura militar a tempo. @L@L
+		@H Eventos Persistentes @L 
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="fish">
+        <title>(!) Peixes do Lago (!)</title>
+        <subtitle>Ceres Exige uma Oferenda</subtitle>
+        <text> @G54 @L 
+		@H Mensagem @L
+		Governador, o lago local contém peixes abundantes e saudáveis. O problema é sua profundidade: raramente se aproximam da superfície, onde seriam capturados com facilidade. Se construirmos um Grande Templo de Ceres, talvez sua bênção nos permita aproveitar essa importante fonte de alimento. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa o Grande Templo de Ceres para disponibilizar peixes localmente. @G[gt_ceres_med.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="natives">
+        <title>(!) Comerciantes Locais (!)</title>
+        <subtitle>Incentive Novas Trocas</subtitle>
+        <text> @G[c3 stills_146.png]@L
+		Governador, representantes locais nos procuraram. Eles já apreciam alguns de nossos produtos e desejam comprar ainda mais. Para demonstrar compromisso com seu povo, devemos construir mausoléus onde possam sepultar seus chefes. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa 10 mausoléus pequenos para liberar a área comercial nativa ao sul. @G[mausoleo.png] @G[decorative objetive .png] @L@L@L
+		@H Contexto Histórico @L
+		Dácios e getas são frequentemente relacionados ao conjunto mais amplo de povos trácios, mas as identidades, línguas e fronteiras dos Bálcãs antigos são discutidas. Migrações eslavas ocorreram muitos séculos depois. Não é correto concluir por isso que dácios eram simplesmente mais “próximos” de gregos ou citas; havia contato, influência e diferenças entre todos esses povos. @L@L
+		A cultura dácia desenvolveu-se ao longo da Idade do Ferro sobre tradições anteriores da região. Em 335 a.C., Alexandre, o Grande, atravessou o Danúbio e atacou getas numa campanha inicial, mas não conduziu uma expedição contra Sarmizegetusa nas montanhas dos Cárpatos. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Sarmizegetusa não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L
+		</text>
+    </message>
+
+    <message uid="fish unlocked">
+        <title>(!) Ceres se Alegra (!)</title>
+        <subtitle>Pesqueiros Abundantes</subtitle>
+        <text> @G[c3 stills_135.png]@L
+		@H Mensagem @L
+		Governador, temos o prazer de informar que os sacerdotes sentiram o sorriso de Ceres sobre a cidade. Trabalhadores avistaram muitos peixes próximos à superfície, prontos para a captura. @L@L
+		@H Recompensa @L
+		@P Estaleiros, cais de pesca e peixes liberados. @G[fish_first.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="natives unlocked">
+        <title>(!) Campos Funerários (!)</title>
+        <subtitle>Chefes Satisfeitos</subtitle>
+        <text> @G[c3 stills_77.png]@L
+		@H Mensagem @L
+		Governador, as comunidades locais apreciaram o gesto solene e decidiram ampliar as relações com a cidade. Sua aldeia fica ao sul. @L@L
+		@H Recompensa @L
+		@P A área ao sul do mapa foi liberada. @L @G[native_center.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		@P Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Sarmizegetusa Sustentável</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Desempenho verdadeiramente esplêndido, governador. Com Sarmizegetusa como pilar da cultura romana, nosso domínio na Dácia está assegurado. @L@L
+		Preciso urgentemente de seus serviços novamente na Britânia. Lindum será, sem dúvida, sua missão militar mais difícil! @L@L
+		</text>
+    </message>
+
+    <message uid="mars GT">
+        <title>(!) Bandidos (!)</title>
+        <subtitle>Problemas Comerciais</subtitle>
+        <text> @G[c3 stills_106.png]@L
+		@H Mensagem @L
+		Governador, o banditismo local prejudica nossa economia; comerciantes não se sentem seguros nas estradas de Sarmizegetusa. Um Grande Templo de Marte demonstraria que Roma fará tudo o que for necessário para triunfar aqui. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa o Grande Templo de Marte para reduzir a gravidade das interrupções comerciais. @G[gt_mars_med.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="mars done">
+        <title>(!) Segurança (!)</title>
+        <subtitle>Protegendo o Comércio</subtitle>
+        <text> @G[c3 stills_111.png]@L
+		@H Mensagem @L
+		Graças ao estabelecimento do culto de Marte, impressionamos tanto os habitantes que muitos abandonaram o banditismo e agora buscam a cidadania. @L@L
+		@H Recompensa @L
+		@P A gravidade das interrupções comerciais foi reduzida. @G[Protecting_Trade.png]@L@L
+		</text>
+    </message>
+</localization>

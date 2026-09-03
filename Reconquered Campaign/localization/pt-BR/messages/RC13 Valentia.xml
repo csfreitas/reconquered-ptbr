@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Valência</title>
+        <subtitle>Joia da Coroa da Hispânia</subtitle>
+        <text>
+		@G[c3 stills_140.png]@L
+		@H Contexto Histórico @L
+		A cidade romana de Valentia Edetanorum foi fundada em 138 a.C., na costa do mar Balear, na Hispânia. O nome deriva do latim @valentia, associado a força, vigor ou valor. Um resumo da obra de Lívio afirma que o cônsul Décimo Júnio Bruto concedeu terras e uma cidade a homens que haviam combatido sob Viriato. A identidade exata desses colonos é discutida: o texto pode referir-se a lusitanos rendidos ou a veteranos ligados à campanha, e não permite afirmar simplesmente que eram antigos soldados romanos. @L@L
+		Muitas cidades romanas receberam veteranos e suas famílias. O êxito variava conforme terras, experiência, recursos e relações com as populações locais. O serviço padronizado de 25 anos pertence sobretudo ao exército profissional do período imperial; não deve ser aplicado automaticamente aos soldados da República do século II a.C. @L@L
+		A cultura política romana valorizava o ideal do cidadão proprietário que servia como soldado. Magistrados também podiam comandar exércitos, unindo carreira política e militar. Isso não significava que todo bom político fosse excelente general, nem que todo soldado se tornasse agricultor competente; tratava-se de um ideal social, não de garantia prática. @L@L
+		O triunfo era uma das maiores honras militares concedidas a um comandante. Com autorização do Senado, o general e suas tropas desfilavam por Roma, apresentando prisioneiros, espólios, imagens e narrativas da campanha. Jogos e distribuições podiam acompanhar a celebração. Reis e líderes capturados eram exibidos como símbolos da vitória; Vercingetórix foi apresentado no triunfo de César em 46 a.C. e executado depois da procissão. @L@L
+		A aclamação como @imperator pelas tropas era importante, mas não bastava. O comandante precisava possuir o imperium adequado, reivindicar vitória de grande escala numa guerra externa e obter aprovação do Senado, que podia contestar números, legalidade ou mérito. As regras e precedentes mudaram ao longo do tempo. @L@L
+		O triunfo recompensava realizações, mas sempre foi também instrumento de competição aristocrática e propaganda. Na República Tardia, alianças e rivalidades influenciavam sua concessão. No Império, a família imperial monopolizou progressivamente os triunfos completos, enquanto outros comandantes recebiam honras triunfais. @L@L
+		Esse monopólio refletia a concentração do comando militar no imperador e o receio de rivais, mas a longa transformação e o declínio do Império não podem ser explicados apenas por favoritismo ou culto à personalidade. Sucessão, guerras civis, finanças, fronteiras, epidemias, administração e mudanças regionais também tiveram papéis decisivos. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+        Governador, a República precisa de uma colônia na costa do mar Balear. A área escolhida possui recursos abundantes e terras férteis nas encostas elevadas acima do futuro centro urbano. A maior parte da população viverá nas colinas ao redor do núcleo comercial costeiro. @L@L
+		Quanto ao comércio, muitas cidades da região já possuem indústrias prósperas e não procuram produtos manufaturados. Sua economia dependerá da exportação em grande volume de matérias-primas. Posicione docas e armazéns com sabedoria para reduzir atrasos; rodovias e até um farol são recomendados, apesar do alto custo. @L@L
+		Como a província é pouco povoada, as opções de entretenimento serão limitadas até que alguns patrícios se estabeleçam em Valência. A distância do centro romano também favorece a corrupção; acompanhe cuidadosamente o tesouro para detectar irregularidades. @L@L
+		Roma não participa de grande conflito na região, e Valência está mais segura que muitas cidades. Ainda assim, grupos ibéricos hostis podem atacar mais de uma vez. Mantenha uma guarnição para assegurar a paz. @L@L
+		Lembre-se de que exigirei um nível de Prosperidade superior ao alcançado em suas cidades anteriores. Boa sorte, governador. @L@L
+		
+		@H Éditos @L
+		@Market @Saturation - Você só pode exportar matérias-primas e alimentos, embora em grandes quantidades e para muitas cidades. Produtos manufaturados servirão apenas às necessidades locais. @L@L
+		@Corruption - Para cada fórum construído, você perderá 2 de Apreço por ano, até o máximo de 6 por ano. Essa penalidade é permanente. Depois do fim do subsídio, pequenas quantias proporcionais à população serão desviadas mensalmente do tesouro. Uma Casa da Moeda produzirá economias pessoais adicionais e reduzirá a gravidade dos desvios. @L@L
+		@Distant@ Province - As opções de entretenimento permanecerão limitadas até que 600 patrícios vivam em Valência. @L@L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="corruption">
+        <title>(!) Corrupção (!)</title>
+        <subtitle>Padronização da Moeda</subtitle>
+        <text>
+		@G[c3 stills_134.png]@L
+		@H Mensagem @L
+		Governador, a corrupção local causa perdas consideráveis todos os anos. Uma Casa da Moeda permitiria controlar diretamente a qualidade da moeda em circulação. @L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa uma Casa da Moeda para receber 50 denários adicionais de economias pessoais por mês. @G[city_mint_full.png] @G[decorative objetive .png] @L@L
+		@H Contexto Histórico @L
+		Padrões monetários eram importantes até mesmo para sociedades antigas e pré-industriais. Sistemas de pesos e medidas facilitavam o comércio. @L@L
+		Falsificar, adulterar ou danificar moedas podia ser considerado delito grave. @L@L
+		O cerceio consistia em raspar ou cortar as bordas de moedas para acumular pequenas quantidades de prata ou ouro e depois vendê-las. @L@L
+		A imagem apresenta exemplos de moedas romanas clássicas. @L@L
+		@G[coins.png]@L@L@L
+		</text>
+    </message>
+
+    <message uid="corruption solved">
+        <title>(!) Combate à Corrupção (!)</title>
+        <subtitle>Padrões Monetários Implantados</subtitle>
+        <text>
+		@G[c3 stills_04.png]@L
+		@H Mensagem @L
+		Com a nova Casa da Moeda de Valência, a moeda local tornou-se mais resistente a danos e falsificações. Essas melhorias, combinadas ao reforço da fiscalização, permitem que os servidores combatam os desvios e a adulteração monetária. @L@L
+		@H Recompensa @L
+        A gravidade dos desvios foi reduzida, e você receberá 50 denários adicionais de economias pessoais por mês. Alguma corrupção continuará ocorrendo para preservar o desafio da missão. @G[add_personal_founds.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="patrican event">
+        <title>(!) Gostos Nobres (!)</title>
+        <subtitle>Expansão dos Jogos</subtitle>
+        <text>
+		@G[c3 stills_17.png]@L 
+		@H Mensagem @L
+		Os patrícios de Valência exigem entretenimento melhor! Os impostos que pagam agora podem financiar a expansão dos espaços teatrais e esportivos. @L
+		@G[c3 stills_118.png]
+		@H Recompensa @L
+		@P Arena, Coliseu e covas de leões liberados. @L @G[obj_ente_val.png] @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Valência não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Valência Rica</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Muito bem, governador. Sob sua liderança, Valência tornou-se uma cidade próspera da Hispânia. @L@L
+		Suas habilidades são novamente necessárias na Gália. Lutécia o aguarda... @L@L
+		</text>
+    </message>
+</localization>

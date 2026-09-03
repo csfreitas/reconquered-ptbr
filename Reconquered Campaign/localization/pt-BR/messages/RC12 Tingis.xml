@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Tingis</title>
+        <subtitle>Nos Limites do Mundo Romano</subtitle>
+        <text>
+	@G[c3 stills_108.png]@L 
+		@H Contexto Histórico @L
+		Situada perto das Colunas de Hércules, o atual Estreito de Gibraltar, Tingis teve antiga presença fenícia e depois integrou as redes cartaginesas e os reinos da Mauritânia. A cidade ficava na costa africana, não na Hispânia. Roma ampliou gradualmente sua influência na região depois das Guerras Púnicas, mas a anexação direta da Mauritânia ocorreria somente no século I d.C. A missão comprime esse processo para representar a expansão romana no extremo ocidental. @L@L
+		Gregos e romanos instruídos sabiam que a Terra era esférica, e estudiosos como Eratóstenes chegaram a calcular sua circunferência. Em muitas tradições geográficas, o oceano circundava as terras habitadas, enquanto o céu e os domínios divinos eram explicados de maneiras variadas por poetas e filósofos. Não existia uma única crença romana num “filamento” físico que começasse além do mar. @L@L
+		Relatos antigos sobre viagens distantes podiam descrever águas rasas, lama, nevoeiro, calor, frio e monstros. Essas imagens misturavam observação, rumor e mito e ajudavam a representar os limites perigosos do mundo conhecido, mas não formavam um mapa universal aceito por todos. @L@L
+		Navegadores mediterrânicos conheciam partes da costa atlântica da Europa e da África, e fenícios e cartagineses haviam realizado viagens além de Gibraltar. O conhecimento romano alcançava também a Índia por comércio e incluía informações indiretas sobre a China. A cautela diante do oceano resultava sobretudo da navegação, dos ventos, da falta de portos e da incerteza, não de uma proibição religiosa comum. @L@L
+		Também é difícil medir como uma pessoa comum compreendia mitos e doutrinas. A religião fazia parte da vida cívica, familiar e comunitária: festivais, sacrifícios, juramentos e cultos podiam ser praticados com diferentes graus de devoção. Não há fundamento para supor que a crença sincera estivesse restrita aos sacerdotes, nem que todos aceitassem cada narrativa de forma literal. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Bem-vindo, governador. Os limites do mundo conhecido estão ao nosso alcance, e escolhi um de meus melhores administradores para coordenar nossos esforços nas proximidades da Hispânia. @L@L
+		Tingis possui clima favorável à agricultura e à extração de argila. Use esses produtos para estabelecer a colônia e negociar com outras cidades da República. @L@L
+		Assentamentos próximos também desejam comprar mercadorias que só podem ser produzidas em Tingis com matérias-primas importadas. Um governador empreendedor poderá exportar esses produtos acabados e ainda obter excelente lucro. @L@L
+		O principal local da colônia fica junto a um rio, entre planaltos elevados adequados a bairros residenciais e indústrias. Para construir grandes monumentos, será necessário importar mármore, pedra e madeira. O mármore está especialmente valorizado na República; espere preços muito acima do normal. @L@L
+		Quanto à situação militar, Tingis não é segura. Povos da Mauritânia resistem à influência romana, e grupos hostis podem atacar a cidade. Além disso, Toletum, na Hispânia, permanece um foco de conflito desde sua incorporação ao domínio romano. Suas legiões certamente serão convocadas mais de uma vez para defendê-la. Não permita que a cidade caia, governador, ou será responsabilizado por sua destruição. @L@L
+		
+		@H Éditos @L
+		@Marble @Shortages - Os preços de mármore e pedra estão muito acima do normal. Um objetivo secundário permitirá reduzi-los mais tarde. @L@L
+		@Defender @of @the @Republic - Toletum solicitará auxílio militar. Os pedidos de tropas serão frequentes e grandes forças serão necessárias para vencer. Não subestime a ameaça: as penalidades de Apreço serão severas se fracassar. Legionários treinados em academias são especialmente eficientes em combates fora da cidade. @L@L
+		Roma ainda é uma república. Interprete os pedidos de “César” como determinações do Senado Romano. @L@L
+		@H Eventos Persistentes @L 
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="bog iron">
+        <title>(!) Ferro de Pântano (!)</title>
+        <subtitle>Aproveitando Recursos Locais</subtitle>
+        <text>
+	@G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		Governador, equipar legionários fortalecerá nossas forças e ajudará a proteger a região contra qualquer ameaça. @L@L
+		Infelizmente, Tingis não possui veios de minério de ferro, e a importação pode ser cara. Nossos agrimensores, porém, encontraram ferro de baixa qualidade nos sedimentos do leito do rio. Com métodos de extração em grande escala, os trabalhadores poderão obtê-lo como subproduto. @L@L
+		@H Novo Desenvolvimento @L 
+		As primeiras 10 cavas de argila ou poços de areia fornecerão uma carroça de @iron por mês. Com 10 instalações de cada tipo, você poderá receber no máximo 2 unidades de @iron por mês. Reserve espaço em armazéns que aceitem ferro para receber o produto. @G[smithies_done.png] @L@L@L
+        
+		@H Contexto Histórico @L
+        A Hispânia romana foi essencial para a República e, depois, para o Império. Possuía extensas terras agrícolas e recursos como cobre, prata, chumbo e ouro. Tingis, embora situada na Mauritânia, participava das rotas que ligavam o norte da África à península Ibérica. @L@L
+        Muitas unidades auxiliares e, em diferentes períodos, legiões ou recrutas foram obtidos nas províncias ocidentais. Hispânia e Mauritânia ajudavam a assegurar o extremo oeste romano e sustentavam intenso comércio através do Estreito de Gibraltar. @L@L
+        A romanização nunca eliminou todas as culturas locais. Línguas, costumes e identidades transformaram-se de formas diferentes na Hispânia, na Gália e na Mauritânia. A cultura galo-romana dos séculos posteriores não foi simples retorno ao mundo anterior à conquista, mas resultado de longa mistura, conflito e adaptação. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="Marble price event">
+        <title>(!) Preços do Mármore (!)</title>
+        <subtitle>Pressão Política</subtitle>
+        <text>
+	@G[c3 stills_125.png]@L 
+		@H Mensagem @L
+		Governador, os preços atuais do mármore são absurdos! Para iniciar grandes projetos de construção, precisaremos obter condições melhores para essas importações essenciais. @L@L
+		Talvez, se conquistar prestígio especial junto ao Senado, ele aprove um édito para conter os preços abusivos. @L@L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Alcance 90 de Apreço para reduzir os preços do mármore e da pedra. @G[Marble_Prices.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+        @H Mensagem @L
+        O subsídio colonial terminou, e Tingis não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L@L
+        </text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Mensagem @L
+        As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+        @H Recompensa @L
+        Praça liberada. @G[plaza.png] @L@L
+        </text>
+    </message>
+
+    <message uid="victory">
+        <title>Tingis Fortalecida</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L
+        @H Missão Concluída @L
+        Excelente trabalho, governador. Tingis agora é uma cidade capaz de ajudar a proteger a Hispânia. @L@L
+        Sua próxima missão será em Valência, onde a capacidade de negociar em grandes volumes certamente será decisiva. @L@L
+        </text>
+    </message>
+
+    <message uid="marble">
+        <title>(!) Materiais de Construção (!)</title>
+        <subtitle>Toletum Agradece</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Mensagem @L
+        Governador, o administrador de Toletum enviou materiais de construção excedentes em agradecimento por nossos esforços para proteger sua cidade. Diante da situação do mercado, devemos utilizá-los com prudência. @L@L
+        @H Recompensa @L
+        No próximo mês, 8 unidades de @Marble e 16 de @Stone serão acrescentadas a qualquer armazém que as aceite. @L@L
+        </text>
+    </message>
+</localization>

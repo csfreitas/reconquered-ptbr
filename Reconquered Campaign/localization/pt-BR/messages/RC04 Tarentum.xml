@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Conquista de Tarentum</title>
+        <subtitle>Consequências da Guerra Pírrica</subtitle>
+        <text>@G[c3 stills_97.png]@L
+		@H Contexto Histórico @L
+		A tradição situa a fundação de Taras, a colônia espartana que mais tarde seria chamada Tarentum, em 706 a.C. Assim como ocorreu em Brundisium, a colonização grega do sul da Itália deu origem a numerosas cidades-Estado, ou póleis, que ainda dominavam a região quando Roma iniciou suas guerras de conquista. @L@L
+		Taras tornou-se uma das cidades mais prósperas da Magna Grécia. Durante sua idade de ouro, no início do século IV a.C., o filósofo, matemático e estratego Arquitas foi eleito general sete vezes consecutivas e ampliou a influência de Tarentum sobre outras cidades gregas do sul da Itália. @L@L
+		A cidade teve papel decisivo na Guerra Pírrica ao chamar Pirro do Epiro para enfrentar a República Romana. Depois da retirada do rei, a guarnição epirota entregou Tarentum aos romanos em 272 a.C. Roma então desmantelou suas defesas e consolidou o domínio sobre a região. @L@L
+
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Bem-vindo, governador. Há muito a fazer, portanto vamos direto à tarefa: você deverá reconstruir Taras como Tarentum, uma verdadeira colônia romana. @L@L
+		A cidade fica na Magna Grécia, a “Grande Grécia”, e seu interior ainda é ocupado principalmente por póleis gregas. Elas ressentem a presença romana, e seus ataques e incursões devem aumentar sempre que nossos exércitos estiverem ocupados em outras frentes. @L@L
+		Por isso, você precisará recrutar, treinar, equipar e alimentar uma guarnição considerável. Meus legados calculam que uma força de aproximadamente 6 @forts, apoiada por obras defensivas, será suficiente para resistir até mesmo a um ataque combinado das póleis inimigas. @L@L
+		Essa defesa terá grande importância estratégica. Enquanto Tarentum contiver e desgastar o inimigo, nossas legiões avançarão para conquistar definitivamente essas cidades. Contamos com sua capacidade de improvisar diante de imprevistos; você já demonstrou ser um administrador competente e digno de confiança. @L@L
+		O terreno de Tarentum não é particularmente acidentado e oferece terras férteis e matérias-primas suficientes para criar um próspero empório comercial e um centro do poder romano. A única dificuldade é que a cidade não pode cultivar nem importar @olives. Se quiser fornecer azeite aos colonos, você terá de importar o produto acabado. @L@L
+		Os agrimensores também encontraram ricos veios de @iron @ore. Use esse recurso para armar suas tropas e vender @weapons ao restante da República: em uma época de guerras quase constantes, a procura por armamentos permanece elevada. @L@L
+		Boa sorte, governador. Seu desempenho em Tarentum determinará o futuro de nossas campanhas na Magna Grécia. @L@L
+
+		@H Éditos @L
+		@Military @Buildup - Para cada um dos 3 primeiros fortes construídos e totalmente ocupados por 16 soldados, sua cidade receberá 1.500 denários. O tipo de tropa não importa. @L@L
+		@Rich @Ore @Deposits - O ferro e as armas produzidos localmente têm grande procura em toda a República. @L@L
+
+		@H Informações Adicionais @L
+		Existem três pontos de invasão. As zonas de entrada e saída nunca são usadas por invasores estrangeiros, mas outras bordas expostas representam ameaças em potencial. Examine o mapa e escolha com cuidado onde construir suas defesas. @L@L
+		Roma ainda é uma república; portanto, interprete as solicitações de “César” como ordens do Senado Romano. @L@L
+		@H Eventos Persistentes @L
+		O Santuário de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 pontos de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. Devido a limitações do jogo, os preços iniciais das mercadorias serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+    <message uid="funding">
+        <title>(!) Verba Adicional (!)</title>
+        <subtitle>Mobilização das Legiões</subtitle>
+        <text> @G[c3 stills_108.png]@L
+		@H Mensagem @L
+		O Senado enviou recursos adicionais para compensar os custos de sua mobilização militar.
+		@H Recompensa @L
+		1.500 denários recebidos. @G[more_funds.png] @L@L
+		@H Contexto Histórico @L
+		Os legados eram representantes escolhidos para auxiliar magistrados e comandantes romanos. Em períodos posteriores, eles também assumiriam o comando de legiões. O imperium, por sua vez, era o poder de comando conferido sobretudo a magistrados como cônsules e pretores. Um legado agia por autoridade delegada, representando seu superior e, por extensão, o Estado romano. Diplomatas comuns não possuíam imperium por definição, embora um emissário pudesse representar a dignidade coletiva de Roma. Fontes antigas por vezes retratam enviados romanos como inflexíveis ou arrogantes, mas não é correto explicar toda conduta diplomática como consequência direta do imperium. Gestos de submissão diante de um soberano estrangeiro podiam ser considerados humilhantes em certos contextos, porém as práticas variavam conforme a missão e o período. @L@L
+		As fontes sobre os primeiros exércitos de Roma são fragmentárias, e sua organização mudou muito ao longo dos séculos. Parte de suas formações e equipamentos sofreu forte influência dos etruscos e das cidades gregas da Itália, incluindo tradições de combate hoplítico e o uso de tropas ligeiras. @L@L
+		Há muito mais a dizer sobre os sistemas militares romanos. Outros aspectos serão apresentados nas próximas missões, quando forem relevantes para os acontecimentos e as mecânicas da campanha. @L@L
+		Durante a Monarquia e boa parte da República, o exército era recrutado entre cidadãos classificados de acordo com seus recursos. Em geral, cada homem precisava fornecer seu próprio equipamento. Os mais ricos podiam servir com armamento pesado ou na cavalaria, enquanto os de menos posses atuavam com frequência como infantaria ligeira e escaramuçadores. @L@L
+		Fundas e dardos eram armas valiosas para essas tropas. A funda era barata, fácil de transportar e conhecida em muitas comunidades rurais. Pastores podiam usá-la para proteger rebanhos, e agricultores, para afastar animais das plantações. Essa familiaridade pode ter criado grupos de recrutas experientes, embora o uso militar eficiente ainda exigisse prática. @L@L
+		Além de pedras, fundeiros gregos e romanos utilizavam projéteis de chumbo moldado, muitas vezes bicônicos. Exemplares preservados trazem nomes, símbolos, insultos e provocações dirigidas ao inimigo. Nas mãos de um especialista, esses projéteis podiam causar concussões e ferimentos graves mesmo contra soldados protegidos. Experimentos modernos ajudam a demonstrar sua potência, mas a comparação direta com ferimentos de armas de fogo de pequeno calibre é imprecisa e depende de condições muito diferentes. @L@L
+		Arcos também eram empregados, sobretudo por povos e regiões com tradição própria de arqueiros, como Creta. O treinamento eficiente podia exigir anos de prática, e a fabricação e manutenção de arcos e flechas envolviam conhecimento especializado. Entretanto, lanças, dardos e fundas aparecem com maior destaque em muitas descrições dos exércitos gregos e itálicos desse período; isso não significa que o arco fosse universalmente raro. @L@L
+		A infantaria pesada podia usar capacetes de bronze ou ferro, grevas, lanças, escudos, espadas e diferentes formas de proteção para o tronco. O destaque e o tipo das espadas mudaram ao longo da história romana, mas elas já eram conhecidas nos períodos antigos. O termo “hoplita” deriva de uma palavra grega associada ao equipamento de guerra e passou a designar o combatente pesado das póleis. @L@L
+		Nem todos podiam pagar por uma couraça completa. Alguns recorriam a placas peitorais mais simples. Também existiam proteções de material orgânico, frequentemente chamadas de linothorax nas reconstruções modernas. Armaduras têxteis ou acolchoadas apareceram em muitas sociedades, da Europa à Ásia e às Américas, mas isso não significa que todas fossem construídas da mesma forma nem que possam ser equiparadas diretamente ao linothorax grego. @L@L
+		Imagens e textos antigos confirmam o uso de couraças não metálicas, mas sua construção exata continua debatida. Em vez de uma receita única de camadas coladas com resina, podem ter existido diferentes combinações de linho, couro, costura e outros reforços. @L@L
+		Nas falanges hoplíticas, fileiras compactas de soldados combinavam lanças e escudos para formar uma frente coesa. Disciplina, aparência intimidadora e apoio mútuo podiam afetar o moral antes e durante a batalha. A formação era muito resistente pela frente, mas perdia eficiência quando seu alinhamento era rompido. A ideia de que duas falanges sempre decidiam o combate por uma pressão física coletiva e contínua, às vezes chamada de othismos, permanece debatida entre os historiadores. @L@L
+		Flancos expostos, terreno irregular e dificuldade de mudar rapidamente de direção eram riscos importantes. Unidades pesadas podiam apoiar mutuamente seus flancos, enquanto cavalaria e tropas ligeiras ajudavam a proteger as laterais, hostilizar o inimigo, perseguir fugitivos e explorar aberturas. @L@L
+		Quando duas formações se enfrentavam, lanças mais longas, armaduras e escudos de melhor qualidade podiam oferecer vantagens. Ainda assim, o resultado dependia também de disciplina, coesão, terreno, moral e comando, não apenas do comprimento das armas ou da força do choque inicial. Fontes descrevem combates cerrados entre escudos, mas a imagem de uma disputa decidida somente por empurrões não deve ser tratada como regra universal. @L@L
+		Para a República Média, Políbio descreve uma legião normal de 4.200 infantes e cerca de 300 cavaleiros: 3.000 homens nas linhas de infantaria pesada e aproximadamente 1.200 vélites. A organização exata de 272 a.C. é menos segura, mas a predominância da infantaria já era uma característica marcante dos exércitos romanos. @L@L
+		Por fim, o uso do ferro já estava difundido na Itália muitos séculos antes desta missão, portanto até os primeiros romanos podiam ter acesso a armas e ferramentas desse metal. Ainda assim, ferro não substituiu o bronze de uma só vez nem foi automaticamente superior em todas as situações. A qualidade dependia das jazidas locais, do combustível, do conhecimento dos artesãos, da temperatura alcançada e do tratamento do metal. Certas ligas de bronze com teor adequado de estanho podiam apresentar dureza comparável à de alguns ferros antigos. @L@L
+		O bronze podia produzir armas e armaduras excelentes, mas exigia cobre e estanho, recursos que nem sempre estavam disponíveis no mesmo lugar. A disponibilidade das matérias-primas influenciava tanto a tecnologia quanto o custo do equipamento. @L@L
+		</text>
+    </message>
+    <message uid="side objective 1">
+        <title>(!) Centro Comercial (!)</title>
+        <subtitle>Um Lugar para Repousar</subtitle>
+        <text> @G[c3 stills_12.png]@L
+		@H Mensagem @L
+		Governador, nossos assessores informam que outras cidades da República comprariam de bom grado nosso ferro e nossas armas. No entanto, a falta de segurança e de um lugar adequado para repousar depois de uma longa viagem está afastando os mercadores. @L@L
+		Se construirmos um Caravançará em Tarentum, novos parceiros comerciais poderão se interessar por nossa cidade. @L@L
+		@L@L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa um Caravançará para liberar 2 novas rotas comerciais terrestres. @G[caravanserai.png] @G[decorative objetive .png] @L@L@L@L
+		</text>
+    </message>
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L
+		@H Mensagem @L
+		O subsídio colonial terminou, e Tarentum não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 1 completed">
+        <title>(!) Caravançará (!)</title>
+        <subtitle>Empório Comercial em Funcionamento</subtitle>
+        <text> @G[c3 stills_12.png]@L
+		@H Mensagem @L
+		Graças ao conforto e à hospitalidade oferecidos pelo Caravançará, os mercadores agora podem repousar e recuperar as forças depois de longas jornadas, protegidos dentro de nossa cidade. @L@L
+		@H Recompensa @L
+		Agora é possível negociar com duas novas cidades no mapa do Império. @G[ruta_nueva.png] @L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Santuário de Mercúrio atraíram renomadas guildas de artesãos. Elas abriram oficinas na cidade para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+    <message uid="wheat">
+        <title>(!) Agricultura (!)</title>
+        <subtitle>Cultivo de Trigo</subtitle>
+        <text> @G[c3 stills_01.png]@L
+		@H Mensagem @L
+		Governador, o cultivo de trigo em Tarentum e seus arredores seria muito vantajoso. O clima é apropriado, mas não temos trabalhadores com a experiência necessária. @L@L
+		Talvez a própria deusa da agricultura atenda ao nosso pedido de ajuda. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa e forneça funcionários a um templo grande de Ceres para liberar a produção local de trigo. @G[large_temple_ceres.png] @G[decorative objetive .png] @L@L
+		@H Contexto Histórico @L
+		Para os romanos, a relação correta com os deuses era essencial à prosperidade do Estado. Ritos, votos e oferendas buscavam preservar a pax deorum, a harmonia entre a comunidade e o mundo divino. Sinais de benevolência ou desagrado podiam ser interpretados como acontecimentos de importância pública. Eles não afirmavam simplesmente que “todos os deuses” existiam de maneira idêntica, mas podiam reconhecer divindades estrangeiras e considerar que os deuses protetores de outros povos também exerciam poder. Em guerras, conquistar ou atrair o favor dessas divindades podia assumir importância política e ritual. @L@L
+		A religião romana era receptiva a influências externas. Divindades estrangeiras podiam ser identificadas com deuses romanos ou incorporadas oficialmente aos cultos da cidade. O contato prolongado com etruscos e gregos do sul da Itália contribuiu profundamente para esse processo. Os gregos do período clássico não possuíam uma memória histórica direta do colapso ocorrido no fim da Idade do Bronze; tradições sobre heróis, a Guerra de Troia, Creta e encontros entre deuses e mortais transformaram esse passado distante em uma idade mítica. @L@L
+		As semelhanças entre os panteões grego e romano, portanto, não são coincidência. A arte, a literatura, os mitos e as práticas religiosas gregas exerceram enorme influência sobre Roma, embora os romanos as adaptassem às suas próprias tradições e instituições. Uma tradição posterior afirmava que representantes romanos consultaram leis de cidades gregas antes da redação das Doze Tábuas. A historicidade dessa embaixada é debatida, e não seria correto descrevê-la como uma missão para “trazer a democracia” a Roma depois da expulsão dos reis etruscos. @L@L
+		Um exemplo célebre é a Eneida, epopeia composta por Virgílio no século I a.C. A obra desenvolve tradições mais antigas sobre Eneias, herói troiano já presente na Ilíada, e transforma sua viagem à Itália em parte das origens míticas do povo romano. Não se trata de um relato histórico, mas de uma narrativa fundamental para a identidade cultural de Roma. @L@L
+		A capacidade romana de reinterpretar e incorporar costumes, técnicas, cultos e instituições de outros povos seria uma das grandes forças de seu Estado ao longo dos séculos. @L@L@L
+		</text>
+    </message>
+    <message uid="wheat done">
+        <title>(!) Novas Colheitas (!)</title>
+        <subtitle>Ceres se Alegra</subtitle>
+        <text> @G[c3 stills_01.png]@L
+		@H Mensagem @L
+		Excelentes notícias, governador! Ceres parece verdadeiramente satisfeita com nossas oferendas: agora o trigo pode ser cultivado de forma confiável em nossa cidade. @L@L
+		@H Recompensa @L
+		Produção local de trigo liberada. @G[wheat farm.png] @L@L
+		</text>
+    </message>
+    <message uid="victory">
+        <title>Tarentum Fortificada</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L
+		@H Missão Concluída @L
+		Eu sabia que você seria essencial para nossos planos, governador. Mais uma vez, você correspondeu plenamente à confiança que depositamos em suas habilidades. Em Tarraco, seu talento para a logística será levado ao limite. @L@L
+		</text>
+    </message>
+</localization>

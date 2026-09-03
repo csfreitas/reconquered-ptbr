@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Segunda Carthago</title>
+        <subtitle>Roma Reocupa a Região</subtitle>
+        <text> @G[c3 stills_121.png]@L @L 
+		@H Contexto Histórico @L
+		A Carthago púnica foi destruída em 146 a.C., depois de um longo cerco que encerrou a Terceira Guerra Púnica. Grande parte da cidade foi incendiada ou demolida, e os sobreviventes foram mortos ou escravizados. A famosa história de que os romanos salgaram o solo para impedir qualquer cultivo é uma tradição muito posterior, sem apoio nas fontes antigas. @L@L
+		Uma primeira tentativa de colônia romana, chamada Junônia, foi promovida por Caio Graco em 122 a.C., mas perdeu apoio político. Júlio César planejou nova fundação no local, e a colônia romana permanente foi efetivamente estabelecida sob Augusto, a partir de 29 a.C. Portanto, a missão comprime diferentes projetos num único episódio. Ruínas, comunidades locais e problemas de manutenção do antigo porto ajudam a compor o cenário, mas não explicam sozinhos as mudanças entre essas iniciativas. @L@L
+		O Primeiro Triunvirato, aliança informal entre César, Pompeu e Crasso, desfez-se gradualmente. A morte de Júlia, filha de César e esposa de Pompeu, em 54 a.C. enfraqueceu o vínculo familiar. No ano seguinte, Crasso buscou glória militar contra os partas, mas seu exército foi derrotado em Carras e ele morreu durante uma negociação conturbada. A história de ouro derretido derramado em sua boca é uma narrativa posterior e provavelmente simbólica. @L@L
+		Pompeu administrava suas províncias por meio de subordinados e permaneceu em Roma, tornando-se a figura mais poderosa da política enquanto César combatia na Gália. O grupo conservador do Senado aproximou-se dele para obter apoio contra César. @L@L 
+		O conflito não se reduzia a César permanecer num cargo além do permitido. Seu comando provincial havia sido legalmente prorrogado, mas adversários exigiam que o abandonasse antes de concorrer novamente ao consulado. Sem o imperium, ele ficaria exposto a processos e perderia a proteção política proporcionada pela magistratura. @L@L
+		César desejava candidatar-se ao consulado sem retornar antes como particular, possibilidade que recebera apoio legal, mas passou a ser contestada. Seus inimigos pretendiam processá-lo por decisões tomadas em seus consulados e campanhas. Algumas acusações tinham fundamento jurídico; outras eram instrumentos da disputa política. @L@L
+		Quando as negociações fracassaram e o Senado aprovou medidas de emergência, César cruzou o Rubicão em 49 a.C., iniciando a guerra civil. Nesta missão, chamaremos seus apoiadores de cesarianos e os partidários de Pompeu de pompeianos. @L@L
+		Depois da travessia, Pompeu e os cônsules julgaram que não havia tempo para organizar na Itália uma resistência segura. Grande parte do Senado retirou-se para a Grécia. Como os pompeianos controlavam muitas províncias, frotas e legiões no exterior, uma guerra prolongada parecia favorecê-los. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Governador, chegou uma mensagem urgente. O procônsul Júlio César rebelou-se contra as autoridades senatoriais e cruzou o Rubicão. Isso significa guerra. Pompeu Magno decidiu abandonar a Itália e reunir na Grécia as forças disponíveis. Se algum oficial cesariano procurar sua cidade, permaneça fiel ao Senado e à República. @L@L
+		Você viajará para a África, onde as ruínas de Carthago poderão ser novamente ocupadas, apesar da destruição infligida pelos exércitos romanos um século atrás. Os recursos locais são limitados e há númidas hostis na região. O porto cartaginês, contudo, permitirá aproveitar numerosas rotas marítimas da República. Videiras e oliveiras podem ser cultivadas, e os artigos de luxo serão a especialidade da cidade. @L@L
+		No momento, as opções comerciais são restritas. Construa um farol para conduzir mais navios aos portos e liberar novos parceiros. Comunidades locais ainda habitam a área; algumas parecem dispostas a cooperar, mas será necessário atraí-las com conhecimento e produtos romanos. Espere incursões númidas: a guerra civil deixará as colônias expostas aos inimigos de Roma. Prepare-se e não subestime a ameaça. @L@L@L
+		
+		@H Éditos @L
+		@Alea @Iacta @Est - Começou uma guerra civil entre Caio Júlio César e Cneu Pompeu. Eventos futuros permitirão escolher um lado, cada qual com benefícios diferentes. A opção histórica e @mais @difícil é apoiar Pompeu, mas a decisão é sua. @L@L
+		@Ruins - Você começa com vários fóruns já construídos, que não poderão ser refeitos se forem destruídos. Construir um farol libera novas rotas comerciais, representando a recuperação do porto cartaginês. @L@L
+		
+		@H Informações Adicionais @L
+		Haverá intensa atividade militar. Como sempre, procure pontos de invasão nas bordas abertas do mapa. @L@L
+		Algumas mercadorias começarão muito caras para importar. Isso se tornará comum nos mapas posteriores devido à escala da economia e às grandes cotas de exportação. Para evitar a criação artificial de empregos, mapas maiores e metas mais altas também exigirão preços menores de exportação; negociar em grande volume continuará lucrativo. Por exemplo, em vez de vender 15 unidades de cerâmica por 140 denários cada, você poderá exportar mais de 80 unidades por 90 denários cada.
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas após o fim do subsídio. @L@L
+		@L@L@L@L  
+		</text>
+    </message>
+
+    <message uid="civil war event 1">
+        <title>(!) Batalha de Farsalos (!)</title>
+        <subtitle>Derrota dos Pompeianos</subtitle>
+        <text> @G[c3 stills_32.png]@L @L 
+		@H Mensagem @L 
+		Notícias terríveis, governador: Pompeu Magno foi derrotado na Batalha de Farsalos. Precisamos buscar apoio nas províncias e continuar a guerra. Sua cidade não é exceção; demonstre lealdade acolhendo os oficiais em fuga. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Vital @L
+		Neste evento, você pode apoiar as forças pompeianas ou cesarianas. Sua escolha alterará o desenvolvimento do mapa. Abrir a rota comercial para @Utica apoiará@ Pompeu. Se não a abrir dentro de um ano, você apoiará @César. @L
+		@H Opções @L
+		- Apoiar@ Pompeu mantém a rota para Útica e concede 2.000 denários, mas provocará várias invasões cesarianas. É o caminho militar, com administração econômica mais simples. @L@L
+		- Apoiar @César reduzirá o preço de algumas exportações, mas concederá +1 de Apreço por ano. É o caminho econômico, com defesa militar mais simples. @G[civil_war_event.png] @G[decorative objetive .png] @L@L@L
+			
+		@H Contexto Histórico @L
+		Quando os pompeianos deixaram Roma, não conseguiram retirar todo o tesouro público, que César tomou após entrar na cidade. Ele, contudo, não publicou listas de proscrição. Em conflitos anteriores, como os de Mário e Sula, as proscrições declaravam adversários fora da lei: podiam ser mortos, e seus bens eram confiscados, com recompensas aos denunciantes ou executores. @L@L
+		César adotou uma política pública de clemência, evitando execuções sistemáticas de prisioneiros e perdoando muitos adversários. Alguns recuperaram posições políticas, o que aumentava sua legitimidade e enfraquecia a propaganda inimiga. Essa política não foi absoluta, mas contrastava com as proscrições anteriores. @L@L
+		A clemência permitiu que antigos opositores voltassem à vida pública, e alguns participaram mais tarde da conspiração contra César. Ainda assim, não se pode afirmar que sua misericórdia tenha causado diretamente o assassinato: os conspiradores tinham motivações políticas, pessoais e institucionais variadas. @L@L
+		Depois de Farsalos, Pompeu fugiu para o Egito, reino cliente de Roma. Agentes da corte ptolemaica o assassinaram e apresentaram sua cabeça a César quando este chegou pouco depois. @L@L
+		Fontes antigas afirmam que César reagiu com repulsa ou tristeza e honrou os restos de Pompeu. Eles haviam sido aliados e parentes por casamento. A clemência pública a Pompeu também teria oferecido a César uma poderosa vitória política, mas suas emoções exatas não podem ser conhecidas. @L@L
+		Em triunfos posteriores, imagens de romanos derrotados ou mortos causaram desconforto entre espectadores, mostrando que a propaganda da vitória civil podia contradizer a mensagem de reconciliação. @L@L
+		A guerra levou César à Grécia, ao Egito, à Ásia Menor, à África e à Hispânia. Os principais exércitos pompeianos foram derrotados, e César tornou-se a figura dominante do Estado. O Senado, reduzido e submetido à sua autoridade, concedeu-lhe sucessivos poderes e honrarias. @L@L
+		César recebeu o direito de usar vestes e símbolos associados a triunfos e monarcas, além de precedência extraordinária. Para adversários, essas honras demonstravam a subordinação do Senado. @L@L
+		Ele ampliou o Senado, preenchendo vagas e incluindo aristocratas italianos, provinciais romanizados e alguns homens ligados ao exército. A composição exata e o status de todos os novos membros são discutidos pelas fontes. @L@L
+		Muitas medidas de César concentraram poder de modo autoritário; outras enfrentaram problemas reais de administração, dívida, colonização, calendário e governo provincial. Seu talento político e militar não elimina o caráter extraordinário de sua ditadura. @L@L
+		Após o assassinato, Marco Antônio e Otaviano disputaram a herança política de César. Os conspiradores deixaram Roma, reorganizaram forças no Oriente e foram derrotados na guerra que culminou em Filipos. @L@L
+		No funeral, o discurso de Antônio e a exibição das feridas ou de uma imagem do corpo inflamaram a multidão, segundo relatos antigos. O povo improvisou uma pira no Fórum com bancos e objetos próximos; presentes, roupas, joias e armas foram lançados ao fogo. Os detalhes variam entre as fontes, mas o funeral transformou o luto em mobilização política. @L@L
+		Como já foi dito: as vitórias quase fizeram de César um rei; seu assassinato e funeral contribuíram para transformá-lo em deus, formalmente divinizado depois como Divino Júlio. @L@L@L@L	
+		</text>
+    </message>
+
+    <message uid="civil war pompei">
+        <title>(!) Lealdade em Primeiro Lugar (!)</title>
+        <subtitle>Senatus Consultum Ultimum</subtitle>
+        <text>@G[c3 stills_04.png]@L @L 
+		@H Mensagem @L
+		Você escolheu sabiamente, governador. Graças ao seu apoio, poderemos continuar a guerra a partir da África. Recrute legiões adicionais, pois certamente serão necessárias. @L@L 
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		Forças cesarianas deverão invadir em cerca de 30 meses. Prepare defesas e novas legiões. Para financiar os preparativos, o Senado enviou 2.000 denários. Depois de 3 ataques, você receberá notícias sobre a guerra. @G[civil_war_pompei.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="civil war caesar">
+        <title>(!) Golpe Cesariano (!)</title>
+        <subtitle>A África se Une aos Cesarianos?</subtitle>
+        <text> @G[c3 stills_132.png]@L
+		@H Mensagem @L
+		Ave, governador. Você agiu bem ao me apoiar nesta guerra insensata. Dói-me ver tantos bons romanos morrerem, mas essa injustiça não pode continuar. Minha causa é justa, e minhas ações o demonstram: não proscrevi nenhum de meus muitos inimigos, embora digam que não devo oferecer uma clemência que jamais receberia. @L@L
+		Acredito que as pessoas merecem a oportunidade de corrigir seus erros. Muitos recusaram e escolheram uma morte insensata no campo de batalha em vez de aceitar minha clemência. Você, ao contrário, mostrou-me que alguns governadores são capazes de agir com razão. @L@L
+		Serei franco: procuro legitimidade. Cada cidade que segue seu exemplo fortalece minha causa e poupa vidas. Lembrarei deste favor. Se ainda houver oficiais pompeianos em sua colônia, envie-os a Roma. São homens livres e não pretendo feri-los. Humilhar o inimigo pela clemência e pela razão também é uma vitória política. @L@L
+		@H Novo Desenvolvimento @L
+		Você receberá +1 de Apreço por ano, mas o preço de algumas exportações foi reduzido. @G[civil_war_caesar.png]@L@L@L@L 
+		</text>
+    </message>
+
+    <message uid="civil war caesar attack">
+        <title>(!) Invasão (!)</title>
+        <subtitle>Várias Legiões Desembarcaram da Sicília</subtitle>
+        <text> @G[c3 stills_120.png]@L
+		@H Mensagem @L
+		Governador, os traidores desembarcaram. Precisamos lançá-los de volta ao mar! @G[civil_war_caesar_attack.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="wheat">
+        <title>(!) Cultivo de Trigo (!)</title>
+        <subtitle>Carthago, Celeiro de Roma?</subtitle>
+        <text> @G[c3 stills_03.png]@L
+		@H Mensagem @L
+		Comerciantes trouxeram diversas sementes de cereais, algumas adequadas ao nosso clima. Essa nova fonte de alimento complementará muito bem a dieta dos cidadãos. @L@L
+		@H Novo Desenvolvimento @L 
+		Cultivo de trigo liberado. @G[wheat farm.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="caesar gives up">
+        <title>(!) Fim da Guerra Civil (!)</title>
+        <subtitle>Roma Victrix</subtitle>
+        <text> @G[c3 stills_08.png]@L@L
+		Que seja como deseja, governador. O tempo mostrará seu erro. Minhas legiões já marcham contra outras cidades que resistem à nova ordem. Os líderes da facção pompeiana tiraram a própria vida ou morreram no campo de batalha. Ainda voltaremos a nos encontrar. @L@L
+		@H Novo Desenvolvimento @L
+		A guerra civil terminou, e os ataques cesarianos cessarão. Sua cidade receberá +1 unidade de armas por mês ao recolher equipamentos dos campos de batalha. @G[caesar_gives_up.png]@L@L@L
+		</text>
+    </message>
+
+    <message uid="lighthouse">
+        <title>(!) Farol (!)</title>
+        <subtitle>Redes Comerciais</subtitle>
+        <text> @G[c3 stills_51.png]@L
+		@H Mensagem @L
+		Graças ao farol, novas cidades de toda a República podem negociar conosco. @L@L
+		Várias rotas comerciais foram liberadas. @G[ruta_nueva.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Carthago Romana</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Estou impressionado, governador. Enfrentar uma luta interna como esta guerra não foi fácil. Qualquer que tenha sido sua decisão, estou certo de que fez tudo ao seu alcance para servir Roma e seu povo. @L@L
+		Em Tarso, você enfrentará outro desafio: importar grandes quantidades de alimentos. @L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Carthago não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L@L
+		</text>
+    </message>
+</localization>

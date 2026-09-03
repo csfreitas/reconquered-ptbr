@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Conquista de Tarraco</title>
+        <subtitle>Uma Base Romana na Hispânia</subtitle>
+        <text>@G[c3 stills_73.png]@L
+		@H Contexto Histórico @L
+		A região de Tarraco já era habitada por comunidades ibéricas e mantinha contato com comerciantes do Mediterrâneo muito antes da chegada de Roma. A origem exata do nome Tarraco e a formação do primeiro assentamento permanecem debatidas; por isso, não é possível atribuí-las com segurança a uma única fundação grega ou fenícia. @L@L
+		Para manter a progressão desta campanha, a missão reúne acontecimentos separados por algumas décadas. Historicamente, os romanos estabeleceram sua base em Tarraco em 218 a.C., quando Cneu e Públio Cornélio Cipião chegaram à Hispânia durante a Segunda Guerra Púnica. A posição costeira da cidade a transformou em um centro fundamental de abastecimento e operações militares. @L@L
+		Roma já havia consolidado seu domínio sobre o sul da Itália e disputava com Carthago o controle do Mediterrâneo ocidental. Carthago, situada no norte da África, no território da atual Tunísia, nasceu como colônia fenícia e prosperou graças à sua posição estratégica e às extensas redes comerciais púnicas. @L@L
+		Suas instituições políticas, frequentemente descritas como uma república oligárquica, existiam antes da Primeira Guerra Púnica, travada entre 264 e 241 a.C. A derrota reduziu o domínio cartaginês sobre a Sicília, mas não destruiu o Estado nem criou um sistema político inteiramente novo. @L@L
+		Carthago continuaria sendo a principal rival de Roma. As duas potências ainda se enfrentariam na Segunda e na Terceira Guerras Púnicas, até que Roma se tornasse a força dominante no Mediterrâneo ocidental. @L@L 
+		
+		@G[c3 instructions icon.png]	
+		@H Instruções @L
+		Bem-vindo à Hispânia, governador. Tarraco agora está sob nosso controle, e cabe a você transformá-la em um grande centro de produção e numa base de abastecimento para futuras expedições pela península. Você não participará diretamente dos combates: sua obrigação será fornecer provisões em abundância aos oficiais romanos, aproveitando a extraordinária fertilidade das terras próximas à cidade. @L@L
+		Os rios sinuosos depositam sedimentos ricos no solo ao redor de Tarraco, permitindo colheitas abundantes de trigo e outros produtos. O mármore é outra mercadoria local valiosa, útil tanto para nossas construções quanto para exportações lucrativas. Infelizmente, ainda não conhecemos veios de ferro adequados dentro dos limites da cidade. Você terá de importar o metal para abastecer as oficinas de armas. Um relatório da expedição inicial sugere que talvez seja possível extrair ferro na região, mas a operação exigiria mais trabalhadores do que o pequeno assentamento pode oferecer neste momento. Quando Tarraco crescer, talvez seja possível iniciar a mineração em grande escala. @L@L
+		O terreno será o mais difícil que você enfrentou até agora. Ainda assim, sua experiência deverá permitir que a cidade prospere até mesmo no relevo acidentado da Hispânia. @L@L
+		
+		@H Éditos @L
+		@Iron @Veins - Quando sua colônia atingir 1.500 habitantes, você receberá um objetivo secundário para enfrentar a escassez de ferro. @L@L
+		@Urban@ Poverty - A mão de obra é barata e os salários começam em 20 denários, mas os preços das mercadorias exportadas também são menores. Roma poderá solicitar grandes quantidades de trigo e outros produtos comuns. @L@L
+		
+		@H Informações Adicionais @L
+		Neste mapa, os pontos de mineração estão marcados por círculos de estrada de 2 × 2. As rochas sem essa marcação não permitem a construção de minas nas proximidades. @L
+		Moradias construídas em terrenos elevados recebem um bônus de atratividade. @L
+		Do ponto de vista histórico, Tarraco já deveria possuir uma cidade construída, mas poucos jogadores apreciariam começar dessa maneira. Portanto, caberá a você erguer tudo do zero. Não há atividade militar neste mapa. @L@L
+		Roma ainda é uma república; portanto, interprete as solicitações de “César” como ordens do Senado Romano.
+		@H Eventos Persistentes @L 
+		O Santuário de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 pontos de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais das mercadorias serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+    <message uid="Iron deposits">
+        <title>(!) Jazidas de Ferro (!)</title>
+        <subtitle />
+        <text> @G[c3 stills_122.png]@L
+		@H Mensagem @L
+		Governador, o desenvolvimento da cidade nos deu acesso a mais trabalhadores, entre eles especialistas que confirmaram a viabilidade da extração de minério de ferro na região. A operação, contudo, terá um custo elevado. @L@L
+		Para cada 3 minas de ferro, precisaremos fornecer 1 unidade de madeira por mês para escorar os túneis. Se não entregarmos a madeira necessária, poderão ocorrer acidentes. @L@L
+		@L@L
+		@H Recompensa @L
+		A produção local de ferro foi liberada, mas cada conjunto de 3 minas ativas consumirá 1 unidade de madeira por mês. Se não houver madeira disponível para a manutenção, algumas minas poderão desabar. @L@L
+		
+		@H Contexto Histórico @L
+		Os romanos desenvolveram uma grande capacidade de organizar minas e obras em larga escala. Técnicas de drenagem, escoramento, escavação e beneficiamento permitiram explorar diferentes metais em várias partes de seus territórios. A produção sustentava o Estado e a economia, mas as condições de trabalho podiam ser extremamente duras. Pessoas escravizadas foram empregadas em muitas minas e grandes propriedades. @L@L
+		Séculos depois do período principal desta missão, a concentração de terras contribuiria para as tensões da República Tardia. Aristocratas e outros proprietários ampliaram suas propriedades na Itália, enquanto guerras prolongadas, dívidas e mudanças econômicas pressionavam muitos pequenos agricultores. Parte dessa população migrou para as cidades, especialmente Roma. @L@L
+		As distribuições públicas de trigo, conhecidas como frumentações, ajudavam a abastecer cidadãos registrados. O sistema mudou ao longo do tempo e não era simplesmente um programa universal de “comida grátis”, mas tornou o suprimento de grãos uma questão política de enorme importância. Escassez e preços elevados podiam provocar tumultos. @L@L
+		Por isso, estoques, rotas marítimas e o controle de regiões produtoras foram essenciais para Roma. A segurança alimentar da capital dependia de uma rede cada vez mais ampla de produção, transporte e administração. @L@L
+		As disputas agrárias atravessaram a República Tardia. Os irmãos Graco, outros reformadores e, mais tarde, Júlio César promoveram medidas diferentes para distribuir terras, fundar colônias, assentar veteranos e reorganizar o número de beneficiários das frumentações. Essas políticas não formavam um único programa e encontraram apoio e resistência entre diversos grupos. @L@L
+		Depois da conquista da Gália, o conflito entre César e seus adversários envolveu seu comando, a proteção de sua carreira política, o assentamento de veteranos e a disputa sobre quem controlaria o Estado. A exigência de que abandonasse o exército antes de assegurar sua posição ajudou a levar a crise ao ponto de ruptura. @L@L
+		A guerra civil não teve uma única causa. Foi o resultado de décadas de competição entre líderes, violência política, desigualdade, comandos militares prolongados e instituições incapazes de resolver disputas cada vez mais intensas. @L@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 1">
+        <title>(!) Oficinas de Armas (!)</title>
+        <subtitle>Suprimentos Militares</subtitle>
+        <text> @G[c3 stills_49.png]@L
+		@H Mensagem @L
+		Governador, chegou a hora de estabelecer uma indústria de armas em grande escala. As tensões com Carthago estão no auge, e certamente seremos convocados a contribuir para o esforço de guerra. Se a produção for bem planejada, aumentaremos a eficiência da fundição e teremos mais matérias-primas disponíveis para continuar a expansão. @L@L
+		@L@L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa e forneça funcionários a 12 oficinas de armas para receber +2 unidades de ferro por mês diretamente nos estoques. @G[weapons_full.png] @G[decorative objetive .png] @L@L
+		
+		@H Contexto Histórico @L
+		As armaduras romanas evoluíram junto com as armas e a organização do exército. O contato com novos inimigos e aliados levou à adoção e à adaptação de diferentes formas de proteção. Entre as mais conhecidas estão: @L@L
+		Couraça anatômica de bronze ou materiais orgânicos, @lorica @musculata - Surgiu na tradição grega e itálica e reproduzia de forma idealizada os músculos do torso. Os romanos a utilizaram tanto em combate quanto, sobretudo em períodos posteriores, na representação de comandantes e imperadores. O couro fervido aparece em reconstruções modernas, mas não deve ser considerado o único material empregado. @L@L
+		Cota de malha de ferro, @lorica @hamata - Provavelmente foi adotada pelos romanos por meio do contato com povos célticos. Era flexível, resistente e oferecia boa proteção geral, embora sua fabricação exigisse muito trabalho. Tornou-se uma das proteções mais duradouras do exército romano e foi amplamente usada na República Tardia. @L@L
+		Armadura de lâminas articuladas de ferro, @lorica @segmentata - Sua denominação é moderna e sua origem exata permanece debatida. Os exemplares mais conhecidos pertencem ao início do período imperial. A armadura tornou-se um símbolo visual dos legionários, mas nunca foi a única proteção romana e não representa adequadamente todos os soldados das épocas de César ou Augusto. Outros povos também empregaram formas de armadura laminada. @L@L
+		Armadura de escamas, @lorica @squamata - Era composta por pequenas placas sobrepostas presas a uma base e foi usada por diferentes tropas romanas ao longo de vários séculos, além de aparecer em outros exércitos do Mediterrâneo e do Oriente. Não era apenas um equipamento barato da fase de declínio do Império: sua qualidade, peso e proteção variavam conforme os materiais e a construção. @L@L@L@L
+		</text>
+    </message>
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Tarraco não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 2">
+        <title>(!) Administração (!)</title>
+        <subtitle>Um Lugar para Chamar de Lar</subtitle>
+        <text> @G[c3 stills_64.png]@L  
+		@H Mensagem @L
+		Não convém que um respeitável patrício e governador romano viva em meio à multidão. Construa uma residência do governador para oferecer acomodações confortáveis a você, à sua família e aos seus conselheiros. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa uma residência do governador — deve ser uma vila do governador — para receber uma recompensa secreta. @G[gob_villa.png]  @G[decorative objetive .png] @L@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 2 completed">
+        <title>(!) Descoberta (!)</title>
+        <subtitle>Ouro Ibérico</subtitle>
+        <text> @G[c3 stills_64.png]@L  @H Mensagem @L
+		Enquanto escavavam as fundações de sua nova residência, os trabalhadores encontraram um tesouro oculto de moedas de ouro ibéricas, certamente escondido antes da conquista da região. É justo que essa dádiva permaneça com o novo administrador romano. 
+		@H Recompensa @L
+		4.000 denários recebidos e acrescentados às suas economias pessoais. @G[add_personal_founds.png] @L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="Punic War">
+        <title>(!) Guerra Púnica (!)</title>
+        <subtitle>A Maior Luta da República Romana</subtitle>
+        <text> @G[c3 stills_97.png]@L 
+		@H Mensagem @L
+		Na Sicília, a crise de Messana levou Roma e Carthago a uma perigosa disputa. Os mamertinos que controlavam a cidade buscaram auxílio, e as duas potências intervieram. Depois de intenso debate, Roma enviou suas forças através do estreito. O confronto desencadeou a Primeira Guerra Púnica e colocará todas as cidades romanas à prova. Cada cidadão deverá contribuir para o esforço de guerra. @L@L
+		Armas, denários, provisões e homens serão necessários para sustentar as operações. Sua cidade em crescimento está bem posicionada para aproveitar a nova demanda. Mas atenção: se não entregar os suprimentos solicitados, você perderá Apreço junto ao Senado e ainda colocará o esforço de guerra em risco, com graves consequências. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		O Senado passará a solicitar grandes quantidades de armas, denários e trigo. Deixar de atender a esses pedidos poderá prejudicar seriamente seu Apreço em Roma. @G[weapon_taken.png] @G[decorative objetive .png] @L@L
+		
+		@H Contexto Histórico @L
+		Os exércitos cartagineses refletiam as amplas redes políticas e comerciais de Carthago. Além de cidadãos, reuniam contingentes líbios, ibéricos e célticos, mercenários e tropas fornecidas por aliados. Fundeiros baleares eram muito valorizados, enquanto a cavalaria númida se destacava pela velocidade, pelas escaramuças e pela capacidade de proteger ou ameaçar os flancos. @L@L
+		A infantaria podia combinar formações pesadas de tradição mediterrânica com tropas de diferentes regiões. Carthago também empregou elefantes de guerra, às vezes com grande efeito e outras vezes com resultados desastrosos. O exemplo mais famoso é a Batalha de Zama, no fim da Segunda Guerra Púnica. Fontes antigas mencionam cerca de 80 elefantes, mas seu número, treinamento e atuação exata devem ser tratados com cautela. @L@L
+		Segundo a tradição transmitida por Políbio e Lívio, os romanos abriram corredores em suas linhas para deixar os animais avançarem, enquanto tropas ligeiras os atacavam com projéteis e ruído. Parte dos elefantes foi desviada ou recuou sobre as alas cartaginesas. A posterior vitória da cavalaria romano-númida e seu retorno ao campo de batalha foram decisivos para o triunfo de Cipião. @L@L
+		A organização militar romana havia mudado desde as formações pesadas influenciadas pelas tradições etrusca e grega. O sistema manipular surgiu por um processo gradual durante a República Média, provavelmente ao longo dos séculos IV e III a.C. Sua associação às Guerras Samnitas é plausível, mas não existe evidência segura de uma “invenção” em exatamente 315 a.C. Um manípulo podia reunir cerca de 120 homens, embora o tamanho variasse conforme a linha e o período. @L@L
+		A conhecida disposição em três linhas distinguia hastati, principes e triarii, apoiados por tropas ligeiras que, na descrição de Políbio, aparecem como vélites. Idade, experiência, riqueza e equipamento influenciavam essas categorias, mas a realidade podia ser menos rígida do que os rótulos sugerem. @L@L
+		Políbio descreve em detalhe a legião da República Média. Os vélites levavam espada, dardos e um pequeno escudo chamado parma. Não usavam armadura além do capacete, muitas vezes coberto por pele de animal. Segundo Políbio, essa cobertura ajudava a proteger o capacete e facilitava a identificação do soldado, para que seus atos de bravura pudessem ser reconhecidos e recompensados. Os hastati empregavam o que o autor chama de “panóplia completa”: espada, pila e um grande escudo reforçado, o scutum. Seus capacetes recebiam altas plumas para fazê-los parecer maiores, e muitos protegiam o peito com uma placa metálica. Os principes eram equipados de modo semelhante. Soldados com patrimônio superior a 10.000 dracmas podiam adquirir uma cota de malha. Os triarii tinham equipamento semelhante ao das outras linhas, mas empregavam uma lança de estocada no lugar dos pila. @L@L
+		Esse conjunto permitia combinar proteção, mobilidade e flexibilidade tática. Como o cidadão normalmente precisava fornecer seu próprio equipamento, diferenças de riqueza continuavam importantes. A ampliação da base de recrutamento, porém, não pode ser explicada apenas pelo preço das armas: população, critérios de propriedade, alianças e necessidades militares também mudaram ao longo do tempo. @L@L
+		Hastati e principes usavam os pila, dardos pesados lançados antes do combate corpo a corpo para desorganizar o inimigo e ferir homens ou escudos. Esses projéteis também lhes davam uma opção de ataque à distância em combates envolvendo posições fortificadas. @L@L Roma também recorria a escaramuçadores e cavaleiros de seus aliados itálicos. À medida que suas conquistas se expandiram, contingentes de muitas outras regiões passaram a integrar ou apoiar os exércitos romanos. @L@L
+		O sistema em linhas permitia empregar reservas e reforçar pontos ameaçados, mas não existia uma regra universal de manter dois terços de toda força fora do combate. O grande scutum era valioso tanto na defesa quanto no avanço, enquanto a sucessão das linhas oferecia ao comandante diferentes maneiras de sustentar a luta. @L@L
+		A possibilidade de substituir tropas cansadas na linha de frente continua debatida. Uma passagem organizada entre unidades pode ter ocorrido em algumas circunstâncias, mas romper contato diante do inimigo era difícil e perigoso. @L@L 
+		Uma das explicações propostas para a adoção do sistema manipular é o combate contra samnitas e outros povos montanheses, que empregavam infantaria mais leve em terreno acidentado. A falange compacta tinha dificuldade para atravessar e manter sua formação nesse ambiente; unidades menores, mais flexíveis e dispostas em linhas podiam atuar com maior eficiência. Ainda assim, a transformação do exército romano resultou de muitos conflitos e adaptações, não de uma única campanha. @L@L
+		A infantaria pesada permaneceu o núcleo da legião, e os romanos frequentemente buscavam batalhas campais. Isso não significa que ignorassem flanqueamentos, emboscadas ou manobras: comandantes romanos empregaram todos esses recursos. A cultura militar valorizava disciplina, coragem e combate aberto, mas as fontes antigas também registram estratagemas e ataques de surpresa. @L@L
+		A logística era essencial para a estratégia romana. Exércitos tentavam manter bons suprimentos e ocupar posições defensivas em colinas ou passagens estreitas, pressionando o adversário a atacar em condições desfavoráveis ou a se retirar. Ao mesmo tempo, procuravam negar alimentos, água, animais de carga e rotas de abastecimento ao inimigo. Como muitas forças dependiam sobretudo do forrageamento e dos recursos encontrados no território, destacamentos podiam assediar seus grupos de coleta, atacar campos e comboios e privá-las de provisões até forçá-las a combater. @L@L
+		Ao contrário da imagem de dois exércitos entrando imediatamente em choque, dias ou semanas podiam ser consumidos por escaramuças, reconhecimento, disputa por posições e ameaças às linhas de suprimento. A grande batalha era apenas uma parte de uma campanha mais ampla, e a preparação logística de cidades como Tarraco podia ser tão importante quanto a coragem dos soldados no campo. @L@L@L@L
+		</text>
+    </message>
+    <message uid="smithies done">
+        <title>(!) Industrialização (!)</title>
+        <subtitle>Oficinas de Armas Concluídas</subtitle>
+        <text> @G[c3 stills_117.png]@L 
+		@H Mensagem @L
+		A produção em larga escala que planejamos já está dando frutos. Sua cidade agora contará com mais matérias-primas. @L@L
+		@H Recompensa @L
+		Receba +2 unidades de ferro por mês em qualquer armazém que aceite o produto. @G[smithies_done.png]
+		@L@L@L
+		</text>
+    </message>
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Santuário de Mercúrio atraíram renomadas guildas de artesãos. Elas abriram oficinas na cidade para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+    <message uid="victory">
+        <title>Tarraco Próspera</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Missão cumprida com excelência, governador. Os cartagineses sofreram várias derrotas, e sua habilidade para encontrar recursos e manter nossos exércitos abastecidos teve papel decisivo nesse resultado. @L@L
+		Agora veremos como você se sairá ao enfrentá-los diretamente. Siracusa será um verdadeiro teste para suas habilidades. @L@L
+		</text>
+    </message>
+    <message uid="collapse">
+        <title>(!) Acidente na Mina (!)</title>
+        <subtitle>Desabamento</subtitle>
+        <text>@G[c3 stills_53.png]@L 
+		@H Mensagem @L
+		A falta de medidas de segurança provocou um grave acidente em uma de nossas minas. Tivemos de pagar 1.000 denários às famílias dos trabalhadores mortos. Novos desabamentos poderão ocorrer se não houver madeira suficiente para escorar os túneis. @G[collapse.png] @L@L
+		</text>
+    </message>
+</localization>

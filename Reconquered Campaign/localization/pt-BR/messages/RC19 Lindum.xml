@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Lindum</title>
+        <subtitle>Protegendo a Britânia</subtitle>
+        <text> @G[c3 stills_73.png]@L  
+		@H Contexto Histórico @L
+		Lindum surgiu como fortaleza legionária romana, provavelmente na década de 60 d.C. Mais tarde tornou-se a colônia Lindum Colonia, ou @Colonia @Domitiana @Lindensium, habitada por veteranos e suas famílias. A transformação ocorreu no fim do século I, possivelmente sob Domiciano; a data exata de 86 d.C. não é segura. Esta missão se passa por volta de 122 d.C., durante o governo de Adriano. @L@L
+		O Império concentrou poderes que antes eram distribuídos entre magistrados, Senado e assembleias. Isso podia acelerar decisões e projetos, mas também reduzia controles políticos. A promoção por mérito não desapareceu, embora dependesse cada vez mais do favor imperial, da origem social e das redes de patronagem. @L@L
+		Alguns imperadores eram administradores e comandantes capazes; outros causaram graves crises. Não existe, porém, uma progressão simples em que governantes ruins se tornaram cada vez mais frequentes até o “declínio”: o Império passou por ciclos, reformas, guerras civis e diferenças regionais durante muitos séculos. @L@L
+		Um episódio frequentemente mal compreendido envolve Calígula, que, segundo Suetônio, planejava nomear seu cavalo Incitato cônsul. @L@L
+		Não há prova de que a nomeação tenha ocorrido. A história pode ser exagero hostil ou sátira destinada a mostrar que o imperador considerava os senadores incapazes e o consulado dependente de sua vontade. César também controlou eleições e multiplicou magistrados depois da guerra civil, inclusive com mandatos muito curtos, mas não é possível afirmar que todos os escolhidos fossem desprovidos de mérito. @L@L
+		Depois da guerra civil, César acumulou honras extraordinárias. Sentava-se numa cadeira dourada ou curul de destaque e recebeu o direito de usar vestes triunfais em ocasiões públicas. Púrpura e símbolos régios possuíam forte carga monárquica, embora também fizessem parte da magistratura, do triunfo e da religião romana; o problema estava na concentração e no contexto desses privilégios. @L@L
+		A famosa oferta de uma coroa por Marco Antônio ocorreu durante a Lupercália, em fevereiro de 44 a.C., e não na Saturnália. Antônio era cônsul e participava do festival como luperco. César recusou o diadema diante da multidão, gesto interpretado como rejeição pública da realeza, embora seus adversários continuassem desconfiados. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Governador, viaje para a Colonia Domitiana Lindensium e, em meu nome, amplie enormemente suas fortificações para proteger a Britânia romana. Roma deve separar as terras não conquistadas da Caledônia do restante da ilha sob nosso domínio; somente assim meus súditos conhecerão uma paz duradoura. @L@L
+		Dedique grande força de trabalho à extração dos recursos necessários para muralhas e postos avançados. Lindum será a principal fonte de materiais para meu projeto. @L@L
+		A cidade possui grande potencial de comércio e produção. Por estar entre os centros mais setentrionais do Império, contudo, será alvo frequente de ataques vindos do norte. O termo “pictos” tornou-se comum em fontes romanas apenas a partir do fim do século III; no tempo de Adriano, seria mais correto falar em caledônios e outros povos britânicos. @L@L
+		Esses guerreiros conhecem métodos romanos e podem atacar de muitas direções, cercando e desmoralizando seus adversários. Mantenha forças numerosas, pois os ataques aumentarão em tamanho e frequência. @L@L
+		A argila será o principal produto de Lindum, e há grande procura por cerâmica na Britânia e em regiões mais distantes. Desenvolva a indústria e use a rede romana para dominar o mercado regional. As terras férteis são escassas, e o terreno oferece posições variadas para defesas, indústrias e residências. @L@L
+		Use o relevo a seu favor, escolha onde construir bairros com ou sem muralhas e conduza os inimigos a uma única área defensiva. @L@L
+		Não me decepcione. A muralha deve permanecer de pé, e você responde por seus materiais. Se fracassar, será substituído rapidamente. A Britânia precisa ser protegida contra as ameaças do norte. @L@L
+		
+		@H Éditos @L@
+		Muralha de @Adriano - César solicitará frequentemente grandes quantidades de materiais para a Muralha de Adriano. Mensagens especiais indicarão cada etapa. As fases concluídas aumentarão cotas comerciais. A muralha pronta reduzirá ataques, mas exigirá fornecimento permanente de armas. @L@L
+		@Britânia @Romana - Muitas comunidades hostis ocupam o mapa. Os ataques alcançarão escala enorme. A maioria dos preços é menor, mas os produtos podem ser negociados em grandes volumes. Este era o último mapa do ramo militar da campanha original; espere um desafio significativo. @L@L
+		@Decisões - Você escolherá entre duas abordagens: uma econômica com menos ataques, ou outra com menos restrições e mais ataques. No caminho militar, deverá construir e desenvolver moradias nos “círculos de pedra”; planeje a posição do primeiro bairro. @L@L
+		@H Informações Adicionais @L
+		Há 8 pontos de invasão, todos em bordas expostas e nunca diretamente nos pontos de entrada e saída. Caminhos e gargalos continuam muito úteis. @L@L
+		Historicamente, você deveria começar com uma cidade já construída, mas poucos jogadores apreciariam isso. Caberá a você erguer tudo do zero. @L@L
+		@H Eventos Persistentes @L O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="Choice">
+        <title>(!) Povos Locais (!)</title>
+        <subtitle>Abordagens Diferentes</subtitle>
+        <text> @G[c3 stills_77.png]@L  
+		@H Mensagem @L
+		Governador, as terras próximas são ocupadas por comunidades locais. Podemos ensinar-lhes latim e oferecer produtos romanos, mas integrar suas economias e afirmar nossa autoridade poderá hostilizá-las e provocar seus parentes ao norte. Sua abordagem terá consequências duradouras. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		Escolha como o mapa será jogado: @L@L
+		@Option @ 1 - Construa um posto missionário dentro de um ano para seguir o caminho da pacificação. Postos missionários serão liberados, junto com eventos para remover alguns assentamentos. A atividade militar aumentará e haverá ataques enormes. Em compensação, você poderá usar para comércio as duas cabanas de reunião próximas à entrada. @L@L
+		@Option @ 2 - Não construa um posto missionário dentro de um ano. Você perderá acesso a eles, e os preços dos produtos diminuirão. Haverá menos ataques, mas a administração será mais difícil devido à presença nativa irremovível e ao menor comércio inicial. Você receberá 2.500 denários em fundos pessoais como compensação. @G[Local_Tribesmen.png] @G[decorative objetive .png] @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="Stone circles">
+        <title>(!) Santuários (!)</title>
+        <subtitle>Círculos de Pedra</subtitle>
+        <text> @G[c3 stills_91.png]@L  
+		@H Mensagem @L
+		Governador, nossos representantes reuniram informações suficientes para elaborar um plano. As comunidades veneram antigos círculos de pedra como santuários. Limpar as matas e construir moradias romanas nesses locais afirmará nossa hegemonia cultural e integrará os habitantes à colônia. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Encontre 3 locais de culto e construa pelo menos uma pequena ínsula em cada um. Procure círculos de pedra com círculos de estrada no centro. Cada local concluído reduzirá a presença nativa. O objetivo não é construir e evoluir uma única casa isolada, mas planejar bairros que incorporem os círculos. @G[Circles_of_Stone.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Fish or Vines">
+        <title>(!) Rivalidade (!)</title>
+        <subtitle>Bênçãos e Maldições</subtitle>
+        <text> @G[c3 stills_126.png]@L 
+		@H Mensagem @L
+		Governador, os principais sacerdotes relatam visões: Netuno, deus do mar, e Ceres, deusa da agricultura e fertilidade, estão em disputa, e nós, mortais, ficamos no meio. Cada divindade deseja ser patrona de Lindum. Outros grandes templos poderão ser construídos depois, mas o primeiro definirá o maior prestígio e a dedicação da cidade. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Opção 1 - Construa primeiro o Grande Templo de Netuno para liberar peixes. @L@L
+		Opção 2 - Construa primeiro o Grande Templo de Ceres para liberar videiras. @L@L
+		Somente um desses recursos adicionais poderá ser obtido. Consulte o mapa do império para decidir qual é mais valioso. @G[Fish_or_Vines.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Neptune">
+        <title>(!) Peixes (!)</title>
+        <subtitle>Bênção de Netuno</subtitle>
+        <text> @G[c3 stills_138.png]@L  
+		@H Mensagem @L
+		Governador, Lindum foi dedicada a Netuno. Agora podemos obter peixes frescos dos rios locais de forma confiável. 
+		@H Recompensa @L
+		Cais de pesca e estaleiros liberados. @G[fish_first.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Military path">
+        <title>(!) Comunidades Nativas (!)</title>
+        <subtitle>Desafio Militar Selecionado</subtitle>
+        <text> @G[c3 stills_108.png]@L  
+		@H Mensagem @L
+		Você escolheu o desafio militar de Lindum. As invasões serão muito mais difíceis e haverá incursões adicionais. O comércio permanecerá sem restrições, e postos missionários estarão disponíveis. À medida que formar novas legiões, os habitantes locais se tornarão mais agressivos. Inicialmente, priorize muralhas, torres e patrulhas em vez do número de fortes. @G[Military_path.png] @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		Um objetivo nativo adicional será disponibilizado quando a população atingir 2.500 habitantes. @G[Natives.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Economic path">
+        <title>(!) Autonomia (!)</title>
+        <subtitle>Desafio Econômico Selecionado</subtitle>
+        <text> @G[c3 stills_04.png]@L  
+		Você escolheu o desafio econômico de Lindum. O comércio será muito mais difícil, com interrupções de caravanas, preços menores e perda dos postos missionários. Em compensação, os ataques serão menos frequentes. @G[Economic_path.png]@L@L
+		</text>
+    </message>
+
+    <message uid="Ceres">
+        <title>(!) Videiras (!)</title>
+        <subtitle>Bênção de Ceres</subtitle>
+        <text> @G[c3 stills_139.png]@L  
+		@H Mensagem @L
+		Governador, a cidade foi dedicada a Ceres. Os sacerdotes abençoam os campos e distribuem novas mudas e sementes aos agricultores. 
+		@H Recompensa @L
+		Fazendas de videiras liberadas. @G[obj_wine.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Lindum não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L
+		</text>
+    </message>
+
+    <message uid="raid attacks">
+        <title>(!) Vingança de Sangue (!)</title>
+        <subtitle>Incursores Avistados</subtitle>
+        <text> @G[c3 stills_39.png]@L 
+		@H Mensagem @L
+		Governador, devido à integração de algumas comunidades, grandes clãs do norte declararam vingança contra aqueles que adotaram identidades romanas. Lindum sofrerá ataques persistentes. @L@L
+		@H Novo Desenvolvimento @L
+		Incursões ocorrerão aproximadamente a cada 2 anos, partindo de todos os pontos de ataque. Estabeleça gargalos e patrulhas. Com patrulhamento adequado, será possível derrotar os invasores sem mobilizar legiões. @G[gt_mars_med.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="natives cleared 1">
+        <title>(!) Assimilação (!)</title>
+        <subtitle>Incorporando a População Local</subtitle>
+        <text> @G[c3 stills_67.png]@L 
+		@H Mensagem @L
+		Governador, um grupo local aderiu à cidade e aceitou a cidadania romana. Eles demoliram suas antigas moradias e se mudaram para residências romanas. Agora você pode expandir-se livremente pelas terras desocupadas. @L@L
+		Procure ruínas nas aldeias abandonadas. @L @G[collapsed.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Lindum Próspera</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Desempenho brilhante, governador! Apesar de todas as dificuldades, Lindum tornou-se uma cidade grande e próspera. @L@L
+		Minha última e mais importante missão o aguarda. Massília exigirá que use toda a habilidade e conhecimento adquiridos. @L@L
+		</text>
+    </message>
+
+    <message uid="wall1">
+        <title>(!) Fundações (!)</title>
+        <subtitle>Muralha de Adriano</subtitle>
+        <text> @G[c3 stills_12.png]@L 
+		@H Mensagem @L
+		O primeiro passo deste enorme projeto é escavar as fundações. Para isso, necessito de grandes quantidades de @sand e @clay. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo @L
+		Sempre que acumular 32 unidades de areia e 32 de argila, elas serão enviadas automaticamente à muralha. Depois de 5 remessas, a próxima etapa começará; você receberá +15 de Apreço, e alguns parceiros aceitarão cotas maiores. A partir de agora, você perderá 1 ponto adicional de Apreço por ano, pois o tempo é essencial. @G[wall1.png] @G[decorative objetive .png] @L@L@L
+		@H Contexto Histórico @L
+		A muralha possuía 80 milhas romanas, aproximadamente 73 milhas modernas ou 117 quilômetros. Uma milha romana equivalia a cerca de 1.480 metros. @L@L
+		Ela atravessava o norte da Britânia, de Wallsend, junto ao rio Tyne, no leste, até Bowness-on-Solway, no oeste. Não cruzava a largura máxima de toda a ilha, mas ligava dois litorais ao longo da fronteira escolhida. @L@L
+		Pouco depois do início da obra, a largura planejada da muralha de pedra foi reduzida de cerca de 10 pés romanos, aproximadamente 3 metros, para aproximadamente 8 pés ou menos em diferentes trechos. @L@L
+		Algumas seções ocidentais foram inicialmente construídas com turfa e madeira e substituídas por pedra anos ou décadas depois. @L@L
+		Beda, monge e historiador falecido em 735 d.C., descreveu a muralha séculos depois. Estimativas arqueológicas de sua altura variam; alguns trechos talvez alcançassem cerca de 3,7 metros ou mais com o parapeito. Havia dois torreões entre cada fortim de milha, aproximadamente um a cada terço de milha romana, oferecendo observação e abrigo às tropas. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="wall2">
+        <title>(!) Muralhas (!)</title>
+        <subtitle>Muralha de Adriano</subtitle>
+        <text> @G[c3 stills_12.png]@L 
+		@H Mensagem @L
+		A próxima etapa é erguer muralhas e bastiões. Para isso, necessito de grandes quantidades de @stone e @bricks. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo @L
+		Sempre que acumular 32 unidades de pedra e 32 de tijolos, elas serão enviadas automaticamente. Depois de 5 remessas, a próxima etapa começará; você receberá +15 de Apreço, e alguns parceiros aceitarão cotas maiores. @G[wall2.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="wall3">
+        <title>(!) Quartéis (!)</title>
+        <subtitle>Muralha de Adriano</subtitle>
+        <text> @G[c3 stills_12.png]@L 
+		@H Mensagem @L
+		A construção avança rapidamente. Agora precisamos acumular grandes quantidades de @timber e @furniture. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo @L
+		Sempre que acumular 32 unidades de madeira e 32 de móveis, elas serão enviadas automaticamente. Depois de 5 remessas, a próxima etapa começará; você receberá +15 de Apreço, e alguns parceiros aceitarão cotas maiores. @G[wall3.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="wall4">
+        <title>(!) Alojamentos dos Oficiais (!)</title>
+        <subtitle>Muralha de Adriano</subtitle>
+        <text> @G[c3 stills_12.png]@L 
+		@H Mensagem @L
+		Por fim, construiremos casas de banho, alojamentos de oficiais e outros serviços. Precisamos acumular grandes quantidades de @marble e @gold. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo @L
+		Sempre que acumular 4 unidades de mármore e 4 de ouro, elas serão enviadas automaticamente. Depois de 5 remessas, a muralha será concluída; você receberá +15 de Apreço, e alguns parceiros aceitarão cotas maiores. A perda adicional de 3 de Apreço por ano será removida. @G[wall4.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="wall5">
+        <title>(!) A Muralha Permanece de Pé (!)</title>
+        <subtitle>Muralha de Adriano</subtitle>
+        <text> @G[c3 stills_12.png]@L 
+		@H Mensagem @L
+		Trabalho muito bem executado, governador! A muralha está pronta, e a Britânia está mais segura graças a essa poderosa estrutura. Lindum deverá ajudar em sua manutenção; mantenha um grande estoque de @weapons. @L@L
+		
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		A cidade enviará automaticamente 3 unidades de armas por mês para manter a guarnição. Se não restarem pelo menos 3 armas nos armazéns ao fim de cada mês, você perderá 1 de Apreço. @G[weapon_ware.png] @G[decorative objetive .png] @L@L
+		@H Recompensa @L
+		Você recebeu 15 de Apreço, e alguns parceiros aceitarão cotas maiores. Agora é possível negociar com a Muralha de Adriano no mapa do império. A perda de 3 de Apreço por ano foi removida, e algumas incursões e ataques deixarão de ocorrer. @G[wall5_2.png] @L@L@L
+		</text>
+    </message>
+</localization>

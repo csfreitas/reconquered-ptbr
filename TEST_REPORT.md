@@ -1,56 +1,55 @@
-# Evidências da v0.1.0-beta.1
+# Evidências da v1.0.0-rc.2
 
-Data de corte: **2026-09-01**
+Data de corte: **2026-09-03**
 
-## Overlay textual
+Estado: **prerelease técnica aprovada / QA comunitário dentro do jogo pendente**
 
-- suíte automatizada: **12/12 testes aprovados**;
-- RC01: 6/6 UIDs, zero erros e seis avisos esperados de mídia não representável no overlay textual;
-- RC02: 10/10 UIDs, zero erros e zero avisos;
-- RC03: 12/12 UIDs, zero erros e dois avisos esperados de áudio ainda pendente;
-- caracteres de substituição UTF-8: nenhum encontrado.
+## Cobertura
 
-## Vitória RC01 G05
+- 20 missões e 198 mensagens PT-BR;
+- 197 falas vinculadas por UID;
+- `RC02/epithets` deliberadamente texto-only;
+- dez músicas próprias, separadas das vozes;
+- nenhuma mídia ou XML completo original distribuído.
 
-- Voice ID V01: `XScFJJnNp0BwI1Kt6Ets`;
-- modelo: Eleven v3;
-- estado: `approved artistic / in-game QA pending`;
-- duração: 22,32 s;
-- loudness: -16,2 LUFS;
-- LRA: 1,6 LU;
-- true peak: -1,5 dBFS;
-- MP3: estéreo, 44,1 kHz, 192 kbps;
-- decodificação integral: aprovada;
-- SHA-256 do áudio distribuído: `8E4D99B813418B9C351B61E2A9656C53B6F7B30AD07C3FCE7BBC27C7E469B208`.
+## Testes automatizados e estruturais
 
-## Compatibilidade do baseline
+- suíte local: **21/21 testes aprovados**;
+- compilação do integrador Python e do construtor de release: aprovada;
+- sintaxe dos instaladores PowerShell: aprovada;
+- hashes do baseline público `fileid=2243`: 20/20;
+- correspondência de UIDs e campos localizáveis: integral;
+- quatro ZIPs com uma raiz comum, 240 arquivos e zero caminho duplicado;
+- leitura integral e CRC: aprovados nos quatro volumes.
 
-O instalador exige os seguintes hashes dos cenários públicos atuais:
+## Testes funcionais dos instaladores
 
-| Cenário | SHA-256 |
+Os dois caminhos foram exercitados em fixture limpa no host Windows:
+
+- Python portátil: 21 arquivos de localização, 20 XMLs modificados, 197 falas e dez músicas;
+- PowerShell: a mesma cobertura;
+- manifesto: 248 registros por instalação;
+- desinstalação: 20/20 hashes dos XMLs restaurados;
+- zero overlay e zero áudio PT-BR residual;
+- o ciclo Python foi repetido usando os arquivos realmente extraídos dos quatro ZIPs da `rc.2`.
+
+## Hashes da release
+
+| Arquivo | SHA-256 |
 |---|---|
-| `RC01 Ostia.mapx` | `B4CA9D04C2D94CB1AEA3E7BBA1E1E3AB01F6904BD382EEBAFF60B3006AD43ACF` |
-| `RC02 Brundisium.mapx` | `F7E50095D2790F303ECA7651B99E9F4827E19DBFDFD5E47B920D74E3FFD2BC00` |
-| `RC03 Capua.mapx` | `F4297ECFE96CCFE211AC02EC6E520F0418B7C610127FA58EFF7A27FBDDA05C84` |
+| `Reconquered-PTBR-v1.0.0-rc.2-core.zip` | `DC2EF6EE20D46CDE9B10E9FD1D48613B93B49249F3954F6A13BB1217EDB0AD5F` |
+| `Reconquered-PTBR-v1.0.0-rc.2-music.zip` | `861F35E6315399BE569423465422708747488AC0DF18A3B86822F86E881E7896` |
+| `Reconquered-PTBR-v1.0.0-rc.2-voices-RC01-RC10.zip` | `B70718377F435695C9D22A9C72FE678E15035E3F0D44631A6765520E0B75AA7F` |
+| `Reconquered-PTBR-v1.0.0-rc.2-voices-RC11-RC20.zip` | `ED837C127CA3E2FC74A93BE6C4B056C717E54B55D7C13561ADEC2B54B31429C0` |
+| `RELEASE_MANIFEST.json` | `1C9260DD063388C0B4EC729EEE74742F9BBF0E275BBCC073B313B7E6D1C4E9A3` |
 
-## Instalações já exercitadas no desenvolvimento
+## Limites honestos
 
-- Caesar III PT-BR original em CD-ROM;
-- instalação Steam verificada por integridade;
-- cópia isolada baseada no CD-ROM com build do Augustus do PR;
-- instalação da vitória G05 validada por hash na cópia isolada;
-- instalação Steam não alterada durante a integração G05.
+- não houve teste dentro do Augustus, conforme a dispensa aprovada para a versão 1.0;
+- Linux e macOS ainda não tiveram execução nativa, embora o integrador use somente Python padrão e preserve caminhos sensíveis a maiúsculas/minúsculas;
+- Android, Nintendo Switch e PS Vita dependem por enquanto de preparação em computador e transferência manual;
+- fanfarra seguida de fala, interrupção ao fechar mensagens, glifos e equilíbrio final permanecem no QA comunitário.
 
-## Instalador da release
+## Correção sobre a rc.1
 
-- baseline RC01–RC03 correto: aceito;
-- três overlays instalados: confirmado;
-- áudio opcional G05 instalado: hash `8E4D99B813418B9C351B61E2A9656C53B6F7B30AD07C3FCE7BBC27C7E469B208` confirmado;
-- manifesto e backup automático: confirmados;
-- desinstalação: áudio original restaurado pelo mesmo hash;
-- overlays sem versão anterior: removidos durante a desinstalação;
-- manifesto ativo: removido e arquivado no backup;
-- baseline incompatível: recusado antes de qualquer instalação;
-- cenário modificado usado no teste negativo: hash `C393E5F22BFBADE9ADEA40A9DF2910DA81B9ED8592F04EE94A35770D495D3EE8`.
-
-Esta evidência aprova a release para teste comunitário, não como versão final da campanha completa.
+A `v1.0.0-rc.1` continha os overlays nos ZIPs, mas não os copiava automaticamente para a campanha. A `rc.2` corrige os dois instaladores, inclui os overlays no manifesto e foi validada ponta a ponta. A tag antiga não foi reescrita.

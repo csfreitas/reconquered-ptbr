@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Subjugação de Siracusa</title>
+        <subtitle>A Segunda Guerra Púnica</subtitle>
+        <text> @G[c3 stills_61.png]@L 
+		@H Contexto Histórico @L
+		Siracusa foi fundada como colônia grega no século VIII a.C. e, ao longo de sua história, foi muitas vezes governada por tiranos. Seus habitantes preservaram fortes vínculos culturais helênicos, e a cidade-Estado prosperou durante os séculos anteriores à ascensão de Roma e Carthago, tornando-se o mais poderoso assentamento grego dórico da Magna Grécia. @L@L
+		Essa prosperidade foi abalada quando as duas grandes potências disputaram o controle da Sicília e de sua maior cidade. Durante a Segunda Guerra Púnica, o cerco romano de Siracusa foi árduo. Suas enormes fortificações e máquinas de guerra — algumas associadas ao célebre Arquimedes — ofereceram aos romanos lições valiosas sobre a guerra de cerco. @L@L
+		Como em muitas outras áreas, os romanos aprenderam com os gregos técnicas de cerco e o emprego de máquinas de guerra. Entre elas estavam os escorpiões, engenhos de torção aparentados às balistas. Cordas e tendões de animais armazenavam energia em seu mecanismo, permitindo lançar grandes projéteis semelhantes a dardos. @L@L
+		Outros engenhos de torção, como diferentes tipos de catapultas, também eram populares; Alexandre, o Grande, já havia empregado numerosas máquinas desse tipo em suas conquistas. Eram caras para construir e manter, além de difíceis de transportar. Ainda assim, máquinas de cerco frequentemente acompanhavam os exércitos romanos e podiam ser vitais. Seu uso em batalhas campais existia, embora fosse menos comum. @L@L
+		Outras armas eram construídas no próprio local do cerco: escadas, torres, rampas de terra, aríetes e estruturas de proteção. Muitas recebiam cobertura de couro cru para reduzir o risco de incêndio. Uma torre de cerco também podia servir como plataforma elevada para arqueiros e outros combatentes afastarem os defensores das muralhas. Somente no assalto final as torres precisavam ser encostadas diretamente às defesas inimigas. @L@L
+		
+		@G[c3 instructions icon.png]	
+		@H Instruções @L
+		Governador, a Segunda Guerra Púnica está em pleno curso. Roma acaba de conquistar e saquear Siracusa. Sua tarefa é reconstruir e fortificar a cidade contra os cartagineses, que certamente tentarão retomá-la. O terreno deverá ser decisivo nos próximos combates, sobretudo se você ocupar as elevações e instalar defesas de onde seus soldados possam atacar os inimigos em aproximação. @L@L
+		Não descuide da economia. Siracusa não possui terras agrícolas em abundância, mas o clima favorece o cultivo de oliveiras. Azeitonas e azeite são muito lucrativos quando comercializados em grande quantidade e constituem elementos fundamentais da culinária romana. Os estoques de azeite da República estão reduzidos; portanto, espere receber vários pedidos desse recurso. @L@L
+		Não subestime o comandante inimigo. Ele provavelmente mobilizará tudo o que puder para recuperar a cidade. @L@L
+		
+		@H Éditos @L
+		@Oil @Shortages - Com o passar do tempo, Roma solicitará grandes quantidades de azeitonas e azeite. Os preços desses produtos são mais elevados, enquanto outras mercadorias valem menos. @L@L
+		@Carthaginian @Blockade - As rotas comerciais marítimas têm baixa confiabilidade. Navios podem se perder ao adotar trajetos irregulares para evitar o bloqueio e, apesar dessas precauções, ainda podem ser capturados pelo inimigo. A construção de um farol ajudará a reduzir esses problemas. @L@L
+		@ Greek @Resistance - Anfiteatros, colônias de atores, jardins, árvores, caminhos e a maioria dos parques não estão disponíveis nesta missão. @L@L
+		
+		@H Informações Adicionais @L 
+		@L Há 3 pontos de invasão. Todos ficam em bordas expostas do mapa, mas nunca diretamente sobre os pontos de entrada e saída. @L@L O mapa do império está um pouco mais detalhado, embora ainda não seja abrangente. @L
+		Historicamente, você deveria começar com uma cidade já construída ou em ruínas, mas poucos jogadores apreciariam essa situação. Caberá a você erguer tudo do zero. @L
+		Para treinar e equipar legionários, será necessário construir um arsenal ligado por estrada aos quartéis, para transportar até eles as armas armazenadas. @L@L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 pontos de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. Devido a limitações do jogo, os preços iniciais das mercadorias serão ajustados após o primeiro mês. @L@L@L@L
+		</text>
+    </message>
+    <message uid="Blockade">
+        <title>(!) Bloqueio (!)</title>
+        <subtitle>Interrupções do Comércio Marítimo</subtitle>
+        <text> @G[c3 stills_51.png]@L
+		@H Mensagem @L
+		Governador, a frota inimiga interceptou navios mercantes que se dirigiam ao nosso porto. Teremos de aguardar o envio de novas embarcações antes de retomar o comércio marítimo. @L@L
+		@G[decorative objetive .png] A construção de um farol reduziria a capacidade do inimigo de assediar nossas rotas marítimas. @G[lighthouse.png] @G[decorative objetive .png] @L@L
+		
+		@H Contexto Histórico @L
+		Os romanos costumavam ser considerados marinheiros pouco habilidosos, algo que parece contraditório diante do controle que exerceriam sobre tantos mares no futuro. @L@L
+		Assim como ocorreu com os exércitos terrestres, a marinha romana aprendeu com derrotas e erros, desenvolvendo novos projetos e táticas para enfrentar seus inimigos. @L@L
+		O combate naval frequentemente envolvia um pequeno contingente de fuzileiros para abordagens e defesa, enquanto máquinas de guerra e tropas de projéteis concentravam grande parte da capacidade ofensiva. @L@L
+		Isso favorecia gregos e cartagineses, donos de antigas tradições navais. Os romanos aperfeiçoaram o uso de esporões e empregaram pontes de abordagem para transformar o combate naval em luta corpo a corpo, mais adequada às suas capacidades. @L@L
+		A maioria dos navios da época era movida principalmente a remos, pois o vento nem sempre era confiável. As embarcações possuíam velas, mas não podiam depender delas em todas as circunstâncias. @L@L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 1">
+        <title>(!) Espólios de Guerra (!)</title>
+        <subtitle>Salvamento Naval</subtitle>
+        <text> @G[c3 stills_47.png]@L
+		@H Mensagem @L
+		Recebemos notícias de que moradores locais avistaram navios cartagineses encalhados e abandonados na costa, não muito longe da cidade. Também há uma quantidade considerável de destroços náuticos das embarcações destruídas espalhada pelas praias. @L@L
+		Quando você reunir tropas suficientes, poderá empregá-las para explorar esses naufrágios em segurança e descobrir quais objetos de valor podem ser recuperados. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Mantenha 48 soldados — 3 fortes completos — para receber 4 unidades de madeira e entre 50 e 200 denários, diretamente nos estoques, a cada período de 1 a 3 meses. @G[fort.png] @G[decorative objetive .png] @L@L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Siracusa não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="side objective 1 completed">
+        <title>(!) Salvamento (!)</title>
+        <subtitle>Materiais Reaproveitados</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		Boas notícias, governador. A região ao redor da cidade parece segura, e os moradores começaram a recolher os destroços para que possamos reutilizá-los como julgarmos conveniente. 
+		@H Recompensa @L
+		A cada período de 1 a 3 meses, você receberá 4 unidades de madeira e entre 50 e 200 denários diretamente nos estoques. @G[Repurposed_Materials.png] @L@L@L
+		@L@L@L
+		</text>
+    </message>
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		Graças às generosas doações recebidas pelo novo Grande Templo de Mercúrio, renomadas guildas de artesãos abriram oficinas em nossa cidade para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+    <message uid="victory">
+        <title>Siracusa Romana</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Mais uma vez, você derrotou os inimigos de Roma e construiu uma cidade magnífica. @L@L
+		Em sua próxima missão, você deverá construir no terreno acidentado da Ásia Menor. Avante, para Mileto! @L@L
+		</text>
+    </message>
+    <message uid="workers">
+        <title>(!) Desemprego (!)</title>
+        <subtitle>Programa de Obras Públicas</subtitle>
+        <text> @G[c3 stills_43.png]@L @L 
+		@H Mensagem @L
+		Governador, precisamos urgentemente criar mais empregos para manter nosso povo satisfeito e produtivo. Infelizmente, os recursos locais talvez não permitam que uma cadeia produtiva inteiramente local ofereça todos os postos de trabalho necessários. @L@L
+		@H Novo Objetivo Secundário @L
+		@Option @ 1 - Crie um bairro patrício para compensar o excesso de mão de obra. Uma população de 300 patrícios concederá +1 ponto de Prosperidade por mês. @L@L
+		@Option @ 2 - Transforme ferro e madeira importados em armas e móveis, que poderão ser exportados e absorverão uma força de trabalho maior. Manter 12 unidades de armas e 12 de móveis nos estoques concederá +1 unidade de ferro e +1 de madeira por mês. @L@L
+		Você pode cumprir as duas opções; elas não são mutuamente exclusivas. Não haverá mensagem de confirmação quando forem alcançadas, mas os benefícios se repetirão todos os meses. Em alguns mapas futuros, você precisará encontrar soluções criativas para esses problemas por conta própria; este objetivo existe para ensinar essas possibilidades. @L@L
+		Se a população de sua cidade estiver envelhecendo, talvez já não exista mão de obra excedente. @L@L@L
+		</text>
+    </message>
+</localization>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Londinium</title>
+        <subtitle>Capital da Britânia Romana</subtitle>
+        <text> @G[c3 stills_73.png]@L 
+		@H Contexto Histórico @L
+		As primeiras expedições militares romanas à Britânia ocorreram sob Caio Júlio César, durante as Guerras Gálicas. Ele atravessou o canal com forças consideráveis em 55 e 54 a.C. @L@L
+		Relatos de riquezas, recursos, escravos e prestígio podem ter estimulado o interesse romano; César mencionou pérolas, mas não há base segura para uma expectativa generalizada de ouro espalhado nas praias. A primeira expedição enfrentou forte resistência durante o desembarque na costa de Kent, quando guerreiros britânicos, cavalaria e carros de guerra tentaram impedir a aproximação romana. @L@L
+		Depois do difícil desembarque, os romanos estabeleceram acampamentos e realizaram operações limitadas. Tempestades, danos à frota, abastecimento e a necessidade de voltar à Gália restringiram a campanha. @L@L Os britânicos, assim como os gauleses, pertenciam a muitos povos e comunidades políticas distintas. @L@L
+		Na segunda expedição, César avançou para o interior, derrotou uma coalizão liderada por Cassivelauno, recebeu reféns e tributos prometidos e fortaleceu aliados. Esses compromissos não equivaleram a conquista permanente. Roma só iniciou nova invasão em 43 d.C., sob Cláudio, e mesmo então o domínio da ilha foi parcial e expandiu-se durante décadas. @L@L
+		Londinium tornou-se uma das maiores cidades da Britânia Romana. Provavelmente surgiu por volta de 47–50 d.C. como centro comercial junto a uma travessia do Tâmisa e à rede viária; sua origem exata não é simplesmente a reutilização comprovada de um antigo acampamento militar. A conquista não eliminou conflitos, e abusos administrativos e militares contribuíram para revoltas. @L@L
+		Ao norte viviam povos que os romanos chamavam de caledônios e, séculos depois, de pictos. Terreno, distância, logística e resistência limitaram as conquistas. No século II, o Império consolidou a fronteira com a Muralha de Adriano, grande sistema de fortes, muralhas, fossos e estradas — não apenas uma barreira isolada contra um único “povo picto”. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Governador, viaje para a Britânia. Roma necessita de uma grande e próspera capital provincial na ilha. O local escolhido fica às margens de um grande rio, com argila e madeira abundantes para comércio e construção. A distância do restante do Império, contudo, dificultará a importação em grande volume de artigos de luxo, especialmente azeite. @L@L
+		Estabeleça uma economia de escala. Construa uma cidade grande, produza cerâmica e móveis em massa e exporte-os para cidades da Gália e jovens colônias britânicas. Os preços serão baixos, mas a procura será enorme. @L@L
+		Londinium pode tornar-se importante centro comercial. Se importar ferro e videiras, indisponíveis localmente, também poderá exportar armas e vinho. @L@L
+		Além disso, eu, César, decretei impostos baixos para cidadãos romanos na Britânia, a fim de atrair colonos. Leve essa limitação em conta. @L@L
+		Quanto às forças armadas, a paz prevalece no Império e na nova província, embora a Britânia continue sendo uma fronteira repleta de povos recentemente submetidos. @L@L
+		Muitos britânicos vivem em paz, mas alguns grupos permanecem hostis. Administre bem as legiões: elas poderão ser necessárias, mesmo que apenas para dissuadir revoltas. @L@L
+		
+		@H Éditos @L
+		@Roman @Britain - Academias estão indisponíveis e a alíquota de impostos está fixada em 4%. Se for ultrapassada, será redefinida depois de um mês e você perderá 5 de Apreço. @L@L
+		@Northern @Frontier - Azeite, mármore e pedra são caros. Os valores comerciais são menores que o normal, mas grandes quantidades podem ser exportadas. @L@L
+		@H Informações Adicionais @L
+		Sem academias, construa muitas vilas 2 × 2 ou erga o Grande Templo do Panteão, cujo passante permite uma evolução residencial adicional ao principal bairro patrício coberto por ele. @L@L
+		Esta é a primeira missão da campanha efetivamente situada no período imperial. @L@L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+		Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="Gladiator revolts">
+        <title>(!) Desafio à Autoridade (!)</title>
+        <subtitle>O Espírito Britânico Permanece Indomável</subtitle>
+        <text> @G[c3 stills_27.png]@L  
+		@H Mensagem @L
+		Governador, a província enfrenta crescente agitação entre pessoas escravizadas. Britânicos subjugados se revoltam contra nossos jogos. Recusam-se a considerar honrosa a morte na arena e julgam nossas práticas cruéis. Problemas se aproximam. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		Há risco permanente de revoltas de gladiadores. Construir um Coliseu encerrará esse comportamento. Escolas de gladiadores podem gerar revoltosos, mas arenas e covas de leões podem ser usadas sem problemas. @G[coliseum.png] @G[decorative objetive .png] @L@L
+		@L@L@L
+		</text>
+    </message>
+
+    <message uid="Revolts end">
+        <title>(!) Estado de Direito (!)</title>
+        <subtitle>Que Recomecem os Jogos!</subtitle>
+        <text> @G[c3 stills_19.png]@L  
+		Governador, parabéns pelo esplêndido Coliseu. Os habitantes locais se maravilham com essa demonstração de poder e engenharia romana. A resistência foi contida, e não precisamos mais temer levantes de gladiadores. @L@L
+		@H Novo Desenvolvimento @L
+		O risco de revolta dos gladiadores foi removido. Se o Coliseu deixar de funcionar por qualquer motivo, o risco retornará. @G[mothball.png] @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Londinium não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+    </message>
+
+    <message uid="Iceni uprisings">
+        <title>(!) Rainha Boudica (!)</title>
+        <subtitle>Revolta do Povo Iceno</subtitle>
+        <text> @G[c3 stills_105.png]@L
+		@H Mensagem @L
+		Governador, notícias terríveis chegaram a Londinium! Os icenos rebelaram-se contra a presença romana em resposta a abusos cometidos contra eles. Outros povos se juntam à revolta, e há relatos de romanos e aliados britânicos massacrados. @L@L
+		Um enorme exército se reúne perto de Londinium neste momento. Reforce as defesas e prepare-se para um ataque maciço. A rendição não é opção; os romanos capturados até agora foram mortos com brutalidade. @L@L
+		@G[decorative objetive .png] @H Novo Desenvolvimento @L
+		A atividade militar aumentará drasticamente, como em Mediolanum. Prepare defesas e recrute o máximo possível de legiões. @G[Iceni_uprisings.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="Boudica dies">
+        <title>(!) Boudica Derrotada (!)</title>
+        <subtitle>Suetônio Esmaga a Revolta</subtitle>
+        <text>  @G[c3 stills_108.png]@L
+		@H Mensagem @L
+		Esta é uma mensagem histórica sem efeito na jogabilidade. Os ataques continuarão para preservar o desafio. @L@L
+		@H Contexto Histórico @L
+		Em 60 ou 61 d.C., o governador Caio Suetônio Paulino derrotou o exército de Boudica numa batalha decisiva, encerrando a grande revolta. Tácito afirma que Boudica tomou veneno; Dião Cássio diz que adoeceu e morreu. As forças romanas recuperaram a província, mas a devastação foi enorme. Tácito estimou 70.000 mortos entre romanos e aliados e 80.000 rebeldes mortos na batalha; esses totais antigos são impossíveis de confirmar. Camuloduno, Londinium e Verulâmio foram destruídos. @L@L
+		A violência contra civis foi extrema. Em Camuloduno, defensores resistiram por dois dias no templo antes de serem mortos. Rebeldes capturaram armas romanas e atacaram colonos, muitos deles veteranos estabelecidos na região. Tácito e Dião descrevem atrocidades de maneira retórica e hostil aos rebeldes; seus relatos são fundamentais, mas não devem ser lidos como transcrições neutras. @L@L
+		Nero chegou a considerar a retirada da Britânia, segundo tradição posterior mencionada por Suetônio, mas a cronologia e a relação exata com a vitória de Paulino são incertas. Depois da repressão, Roma alterou parte de sua administração para reduzir novos conflitos. @L@L
+		A revolta começou após a morte de Prasutago, rei cliente dos icenos. Ele nomeou Nero e suas filhas como herdeiros, tentando preservar sua casa, mas autoridades romanas anexaram o reino, confiscaram propriedades e trataram a elite como conquistada. Segundo Tácito, Boudica foi açoitada e suas filhas violentadas. Dívidas e abusos agravaram a revolta. @L@L
+		Tácito atribui a Suetônio um discurso antes da batalha, mas discursos de historiadores antigos eram composições literárias, não registros palavra por palavra. @L@L
+		Na versão transmitida, o general despreza o ruído e a presença de mulheres entre os inimigos, afirma que os britânicos carecem de disciplina e equipamento e ordena que os romanos permaneçam unidos, lancem os pila, avancem com escudos e espadas e esqueçam o saque até conquistar a vitória. @L@L
+		Quando o exército britânico fugiu, sua linha de carroças, famílias e espectadores dificultou a retirada. Os romanos mataram combatentes, pessoas que acompanhavam o exército e animais. O massacre encerrou brutalmente uma das maiores revoltas da história da Britânia Romana. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="hint to build forts">
+        <title>(!) Agitação Crescente (!)</title>
+        <subtitle>Icenos se Preparam para a Guerra</subtitle>
+        <text>@G[c3 stills_76.png]@L
+		@H Relatório de Inteligência @L
+		Chegaram relatos de que os icenos, a nordeste, não plantaram suas colheitas neste ano e fabricam armas. Isso é extremamente preocupante. @L@L Considere recrutar legiões para esmagar uma possível revolta. @G[fort.png] @L@L
+		@H Contexto Histórico @L
+		Os exércitos britânicos compartilhavam armas e práticas com outros povos célticos, mas variavam entre comunidades. Podiam reunir infantaria, tropas ligeiras, guerreiros da elite e cavalaria. Nobres britânicos também usavam carros de guerra, abandonados em grande parte do Mediterrâneo, mas ainda empregados na ilha no século I a.C. @L@L
+		Segundo César, os carros transportavam guerreiros que lançavam projéteis, aproximavam-se rapidamente e desmontavam para combater a pé, enquanto os condutores permaneciam prontos para retirá-los. Podiam perturbar formações, transportar elites e demonstrar prestígio; cargas diretas não eram sua única função. @L@L
+		Em muitas regiões, carros de guerra perderam importância devido ao custo, à manutenção, ao desenvolvimento da cavalaria e à vulnerabilidade em terreno difícil ou diante de tropas organizadas. Na Britânia, condições locais e tradições aristocráticas prolongaram seu uso. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="oil alternatives">
+        <title>(!) Óleo de Sementes (!)</title>
+        <subtitle>Substituto Local</subtitle>
+        <text>@G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		Governador, boticários locais informam que certas sementes e plantas oleaginosas podem ser prensadas para extrair óleo. O processo é ineficiente, mas constitui nossa única fonte inteiramente local, pois oliveiras não crescem no clima britânico. O girassol verdadeiro é originário das Américas e não existia na Britânia romana; o evento representa outros óleos vegetais locais. @L@L
+		@H Novo Desenvolvimento @L
+		A cada 6 meses, 80 unidades de hortaliças podem ser convertidas em 8 unidades de óleo. Mantenha espaço suficiente nos estoques para recebê-lo. O evento retira hortaliças apenas dos armazéns. @G[oil_alternatives.png] @L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Londinium Próspera</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Estou impressionado, governador. Nem mesmo a feroz resistência britânica conseguiu encerrar sua carreira vitoriosa. @L@L
+		Seus talentos são novamente necessários em outro lugar: Sarmizegetusa testará sua criatividade. @L@L
+		</text>
+    </message>
+</localization>

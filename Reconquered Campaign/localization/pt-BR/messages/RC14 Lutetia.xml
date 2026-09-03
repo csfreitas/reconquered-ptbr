@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>Lutécia</title>
+        <subtitle>Dominando a Gália</subtitle>
+        <text> 
+		@G[c3 stills_108.png]@L
+		@H Contexto Histórico @L
+		Lutécia, associada à atual Paris, já era um centro dos parisii quando Júlio César a mencionou durante as Guerras Gálicas. A etimologia do nome é incerta; sua relação direta com uma palavra céltica para “pântano” é apenas uma hipótese. A região possui ocupação humana muito anterior à conquista. Depois da anexação romana, uma nova cidade desenvolveu-se sobretudo na margem esquerda do Sena e cresceu durante o período de Augusto e seus sucessores; portanto, não foi simplesmente fundada do zero no fim do século I a.C. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instruções @L
+		Governador, tenho uma missão importante: você supervisionará a fundação e o desenvolvimento de uma colônia romana na Gália. A cidade será chamada Lutécia, e a região possui madeira de qualidade, ferro e argila. Escolhi você porque os obstáculos serão consideráveis.
+		Primeiro, feras ainda percorrem as florestas da Gália, inclusive em Lutécia. Elimine seus covis e assegure as terras agrícolas nas clareiras que ocupam. As comunidades locais são numerosas e ainda hostis à presença romana. Procure sua cooperação, mas antes de convencê-las a aceitar os costumes romanos, será necessário demonstrar força. @L@L
+		Recrute legiões locais para quebrar a resistência e mostrar a inutilidade de novos ataques. Comunidades nativas também vivem perto de possíveis caminhos ocultos na floresta, por onde povos gauleses ainda hostis certamente avançarão contra a cidade. @L@L
+		Construa defesas nesses pontos e avalie cuidadosamente as rotas de aproximação do inimigo. Depois de garantir a segurança de Lutécia, auxilie cidades aliadas da Gália Romana, pois nosso domínio precisa ser consolidado. A longa e sangrenta guerra civil prejudicou a imagem de Roma como portadora de estabilidade. @L@L
+		Boa sorte, governador. Acompanharei seu progresso atentamente. @L@L@L
+
+		@H Éditos @L@
+		Lengthy @Trade @Routes - Azeitonas e uvas se deteriorariam antes de chegar aos nossos portos. Precisamos importar vinho e azeite já processados. O vinho será obtido ao concluir um objetivo secundário. @L@L
+		@Wilderness - Muitos lobos e comunidades locais ocupam o mapa. Outras cidades usam sua vantagem para cobrar mais por importações como mármore. A alíquota de impostos da cidade será redefinida para 5% todos os meses. @L@L
+		
+		@H Informações Adicionais @L
+		Esta é a primeira missão muito difícil da campanha. Ainda não alcança o nível dos mapas personalizados mais extremos, mas a dificuldade aumentará a partir daqui. Use todas as ferramentas disponíveis. Há muitos pontos de invasão e intensa atividade militar. Este mapa foi alterado de forma mais substancial que vários anteriores. @L@L
+		Use muralhas, pontes e fortes para conduzir os inimigos a um ou dois pontos, onde poderá preparar zonas de extermínio. Tentar defender todas as direções provavelmente sobrecarregará suas forças, pois as legiões não conseguirão reagir depressa em todo o mapa. @L@L
+		@H Eventos Persistentes @L
+		O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="rome route">
+        <title>(!) Artigos de Luxo (!)</title>
+        <subtitle>Rota para a Capital</subtitle>
+        <text> 
+		@G[c3 stills_138.png]@L
+		@H Mensagem @L
+		Governador, para atrair patrícios, precisamos negociar uma licença comercial que permita importar vinho de Roma. É a única cidade disposta a enviá-lo até tão longe por preços razoáveis. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Construa um farol para liberar uma rota comercial com Roma, que vende vinho. Depois que um novo recurso, como o vinho, estiver disponível, abra o menu de ordens especiais das docas e autorize seu comércio. @G[lighthouse.png] @G[decorative objetive .png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="natives">
+        <title>(!) Comunidades Hostis (!)</title>
+        <subtitle>Persuasão pela Demonstração de Força</subtitle>
+        <text> 
+		@G[c3 stills_122.png]@L
+		@H Mensagem @L
+		Governador, nosso conselheiro militar recomenda o recrutamento de tropas adicionais. As comunidades locais são hostis à nossa presença e já negociam com o inimigo para coordenar ataques. Para trazê-las ao nosso lado, precisamos demonstrar que a cidade possui defesas suficientes para impedir incursões. Com pelo menos 80 soldados, poderemos iniciar negociações numa posição mais forte. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+		Mantenha 5 fortes completos de qualquer tipo de tropa para liberar postos missionários. @G[fort.png] @G[decorative objetive .png] @L@L@L
+		@H Contexto Histórico @L
+		Em Lugdunum, examinamos o impacto humano das Guerras Gálicas do ponto de vista das populações locais. Agora consideraremos argumentos e experiências registrados pelo lado romano, sem tomá-los como justificativa automática. @L@L
+		Incursões contra aliados, postos comerciais e caravanas aparecem entre as razões alegadas para intervenções romanas. Durante revoltas e ocupações, romanos, aliados, comerciantes e civis também foram mortos por forças gaulesas. As fontes, contudo, foram escritas em grande parte por romanos e frequentemente serviam para legitimar campanhas. @L@L
+		Roma afirmava proteger seus territórios, aliados e povos clientes contra invasões e movimentos através do Reno. Reações a ataques ou massacres podiam ser extremamente violentas. Isso ajuda a explicar a lógica imperial romana, mas não prova que todas as respostas fossem proporcionais nem que fatores étnicos, políticos e econômicos estivessem ausentes. @L@L
+		Um exemplo notório ocorreu em Uxeloduno, um dos últimos grandes focos de resistência depois de Alésia. César ordenou que as mãos dos defensores capturados fossem cortadas e que eles fossem libertados para servir de advertência. As fontes não dizem que todos foram cegados ou tiveram as orelhas removidas. Foi uma política deliberada de terror para intimidar outras comunidades. @L@L
+		A repressão e a presença militar podem ter reduzido novas revoltas durante as guerras civis, mas não foram a única causa. Exaustão, perdas demográficas, alianças locais, reorganização política e oportunidades dentro do sistema romano também contribuíram para a estabilidade posterior. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> 
+		@G[c3 stills_74.png]@L 
+		@H Mensagem @L
+		O subsídio colonial terminou, e Lutécia não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="mission post unlocked">
+        <title>(!) Intérpretes (!)</title>
+        <subtitle>Comunidades Locais Iniciam Negociações</subtitle>
+        <text> 
+		@G[c3 stills_145.png]@L 
+		@H Mensagem @L
+		Governador, temos o prazer de informar que os líderes locais concordaram em enviar reféns como garantia e parecem finalmente aceitar nossa presença. Devemos empregar intérpretes e diplomatas para convencê-los a compartilhar seus recursos com a cidade. @L
+		@H Recompensa @L
+		Postos missionários liberados. @G[missionary_post.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Mensagem @L
+		As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+		@H Recompensa @L
+		Praça liberada. @G[plaza.png] @L@L
+		</text>
+    </message>
+
+    <message uid="Augustus dies">
+        <title>(!) Morte de Augusto (!)</title>
+        <subtitle>César está morto; vida longa a César.</subtitle>
+        <text> @G[c3 stills_133.png] 
+		@H Mensagem @L
+		Governador, recebemos hoje uma notícia triste. O primeiro cidadão César Augusto faleceu. Sua sucessão certamente provocará incerteza política. @L@L
+		@G[cesar.png]@L@L
+		@H Contexto Histórico @L
+		Augusto nunca adotou um único título oficial equivalente ao moderno “imperador” ou “rei”. Acumulou poderes republicanos, autoridade militar, prestígio religioso e controle político extraordinários. Por convenção historiográfica, ele é considerado o primeiro imperador romano; Tibério, que o sucedeu em 14 d.C., foi o segundo, embora ambos apresentassem seu governo por meio de instituições e títulos romanos tradicionais. @L@L
+		Depois do assassinato de Júlio César, seu testamento revelou a adoção póstuma de Caio Otávio, que assumiu o nome Caio Júlio César Otaviano. Assim, herdou parte da fortuna, do nome e da base política de César, embora sua ascensão ainda dependesse de alianças, exércitos e escolhas próprias. @L@L
+		Otaviano começou como o membro mais jovem do Segundo Triunvirato, aliança legal com Marco Antônio e Marco Emílio Lépido. Com o tempo, afastou Lépido, derrotou Antônio e Cleópatra e reorganizou o Estado sob sua supremacia. @L@L
+		Augusto não era simplesmente desinteressado por assuntos militares. Participou de campanhas, planejou guerras e controlou os comandos, mas problemas de saúde e estilo de governo fizeram com que delegasse muitas operações. Marco Vipsânio Agripa, seu amigo e colaborador, foi comandante excepcional e decisivo em vitórias terrestres e navais. @L@L
+		Ao contrário da clemência pública associada a Júlio César, Otaviano participou das proscrições do Segundo Triunvirato em 43 a.C., junto com Antônio e Lépido. Responsabilidades específicas são debatidas, mas as listas levaram à morte e ao confisco dos bens de numerosos adversários, entre eles Cícero. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Lutécia Poderosa</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L @L 
+		@H Missão Concluída @L
+		Mais uma vez estou impressionado com suas habilidades, governador. Graças aos seus esforços, Lutécia é uma metrópole movimentada no coração da Gália. @L@L
+		Em Cesareia, você enfrentará seu maior desafio até agora: uma província sem produção local de alimentos. @L@L
+		</text>
+    </message>
+</localization>

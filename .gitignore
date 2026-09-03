@@ -1,3 +1,8 @@
 *.zip
 .reconquered-ptbr-install.json
 .reconquered-ptbr-backup/
+Reconquered Campaign/audio/
+.reconquered-ptbr-media-install.json
+.reconquered-ptbr-media-backup/
+__pycache__/
+*.pyc

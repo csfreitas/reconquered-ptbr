@@ -1,82 +1,62 @@
-# Reconquered PT-BR — beta comunitário não oficial
+# Reconquered PT-BR v1.0.0-rc.2
 
-Versão: **v0.1.0-beta.1**
+Este candidato comunitário localiza as 20 missões da versão pública atual do Reconquered (`fileid=2243`) para português brasileiro. Ele contém 198 mensagens, 197 falas e dez músicas próprias. Não contém mapas, XMLs completos, imagens, vídeos, sons ou músicas originais de Caesar III/Reconquered.
 
-Baseline: **Reconquered Current público (`fileid=2243`)**
+Release oficial do candidato: <https://github.com/csfreitas/reconquered-ptbr/releases/tag/v1.0.0-rc.2>. A `v1.0.0-rc.1` foi substituída porque seus instaladores não copiavam automaticamente os overlays textuais.
 
-Data: **2026-09-01**
+## Downloads necessários
 
-Este pacote permite à comunidade testar a localização PT-BR da campanha Reconquered no Caesar III/Augustus. Não é uma versão oficial do Reconquered e não contém mapas, músicas, imagens, vídeos, falas ou outros assets originais da campanha.
+Baixe e extraia os quatro ZIPs na mesma pasta:
 
-## Conteúdo desta beta
+1. `Reconquered-PTBR-v1.0.0-rc.2-core.zip`;
+2. `Reconquered-PTBR-v1.0.0-rc.2-music.zip`;
+3. `Reconquered-PTBR-v1.0.0-rc.2-voices-RC01-RC10.zip`;
+4. `Reconquered-PTBR-v1.0.0-rc.2-voices-RC11-RC20.zip`.
 
-- textos completos de RC01 Óstia, RC02 Brundisium e RC03 Capua;
-- configuração do locale `pt-BR`;
-- áudio PT-BR próprio e opcional da vitória de RC01, Rei de Roma V01/G05;
-- instalador com validação por hash e backup automático;
-- desinstalador que restaura os arquivos anteriores;
-- checksums e evidências de QA.
+Todos usam a mesma pasta raiz. O instalador verificará a presença e os hashes de todos os volumes antes de alterar a campanha. Ele instala automaticamente os 21 arquivos de localização, além das falas e músicas; não é necessária cópia manual da pasta `localization`.
 
-RC04–RC20 ainda não estão incluídas. Briefing e eventos intermediários de RC01 também não são publicados nesta beta porque ainda possuem gates artísticos ou funcionais pendentes.
-
-## Requisitos
-
-1. Uma instalação legítima de Caesar III.
-2. A versão pública atual do Reconquered compatível com o baseline `fileid=2243`.
-3. Um build do Augustus com suporte a overlays de mensagens customizadas:
-   - [PR #1893 no Augustus](https://github.com/Keriew/augustus/pull/1893);
-   - [branch de desenvolvimento no fork](https://github.com/csfreitas/augustus/tree/feature/custom-campaign-localization-overlays).
-
-O instalador recusa versões diferentes do baseline para evitar aplicar textos ou mídia sobre cenários incompatíveis.
-
-## Instalação
-
-Abra o PowerShell na pasta extraída e execute:
+## Windows
 
 ```powershell
-.\Install-Reconquered-PTBR.ps1 -CampaignDirectory "C:\caminho\para\Reconquered Campaign"
+.\Install-Reconquered-PTBR-Media.ps1 -CampaignDirectory "C:\caminho\para\Reconquered Campaign"
 ```
 
-Para testar também a vitória PT-BR aprovada de RC01:
+## Linux e macOS
 
-```powershell
-.\Install-Reconquered-PTBR.ps1 -CampaignDirectory "C:\caminho\para\Reconquered Campaign" -InstallRc01VictoryAudio
+```sh
+python3 reconquered_ptbr_media.py install "/caminho/para/Reconquered Campaign"
 ```
 
-O áudio opcional substitui localmente `audio\Ostia2.mp3`, depois de criar backup. O original não está presente neste pacote.
+Ou, após conceder permissão de execução ao atalho:
 
-No Augustus, selecione o locale `pt-BR`. Se o locale do jogo estiver configurado como português compatível, o alias também poderá ser detectado conforme a configuração do overlay.
+```sh
+./install-reconquered-ptbr-media.sh "/caminho/para/Reconquered Campaign"
+```
+
+## Android, Nintendo Switch e PS Vita
+
+Prepare a pasta `Reconquered Campaign` em Windows, Linux ou macOS usando um dos instaladores acima. Depois transfira a pasta já preparada para o diretório de dados do Caesar III/Augustus no dispositivo. Preserve o backup criado pelo instalador no computador.
 
 ## Desinstalação
 
+Use o desinstalador da mesma família utilizada na instalação:
+
 ```powershell
-.\Uninstall-Reconquered-PTBR.ps1 -CampaignDirectory "C:\caminho\para\Reconquered Campaign"
+.\Uninstall-Reconquered-PTBR-Media.ps1 -CampaignDirectory "C:\caminho\para\Reconquered Campaign"
 ```
 
-Os arquivos anteriores são restaurados a partir do backup criado durante a instalação. O backup é preservado para recuperação manual.
+```sh
+python3 reconquered_ptbr_media.py uninstall "/caminho/para/Reconquered Campaign"
+```
 
-## Como testar
+## Requisitos e limites
 
-Ao relatar problemas, informe:
+- requer a versão pública atual do Reconquered correspondente aos hashes do pacote;
+- requer o suporte textual do Augustus PR #1893 ou build compatível;
+- a integração audiovisual modifica somente os XMLs públicos presentes no computador do usuário e cria backup;
+- o instalador recusa baseline divergente ou volume ausente antes da primeira alteração;
+- o QA dentro do jogo será comunitário, conforme decisão do projeto para a versão 1.0.
 
-- versão e commit do Augustus;
-- origem da instalação do Caesar III: Steam, GOG, CD-ROM ou outra;
-- locale configurado;
-- missão e UID/evento da mensagem;
-- screenshot;
-- se o problema é tradução, layout/glifo, áudio, volume, gatilho ou travamento.
+## Conteúdo deste repositório
 
-Use o modelo de issue do repositório. Não envie assets originais do Reconquered.
-
-## Estado de aprovação
-
-Esta release está **aprovada para beta comunitário**. Isso não equivale a `approved final`:
-
-- textos RC01–RC03 passaram pelos validadores automatizados;
-- vitória G05 de RC01 foi aprovada artisticamente, masterizada e verificada tecnicamente;
-- testes funcionais adicionais, glifos, mídia e playthrough continuam abertos;
-- RC02 e RC03 ainda não possuem vozes finais nesta beta.
-
-## Direitos e atribuição
-
-Consulte [LICENSE-NOTICE.md](LICENSE-NOTICE.md). Este pacote não concede autorização para redistribuir assets de Caesar III ou Reconquered.
+A árvore Git contém os 20 overlays PT-BR, planos de integração, instaladores e documentação. Os WAVs não são versionados devido ao tamanho; estão somente nos assets da release. Contribuições e relatos devem seguir [CONTRIBUTING.md](CONTRIBUTING.md), sem anexar conteúdo original do Reconquered ou Caesar III.

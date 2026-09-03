@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+    <message uid="intro">
+        <title>A Cidade de Tarso</title>
+        <subtitle>Capital da Cilícia Romana</subtitle>
+        <text>@G[c3 stills_129.png]@L 
+        @H Contexto Histórico @L
+        A região de Tarso é habitada há milhares de anos, com vestígios que remontam ao Neolítico. Durante a Idade do Bronze, integrou o mundo da Anatólia e esteve sob influência hitita. A cidade ocupou posição estratégica nas rotas comerciais e foi disputada por assírios, persas, macedônios, selêucidas e muitos outros poderes. @L@L
+        Em 67 a.C., Pompeu Magno recebeu poderes extraordinários para combater os piratas que ameaçavam o Mediterrâneo. Sua campanha foi rápida e eficaz, mas não criou do nada a província da Cilícia: Roma já organizara uma província com esse nome no fim do século II a.C., e Pompeu ampliou e reorganizou o controle romano na região. Seu grande triunfo de 61 a.C. celebrou também as vitórias orientais sobre Mitrídates e outros reis, não apenas a guerra contra os piratas. @L@L
+        Pompeu demonstrou grande capacidade estratégica e administrativa. Os grupos chamados genericamente de piratas operavam em muitas costas e ilhas do Mediterrâneo, com importantes bases na Cilícia, e atacavam embarcações, cidades costeiras e viajantes. Júlio César foi sequestrado por piratas quando jovem, episódio célebre que não será repetido aqui em detalhes. @L@L
+        Campanhas anteriores haviam obtido resultados limitados. Grandes forças podiam destruir uma base, mas grupos móveis escapavam e se instalavam em outro local. O problema também envolvia guerras, escravidão, redes comerciais e a fragilidade do policiamento marítimo. @L@L
+        Pompeu recebeu, na verdade, enormes recursos, autoridade e forças. Dividiu o Mediterrâneo em setores, coordenou comandantes e frotas e limpou rapidamente as rotas ocidentais antes de concentrar-se na Cilícia. Ataques simultâneos por terra e mar impediram que muitos adversários simplesmente fugissem para outra base. @L@L
+        Diversas rendições foram aceitas, e Pompeu reassentou antigos piratas em comunidades agrícolas e cidades do interior. A combinação de força, clemência e reassentamento desarticulou redes locais e tornou as rotas romanas de comércio e transporte muito mais seguras. @L@L
+		
+		@G[c3 instructions icon.png]
+        @H Instruções @L
+        Governador, viaje para a Cilícia. Sua nova missão é conduzir a romanização de Tarso. A cidade deverá tornar-se capital da província e um grande centro do Oriente romano. Pelos detalhes da tarefa, este talvez seja seu desafio mais difícil até agora. @L@L
+        Comecemos pelas vantagens. A região é rica em minérios, metais e pedras preciosas. A extração será difícil, mas formará a base da economia de Tarso. Infelizmente, quase não há terras agrícolas nem depósitos de argila. As árvores locais também não fornecem madeira adequada para a maioria das obras. A cidade estará numa posição delicada: será indispensável estabelecer uma extensa rede comercial e administrar os muitos produtos importados e exportados. @L@L 
+		Além disso, ainda temos dificuldade para convencer os gregos da superioridade da religião e do panteão romanos. Para demonstrar o poder de nossos deuses, inicialmente você só poderá construir alguns pequenos templos. À medida que a cidade crescer, erga imensos monumentos para a glória de Roma e de suas divindades. @L@L
+		Quanto às forças armadas, os partas testam nossas defesas, e as incursões em nosso território serão frequentes. Não os subestime: sua cavalaria e seus arqueiros são adversários perigosos. Mantenha várias legiões de guarnição para proteger Tarso. @L@L@L
+		
+        @H Éditos @L
+        @Cultural @Tensions - A cidade só pode construir 10 pequenos templos de qualquer tipo. Depois disso, eles serão desativados. Se ultrapassar o limite por meio de brechas do jogo, você perderá rapidamente Apreço e denários. @L@L
+        @Mining @Magnate - Todos os recursos de mineração estão disponíveis. A primeira mina de cada tipo fornecerá +1 unidade do respectivo recurso a cada 2 meses, diretamente nos estoques. @L@L
+        
+		@H Informações Adicionais @L
+		Há 2 pontos de invasão e alguma atividade militar. Os locais de mineração estão marcados por estradas circulares; procure-os nas montanhas. Este mapa foi mais alterado que outros, pois o terreno plano e pouco variado da versão básica não oferecia características suficientes para preservar. @L@L
+        O mapa demonstrará que nem todas as moradias plebeias precisam evoluir até grandes ínsulas. Quando o segundo tipo de alimento for raro, mantenha parte delas em nível inferior e compense com mais moradias patrícias ou residências patrícias mais evoluídas. Com uma rodovia completa, caravançará e/ou bônus do Grande Templo de Mercúrio, ainda será possível desenvolver todas as moradias plebeias até grandes ínsulas. @L@L
+        @H Eventos Persistentes @L
+        O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até a cidade atingir 10 de Prosperidade. As oficinas somente são liberadas depois do fim do subsídio. @L@L
+        Devido a limitações do jogo, os preços iniciais serão ajustados depois do primeiro mês. @L@L@L@L@L
+        </text>
+    </message>
+
+    <message uid="caravenserai">
+        <title>(!) Crasso (!)</title>
+        <subtitle>Empório Comercial</subtitle>
+        <text>@G[c3 stills_36.png]@L 
+        @H Mensagem @L
+        Governador, a República prospera, mas sua cidade, abençoada com jazidas de ouro e outros metais, continua atrasada e incapaz até mesmo de processar os próprios produtos. @L@L
+		Permita que eu me apresente: sou Marco Licínio Crasso. Os patrícios do Senado chamam-me de homem mais rico de Roma, mas não considero essa minha principal qualidade. Fortunas não se constroem sozinhas; onde outros veem ínsulas incendiadas, eu vejo oportunidades. @L@L
+        Olho para Tarso e enxergo tudo o que ela pode se tornar. Permita-me patrocinar seu empreendimento. @L@L
+        Comprarei materiais de construção e os enviarei aos seus armazéns. Em troca, você construirá um caravançará para receber os comerciantes. A exportação de metais locais ajudará muito meus outros negócios. @L@L
+        Naturalmente, poderá usar como desejar qualquer material que sobrar. Só peço que, quando chegar o momento, retribua e me ajude num de meus projetos. @L@L
+		@G[decorative objetive .png] @H Novo Objetivo Secundário @L 
+		Opção 1 - Assente as fundações de um caravançará para aceitar o acordo. Você receberá os materiais prometidos; prepare espaço para armazenar 32 unidades de madeira, 32 de pedra e 32 de tijolos. Depois de aceitar, deverá concluir a construção dentro de 3 anos ou enfrentar a ira de Crasso. @L@L
+        Opção 2 - Não assente as fundações dentro de um ano e ignore a proposta. Isso desagradará moderadamente a Crasso. @L@L
+        Opção 3 - Aceite o acordo, receba os materiais, mas não conclua o monumento, traindo Crasso. Isso provocará um único ataque de forças romanas. @G[caravanserai.png] @G[decorative objetive .png] @L@L
+        @H Contexto Histórico @L
+        Crasso era conhecido como o homem mais rico de Roma. Investia em terras, imóveis, empréstimos e outros negócios. Plutarco relata que comprava propriedades incendiadas ou ameaçadas pelo fogo por preços muito baixos e mantinha trabalhadores escravizados especializados em construção; a conhecida história de uma brigada que só agia após a venda resume essa reputação, mas seus detalhes não são igualmente confirmados por todas as fontes. @L@L
+        A cobrança romana não era tão centralizada quanto os sistemas modernos. Governadores, magistrados locais e contratantes participavam da arrecadação, e corrupção, extorsão e apropriação indevida eram problemas frequentes, embora também pudessem resultar em processos. @L@L
+        Políticos desejavam províncias orientais lucrativas, com tributos e tarifas comerciais, ou comandos que oferecessem conquistas. Guerras podiam gerar espólios, prestígio e pessoas escravizadas. @L@L
+        Parte dos impostos era contratada a companhias de publicanos, que ofereciam ao Estado uma soma e procuravam recuperar o valor na arrecadação. Disputas sobre contratos, lucros, dívidas e concessões eram comuns. Crasso e outros romanos influentes mantinham interesses financeiros ligados a essas redes. @L@L
+        Crises de dívida existiram em muitas sociedades antigas, mas o cancelamento geral não era um mecanismo rotineiro e neutro. Em Roma, propostas de redução, moratória ou abolição de dívidas eram altamente controversas e podiam redistribuir perdas entre devedores, credores e proprietários. @L@L
+        A escravidão era central na economia romana, e pessoas escravizadas tinham pouquíssima proteção contra exploração e violência. A antiga servidão pessoal por dívida de cidadãos romanos, associada ao @nexum, havia sido abolida séculos antes, embora devedores ainda pudessem perder bens, sofrer coerção e, em diferentes regiões do mundo romano, cair em formas de dependência. Prisioneiros de guerra, pessoas traficadas e filhos de mulheres escravizadas eram fontes muito mais importantes da escravidão no fim da República. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="favor event start">
+        <title>(!) Negociação Difícil (!)</title>
+        <subtitle>Retribuindo o Favor</subtitle>
+        <text> @G[c3 stills_123.png]@L 
+        @H Mensagem @L
+        Governador, espero que tudo esteja bem e que sua cidade obtenha bons lucros com o novo caravançará. @L@L 
+		Chegou a hora de cumprir sua parte do acordo. Procuro concessões no Senado, pois meus cobradores de impostos estão sendo empurrados para a dívida pelas exigências crescentes de pagamentos adicionais. O apoio de um amigo ajudará imensamente. Tenho certeza de que ficará satisfeito em contar aos senadores sobre o excelente auxílio que recebeu de meus agentes. @L@L
+        Meus inimigos conservadores certamente se ressentirão de seu apoio público, mas ele é necessário para obter concessões dos grupos mais moderados. @L@L
+		@H Novo Desenvolvimento @L
+		Durante os próximos 5 anos, você perderá 2 pontos adicionais de Apreço por ano. Construir e manter funcionários numa Casa da Moeda concederá renda pessoal extra nesta missão, que poderá ser usada para presentes. @G[favor_menos.png]
+		@L@L@L
+		</text>
+    </message>
+
+    <message uid="subsidy">
+        <title>(!) Fim do Subsídio (!)</title>
+        <subtitle>Oficinas Liberadas</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+        @H Mensagem @L
+        O subsídio colonial terminou, e Tarso não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L@L@L
+        </text>
+    </message>
+
+    <message uid="favor repayed">
+        <title>(!) Favor Retribuído (!)</title>
+        <subtitle>Recompensas Políticas</subtitle>
+        <text>@G[c3 stills_125.png]@L 
+        @H Mensagem @L
+        Foi um prazer trabalhar com você, governador. Consolidei minha posição no Senado; considere quitada sua dívida pessoal. Procuro agora um comando no Oriente. A Pártia parece pronta para a conquista, e ainda me faltam os louros militares necessários para ampliar minha influência. Talvez voltemos a nos encontrar. @L@L
+		
+	    @H Novo Desenvolvimento @L
+        O evento de redução do Apreço terminou. @G[favor.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="alexandria">
+        <title>(!) Comerciantes (!)</title>
+        <subtitle>Celeiro da República</subtitle>
+        <text>@G[c3 stills_74.png]@L 
+        @H Mensagem @L 
+        Governador, Alexandria, capital do Reino do Egito, deseja comerciar conosco. A cidade tem muito a oferecer, sobretudo excedentes de trigo que poderão ser decisivos para alimentar nossa população. @G[ruta_nueva.png] @L@L
+		
+		@H Contexto Histórico @L
+        Nesse período, o Egito ptolemaico acumulava dívidas e dependia cada vez mais do apoio romano, funcionando em muitos aspectos como reino cliente. Isso não significava domínio romano direto: a dinastia ptolemaica ainda governava o país. Seu fundador, Ptolemeu I, havia sido general de Alexandre, o Grande. @L@L
+        Depois da conquista de Alexandre, o Egito tornou-se uma sociedade que combinava tradições egípcias com elites e comunidades gregas e macedônias. Os reis ptolemaicos adotaram títulos e representações faraônicas, enquanto administração, exército e economia refletiam influências diversas. No século I a.C., o reino enfrentava graves crises dinásticas e financeiras. Roma o anexaria somente em 30 a.C., depois da guerra entre Otaviano, Antônio e Cleópatra. @L@L
+        Apesar dessas crises, o Egito continuou sendo grande produtor de cereais. Após a anexação, seu trigo teria papel ainda mais importante no abastecimento de Roma; antes disso, comércio, tributos e acordos já conectavam a produção egípcia aos mercados romanos. @L@L@L@L
+		</text>
+    </message>
+
+    <message uid="plaza">
+        <title>(!) Praça Liberada (!)</title>
+        <subtitle>Ladrilhos e Mosaicos</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Mensagem @L
+        As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L
+        @H Recompensa @L
+        Praça liberada. @G[plaza.png] @L@L
+        </text>
+    </message>
+
+    <message uid="temples">
+        <title>(!) Tensões Culturais (!)</title>
+        <subtitle>A Situação Piora</subtitle>
+        <text>@G[c3 stills_126.png]@L
+        @H Mensagem @L
+        Governador, somos ridicularizados porque nossa cidade ainda depende de pequenos templos para honrar os deuses romanos. Não podemos permitir isso; sua decisão afetou a estabilidade de toda a República. @L@L
+        @H Novo Desenvolvimento @L
+        Você perdeu 1.000 denários e 20 de Apreço por possuir mais que os 10 pequenos templos permitidos. A penalidade poderá ocorrer novamente dentro de um ano se o problema não for resolvido. @G[menos_favor_money.png] @L@L
+		</text>
+    </message>
+
+    <message uid="scam">
+        <title>(!) Inimigo Poderoso (!)</title>
+        <subtitle>Crasso Envia uma Expedição</subtitle>
+        <text> @G[c3 stills_98.png]@L
+        @H Mensagem @L
+        Você insiste em romper nosso acordo! Pensa que sou tolo, governador? Enquanto desperdiçava os materiais fornecidos, procurei solução mais direta para minhas necessidades financeiras. O Senado autorizou-me a levá-lo a Roma para ser julgado por sua flagrante má administração. Restam-lhe poucos amigos no Senado; agora pode considerar-me seu inimigo pessoal. @L@L
+        @H Novo Desenvolvimento @L
+        Crasso enviou uma pequena força para invadir a cidade. Ela chegará dentro de um ano. Se Tarso sobreviver, não haverá novas consequências. @G[civil_war_caesar_attack.png] @L@L
+		</text>
+    </message>
+
+    <message uid="ignored">
+        <title>(!) Oferta Recusada (!)</title>
+        <subtitle>Enfrente Crasso</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Mensagem @L
+        Governador, procurei sua amizade, mas fui rejeitado. Às vezes observo uma ínsula incendiada... e percebo que seu maior potencial é ser removida como o entulho que se tornou. Hoje você conquistou um inimigo no Senado. @L@L
+		@H Novo Desenvolvimento @L
+        Você perdeu 15 de Apreço. @G[favor_menos.png] @L@L@L
+		</text>
+    </message>
+
+    <message uid="victory">
+        <title>Tarso Romana</title>
+        <subtitle>Você é Vitorioso</subtitle>
+        <text> @G[c3 stills_127.png]@L
+        @H Missão Concluída @L
+        Espero que tenha apreciado sua passagem pelo Oriente, governador. Seu trabalho aqui terminou, pois seus talentos são ainda mais necessários em outro lugar. @L@L
+        Tingis precisa de uma liderança competente para alcançar a grandeza! @L@L
+        </text>
+    </message>
+</localization>

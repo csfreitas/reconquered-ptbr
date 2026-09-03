@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization version="1" language="pt-BR">
+<message uid="intro"><title>A Conquista de Mediolanum</title><subtitle>A Gália Cisalpina se Expande</subtitle><text> @G[c3 stills_104.png]@L
+@H Contexto Histórico @L
+Mediolanum, a atual Milão, foi fundada por volta de 600 a.C. pelos ínsubres, povo de cultura céltica. Os romanos conquistaram a cidade em 222 a.C.; ela se tornou rapidamente um centro comercial e populacional. A conquista ampliou o domínio romano na Gália Cisalpina, embora a organização formal da região como província tenha ocorrido mais tarde. @L@L
+Mediolanum foi uma das cidades mais importantes da República e, depois, do Império, graças à sua posição na rede viária do norte da Itália. Políbio descreveu a região como abundante em vinho, cereais e lã de boa qualidade. Suínos destinados ao abastecimento público e privado eram criados nas florestas, e a fartura local permitia preços muito baixos. @L@L
+Ao contrário do que este cenário representa, a guarnição de Mediolanum não impediu o exército cartaginês de atravessar os Alpes. Aníbal Barca continuou avançando pela Itália, derrotando sucessivos exércitos romanos. @L@L
+Suas vitórias táticas, contudo, não se converteram em vitória estratégica, e a Segunda Guerra Púnica terminou a favor de Roma. @L@L
+@G[c3 instructions icon.png] @H Instruções @L
+Governador, bem-vindo a Mediolanum e à região recém-conquistada. Transforme esta acidentada paisagem setentrional numa cidade digna de ocupar posição central na administração romana. @L@L
+O comércio está limitado às caravanas terrestres, mas há muitas cidades romanas próximas. Algumas cidades orientais também discutem um pacto comercial. Observe atentamente os preços das licenças, ou suas exigências abusivas poderão esgotar rapidamente seus recursos. @L@L
+A região é rica em mármore, pedra e madeira. Argila e areia também podem ser extraídas com relativa facilidade. É possível cultivar trigo, mas o clima setentrional reduz sua produtividade. O solo pedregoso ainda permite o cultivo de hortaliças e videiras. @L@L
+Devido à guerra, quase todas as cidades procuram armas. Mediolanum, porém, não possui jazidas de ferro. Para entrar nesse mercado lucrativo ou equipar legionários, importe minério e produza as armas localmente. @L@L
+Segundo nossos agrimensores, o local comportará 8.000 habitantes. Isso exigirá rápida expansão das importações de alimentos, mas um governador de sua habilidade certamente vencerá o desafio. @L@L
+Quanto ao Estado e às forças armadas, a República enfrenta Carthago pela segunda vez. Há poucas legiões disponíveis na Itália, e cada cidade deve cuidar da própria defesa. Os Alpes parecem oferecer uma grande barreira, mas suas tropas talvez sejam enviadas para auxiliar outras cidades. Não esperamos uma força inimiga substancial e só podemos manter pequena presença militar na região. @L@L
+Como as legiões precisam defender o restante da República, você não poderá construir mais de 2 fortes legionários. Também não terá engenheiros militares e, por enquanto, não poderá erguer torres nem fortificações. Se a situação mudar, reconsideraremos essas restrições. @L@L
+O Pontífice Máximo decretou que nenhum pequeno santuário seja construído: somente obras grandiosas aos deuses devem estimular a devoção dos cidadãos. Por isso, pequenos templos estão proibidos. Ele também considera a medicina uma distração da piedade; portanto, você não poderá construir clínicas. @L@L
+Boa sorte, governador. Lembre-se de seus deveres: exigiremos muito desta jovem cidade nos próximos anos. @L@L@L
+@H Éditos @L@
+Protected @by @the @Alps - Você não pode construir muralhas nem torres até que eventos posteriores ocorram. Se construir mais de 2 fortes, perderá Apreço rapidamente. @L@L@
+Pontifical @Edict - Você não pode construir pequenos templos nem clínicas médicas. Erga depressa grandes templos ou, melhor ainda, oráculos e mausoléus para evitar a ira dos deuses. A cidade começa com recursos disponíveis nos armazéns. @L@L
+@H Informações Adicionais @L
+Há 8 pontos de invasão, todos em bordas expostas do mapa e nunca diretamente nos pontos de entrada e saída. Use gargalos: bloqueie uma passagem e deixe outra aberta como zona de extermínio, induzindo os inimigos a avançar para uma única defesa. @L@L
+Roma ainda é uma república; interprete os pedidos de “César” como ordens do Senado Romano. @L@L
+Historicamente, você deveria começar com uma cidade já construída, mas poucos jogadores apreciariam isso. Caberá a você erguer tudo do zero. @L
+@H Eventos Persistentes @L
+O Grande Templo de Mercúrio libera a Praça. O subsídio concede 100 denários por mês até 10 de Prosperidade; as oficinas somente são liberadas depois de seu término. Devido a limitações do jogo, os preços iniciais serão ajustados após o primeiro mês. @L@L@L@L</text></message>
+
+<message uid="Militarization"><title>(!) Emergência (!)</title><subtitle>Senado Aprova Recrutamento</subtitle><text> @G[c3 stills_102.png]@L
+@H Mensagem @L
+Governador, chegaram ao Senado notícias terríveis: Aníbal Barca, o temido general cartaginês, está na Hispânia e procura uma passagem para a Itália. Batedores cartagineses investigam os passos alpinos que conduzem a Mediolanum. @L@L
+Pelo bem da República, faça todos os preparativos necessários e fortifique a cidade. Engenheiros acompanham esta mensagem para construir as defesas. Recrute novas legiões e mobilize todo cidadão capaz. Se Aníbal cruzar os Alpes, a República poderá sofrer um desastre! @L@L
+Nosso tesouro está esgotado e o Senado não poderá oferecer novo auxílio. Arrecade fundos por todos os meios necessários. Que Júpiter proteja a todos nós. @L@L
+@H Novo Desenvolvimento @L
+Édito “Protegidos pelos Alpes” revogado: todas as restrições militares foram eliminadas, e você recebeu +15 de Apreço para compensar possíveis dívidas da mobilização. @G[Military_Emergency.png] @L@L@L
+@H Dicas Adicionais @L Assim como no cenário original, este mapa ensina uma lição específica. Se houver somente dois acessos ou “gargalos”, bloqueie completamente um deles e transforme o mais defensável em sua principal zona de extermínio. Mantendo um caminho livre para a cidade, os inimigos tenderão a seguir pela abertura em vez de atacar outras direções. Concentre ali suas defesas. @L@L Muitos mapas exigem o uso inteligente de fortes e muralhas para bloquear acessos. Isso dá tempo para suas tropas reagirem e conduz o inimigo ao local escolhido, de preferência sob forte apoio de balistas. @L@L</text></message>
+
+<message uid="trade permit"><title>(!) Licenças Comerciais (!)</title><subtitle>Cidades Orientais Oferecem Associação</subtitle><text> @G[c3 stills_74.png]@L @H Mensagem @L
+Governador, representantes da importante guilda comercial do leste chegaram à cidade. Dizem que Mediolanum possui grande potencial e oferecem aos seus mercadores a admissão na liga... por um preço. Se aceitar a troca, garantirão licenças comerciais mais baratas dentro da liga. @L@L
+@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+Armazene 32 unidades de mármore e 32 de vinho para adquirir a associação à Liga Comercial Oriental. Os produtos serão enviados como tributo e, como recompensa, o custo para abrir rotas comerciais orientais será reduzido. @L@L
+Isso não lhe renderá amigos em Roma: o facciosismo prejudica o esforço de guerra. Se abrir as rotas de Patávio ou Aquileia antes de concluir o objetivo, não poderá obter a licença e pagará o preço integral até mesmo pela segunda cidade. @G[Trade_Permits.png] @G[decorative objetive .png] @L@L@L</text></message>
+
+<message uid="gifts accepted"><title>(!) Associação (!)</title><subtitle>Mais Novo Membro da Liga Comercial</subtitle><text> @G[c3 stills_04.png]@L @H Mensagem @L
+Saudações, governador. @L Temos o prazer de anunciar que sua guilda mercantil e toda a cidade de Mediolanum agora são membros autorizados da Liga Comercial Oriental! @L Você não precisará pagar o preço maior reservado aos não associados e desfrutará das licenças reduzidas dos membros. @L Bem-vindo à Liga! @L@L
+- Marecus Vasnius, Grão-Mestre da Guilda @L@L
+@H Recompensa @L
+O custo para abrir rotas comerciais orientais foi reduzido, mas daqui em diante você perderá 1 ponto adicional de Apreço por ano. @G[gifts_accepted.png] @L@L</text></message>
+
+<message uid="Mars GT"><title>(!) Medidas Desesperadas (!)</title><subtitle>Marte, Patrono de Mediolanum</subtitle><text> @G[c3 stills_122.png]@L @H Mensagem @L
+A invasão cartaginesa é iminente! Mediolanum ocupa a melhor posição para resistir, e o inimigo está longe de suas linhas de abastecimento. As elites locais pedem que a cidade seja dedicada a Marte. Militarize a população e recrute novas legiões. @L@L
+O Pontífice Máximo reconhece a gravidade da situação e concederá maior liberdade religiosa após a dedicação formal do templo. @L@L
+@G[decorative objetive .png] @H Novo Objetivo Secundário @L
+Construa o Grande Templo de Marte para liberar clínicas. Espere ataques enormes, inclusive simultâneos; maximize suas forças e prepare defesas pesadas. @G[gt_mars_med.png] @G[decorative objetive .png] @L@L
+@H Contexto Histórico @L
+O exército cartaginês sofreu perdas terríveis ao cruzar os Alpes. Mesmo enfraquecido, surpreendeu os romanos e venceu várias batalhas. Muitos guerreiros celtas descontentes reforçaram suas fileiras, desejando vingança pelas conquistas romanas. @L@L
+Aníbal é considerado um dos maiores generais da história. Sua habilidade tática se destacou pelo emprego de emboscadas, amplos flanqueamentos e tropas ocultas para surpreender o inimigo — embora os próprios romanos também fossem capazes de adaptação e manobra. @L@L
+Roma sofreu derrotas devastadoras no lago Trasimeno e em Canas; cônsules morreram nessas campanhas. Ainda assim, a República demonstrou enorme capacidade de recuperação: reconstruiu legiões, adaptou métodos e prosseguiu na guerra. @L@L
+A falta de conquistas duradouras e de apoio suficiente impediu Aníbal de converter suas vitórias na Itália em triunfo estratégico. Anos depois, Cipião Africano levou a guerra ao norte da África e derrotou Aníbal em Zama. @L@L@L@L</text></message>
+
+<message uid="plaza"><title>(!) Praça Liberada (!)</title><subtitle>Ladrilhos e Mosaicos</subtitle><text> @G[c3 stills_04.png]@L @H Mensagem @L
+As generosas doações recebidas pelo novo Grande Templo de Mercúrio atraíram renomadas guildas de artesãos, que abriram oficinas para produzir belos ladrilhos e mosaicos destinados aos espaços públicos. @L@L @H Recompensa @L Praça liberada. @G[plaza.png] @L@L</text></message>
+
+<message uid="favor"><title>(!) Insolência (!)</title><subtitle>Recrutamento Preocupa os Senadores</subtitle><text> @G[c3 stills_57.png]@L @H Mensagem @L
+Governador, elementos leais informaram que sua cidade está recrutando legiões além do permitido. Não aceitaremos que retire soldados necessários à guerra para defender uma província remota. Dissolva as legiões excedentes ou será declarado traidor e julgado à revelia. @L@L
+@H Novo Desenvolvimento @L Você perdeu 20 de Apreço. A penalidade se repetirá dentro de um ano se o problema não for resolvido. Você só pode manter 2 fortes. @G[favor_menos.png] @L@L</text></message>
+
+<message uid="clinic"><title>(!) Medicina (!)</title><subtitle>Pontífice Máximo Concede Exceção</subtitle><text> @G[c3 stills_123.png]@L @H Mensagem @L
+Governador, as aves sobrevoaram o Capitólio e pousaram no templo de Júpiter Ótimo Máximo: um sinal seguro dos deuses. Ouvi falar de sua dedicação a Marte e da luta contra a ameaça cartaginesa. Considere relaxado em sua cidade o decreto que limita instalações médicas. Elas serão necessárias para tratar as vítimas da guerra. @L@L
+Que Júpiter lhe conceda força, @L@L - Públio Licínio Crasso, Pontífice Máximo de Roma @L@L
+@H Recompensa @L Clínicas liberadas. @G[medic.png]
+@H Contexto Histórico @L
+O Pontífice Máximo chefiava o colégio dos pontífices e supervisionava importantes aspectos da religião pública e do calendário romano. A interpretação formal de presságios, porém, também envolvia outros sacerdócios, especialmente os áugures. @L@L
+O cargo podia ser acumulado com magistraturas do @Cursus @Honorum e tornou-se muito cobiçado politicamente. Regras religiosas, dias impróprios e anúncios de presságios podiam interromper atividades públicas e disputas no Senado. @L@L
+Júlio César tornou-se Pontífice Máximo em 63 a.C. e conservou o cargo por toda a vida. Como ditador, promoveu a reforma que criou o calendário juliano, assessorado por especialistas; isso não transformou o pontificado numa função apolítica. @L@L
+Durante o consulado de César, em 59 a.C., seu colega Marco Calpúrnio Bíbulo não era Pontífice Máximo. Bíbulo era conservador e tentou bloquear medidas de César por oposição política e por anúncios religiosos. @L@L
+Quando a oposição senatorial impediu o avanço de sua lei agrária, César levou a proposta à assembleia popular. A medida tratava da distribuição de terras, não da ampliação da distribuição de trigo. @L@L
+Bíbulo e aliados tentaram vetá-la, mas foram atacados por uma multidão; fontes antigas relatam violência e humilhação. Depois disso, Bíbulo retirou-se em grande parte da vida pública, e César dominou o restante do consulado. @L@L
+De sua casa, Bíbulo continuou anunciando que observava os céus e contestando a validade dos atos de César. Embora ridicularizado por adversários, não o fazia como Pontífice Máximo. @L@L
+Marco Licínio Crasso e Pompeu Magno estavam em conflito entre si e com setores do Senado. César ajudou a aproximá-los numa aliança política informal, hoje chamada Primeiro Triunvirato, que reuniu recursos, influência e apoio às agendas dos três. @L@L
+Conservadores como Catão, o Jovem, viram essa concentração de poder como ameaça às instituições republicanas e continuaram opondo-se a César. @L@L
+Essas tensões agravaram problemas do sistema político e contribuíram para as guerras civis. Augusto, filho adotivo de César, tornou-se convencionalmente o primeiro imperador romano, embora preservasse formas e títulos republicanos. “Imperador” é uma classificação histórica moderna para seu regime, não um único título inaugural que teria começado apenas com Tibério. Os nomes César e Augusto tornaram-se elementos duradouros da titulatura imperial. @L@L@L@L</text></message>
+
+<message uid="victory"><title>Mediolanum, Escudo da República</title><subtitle>Você é Vitorioso</subtitle><text> @G[c3 stills_127.png]@L @L @H Missão Concluída @L
+Governador, toda a República agradece por deter Aníbal. Você salvou incontáveis vidas romanas e provou que nossa engenhosidade pode superar qualquer inimigo e defender nosso povo. @L@L
+Eu o saúdo por este desempenho extraordinário. Em Lugdunum, suas habilidades logísticas serão novamente postas à prova. @L@L</text></message>
+
+<message uid="subsidy"><title>(!) Fim do Subsídio (!)</title><subtitle>Oficinas Liberadas</subtitle><text> @G[c3 stills_74.png]@L @H Mensagem @L
+O subsídio colonial terminou, e Mediolanum não receberá mais 100 denários por mês. Em compensação, agora você pode autorizar a construção de @workshops. @G[workshop.png] @L @L@L@L</text></message>
+</localization>

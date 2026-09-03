@@ -4,4 +4,7 @@
 *.xml text eol=lf
 *.yml text eol=lf
 *.ps1 text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
 *.mp3 binary
+*.wav binary
