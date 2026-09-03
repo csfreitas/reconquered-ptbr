@@ -99,7 +99,9 @@ As preferências globais foram preservadas antes de cada execução. Depois da �
 
 ## Limites honestos
 
-- fala, música e os quatro fallbacks do briefing RC01 foram confirmados auditivamente em campanha por diretório; eventos intermediários, vitória e interrupção antecipada do áudio ainda não receberam evidência interativa específica;
+- fala, música, os quatro fallbacks e a interrupção antecipada do briefing RC01 foram confirmados auditivamente em campanha por diretório; ao iniciar a missão imediatamente, fala e música pararam corretamente;
+- a tentativa de alcançar o primeiro evento ficou inconclusiva porque o Mapa do Império travou na fixture sem o conjunto completo de assets. O log registrou ausência maciça de grupos `UI`, `Terrain_Maps`, `Industry` e outros; esse resultado não foi atribuído ao overlay;
+- o commit [`993bcaa5c`](https://github.com/csfreitas/augustus/commit/993bcaa5c75233df2ad89bfa9ee865e29d2ae7c1) limpa callbacks pendentes antes da parada explícita em briefing, eventos e vitória pela API comum SDL2/SDL3. A [matriz multiplataforma](https://github.com/csfreitas/augustus/actions/runs/33774971291) passou em 18/18 alvos; o teste interativo específico fanfarra → fala continua pendente em uma instalação de teste completa;
 - carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
 - esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
