@@ -59,7 +59,7 @@ python3 reconquered_ptbr_media.py uninstall "/caminho/para/Reconquered Campaign"
 
 ## Conteúdo deste repositório
 
-A árvore Git contém os 20 overlays PT-BR, planos de integração, instaladores e documentação. Os WAVs não são versionados devido ao tamanho; estão somente nos assets da release. Contribuições e relatos devem seguir [CONTRIBUTING.md](CONTRIBUTING.md), sem anexar conteúdo original do Reconquered ou Caesar III.
+A árvore Git contém os 20 overlays PT-BR, planos de integração, instaladores e documentação. Os WAVs não são versionados devido ao tamanho; estão somente nos assets da release. Contribuições devem seguir [CONTRIBUTING.md](CONTRIBUTING.md), e testes devem usar o [checklist de QA comunitário](COMMUNITY_QA_CHECKLIST.md), sem anexar conteúdo original do Reconquered ou Caesar III.
 
 ## Evolução experimental: mídia localizada nativa
 

@@ -4,7 +4,7 @@ Obrigado por testar a localização brasileira do Reconquered.
 
 ## Relatos de teste
 
-Abra uma issue e informe missão, UID/evento, versão do Augustus, origem da instalação, locale, resultado esperado e resultado observado. Screenshots são bem-vindos; não anexe assets originais da campanha.
+Siga o [checklist de QA comunitário](COMMUNITY_QA_CHECKLIST.md). Abra uma issue e informe missão, UID/evento, versão do Augustus, origem da instalação, locale, resultado esperado e resultado observado. Screenshots são bem-vindos; não anexe assets originais da campanha.
 
 ## Sugestões de tradução
 
