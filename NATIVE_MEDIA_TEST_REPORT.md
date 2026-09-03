@@ -119,3 +119,16 @@ A [nova matriz do CI](https://github.com/csfreitas/augustus/actions/runs/3378126
 O artefato Windows MinGW x64 correspondente a `4e84eb094` foi preservado somente no scratch local. Seu executável possui SHA-256 `9AF5AFF478EC0DACB69912E568470324B0AE38B4AF2B4D7EE14568CFCD0625C5`. Em 2026-09-03, o responsável executou esse binário na cópia isolada e confirmou o funcionamento após conferir briefing, mídia localizada e eventos. Assim, o endurecimento posterior à revisão está funcionalmente aprovado no Windows SDL2. A matriz comprova a compilação nos demais alvos, mas não substitui uma medição dinâmica de memória nem o QA funcional nativo em cada plataforma.
 
 O Augustus ainda não possui uma infraestrutura de testes unitários para o parser de localização. Os casos negativos e de fallback permanecem cobertos pelo validador do pacote e pelas provas funcionais documentadas acima, mas uma futura contribuição upstream deve preferencialmente exercitar o parser C diretamente, sem duplicar sua lógica em um teste externo.
+
+## Correção genérica isolada
+
+Para evitar que uma correção útil fique acoplada à evolução experimental de mídia localizada, o ajuste de propriedade dos buffers foi reaplicado sobre o `upstream/master` atual em uma branch independente:
+
+- branch: [`fix/campaign-audio-buffer-ownership`](https://github.com/csfreitas/augustus/tree/fix/campaign-audio-buffer-ownership);
+- commit: [`7c1fffea5`](https://github.com/csfreitas/augustus/commit/7c1fffea5f7fdb27e2b9460f0f10b60313e079e7);
+- escopo: somente `src/platform/SDL2/sound_device.c` e `src/platform/SDL3/sound_device.c`;
+- CI: [18/18 alvos aprovados](https://github.com/csfreitas/augustus/actions/runs/33784166272).
+
+Essa branch está publicada somente no fork. Nenhuma PR upstream adicional foi aberta; o momento e a forma de eventual submissão permanecem aguardando a revisão do PR textual #1893 e orientação dos maintainers.
+
+O procedimento de validação por terceiros está registrado no [checklist de QA comunitário](COMMUNITY_QA_CHECKLIST.md). Ele não transforma vitória, missões ainda não jogadas ou plataformas não exercitadas em aprovações: cada evidência deve continuar vinculada ao ambiente realmente testado.
