@@ -56,7 +56,7 @@ O comando de verificação confirmou todos os arquivos e hashes instalados. Apó
 
 O teste unitário usa payload sintético próprio e cobre instalação, verificação, preservação do XML canônico, backup, desinstalação e remoção de diretórios vazios.
 
-O artefato Windows MinGW x64 do CI foi iniciado durante 12 segundos numa cópia isolada do Caesar III, com diretórios de preferência separados. Ele permaneceu ativo até o encerramento deliberado, criou janela e renderizador e inicializou áudio sem crash nem solicitação de diretório. Nenhum arquivo da instalação Steam foi utilizado ou alterado.
+O artefato Windows MinGW x64 do CI foi iniciado durante 12 segundos numa cópia isolada do Caesar III e recebeu explicitamente essa cópia como diretório de dados. Ele permaneceu ativo até o encerramento deliberado, criou janela e renderizador e inicializou áudio sem crash nem solicitação de diretório. O SDL informou o diretório global de preferências do Augustus; ele estava vazio e permaneceu sem arquivos. Nenhum arquivo da instalação Steam foi utilizado ou alterado.
 
 ## Limites honestos
 
