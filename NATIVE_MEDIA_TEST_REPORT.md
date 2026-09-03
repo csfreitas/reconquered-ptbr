@@ -2,7 +2,7 @@
 
 Data de corte: **2026-09-03**
 
-Estado: **implementação experimental aprovada em CI / reprodução do briefing RC01 aprovada em campanha por diretório / rota `.campaign` pendente**
+Estado: **implementação experimental aprovada em CI / reprodução do briefing RC01 aprovada em campanha por diretório e pacote `.campaign`**
 
 ## Augustus
 
@@ -72,9 +72,19 @@ Loaded custom message media localization  localization/pt-BR/media/RC01 Ostia.xm
 
 O responsável pelo projeto iniciou RC01 Ostia e aprovou o briefing como “impecável”. Texto, voz PT-BR e música foram reproduzidos juntos com equilíbrio artístico aprovado. A fixture não correspondia ao patch 1.0.1.0 e não continha o pacote completo de assets do build; por isso o log registrou avisos de assets ausentes e falhas ao gravar save/configuração. Essas limitações não impediram o carregamento dos dois overlays nem a reprodução do briefing e não foram atribuídas à feature de mídia localizada.
 
+### Pacote `.campaign`
+
+A mesma campanha instalada foi empacotada localmente como ZIP com extensão `.campaign`, sem o backup e sem o manifesto do instalador. A inspeção anterior à execução confirmou 658 entradas, 647 arquivos, zero nome duplicado e presença de `Settings.xml`, mapa RC01, overlay textual, companion de mídia, fala e música do briefing. O arquivo de teste possui SHA-256 `C463ED750938F7FD39DA38C7D897450C2A0581645604EC3205CCD01F7E813A6B` e não foi publicado.
+
+Com a campanha em diretório removida temporariamente da lista, Augustus reconheceu o `.campaign`, exibiu seus metadados e iniciou RC01 Ostia. O log registrou duas vezes o carregamento conjunto do cenário, do overlay textual e do companion de mídia. O responsável confirmou novamente que o briefing estava correto. A [captura da seleção da campanha](docs/evidence/2026-09-03-rc01-campaign-package-selection.png) registra o pacote reconhecido pela interface.
+
+O botão **Seleção de cenários** apareceu desativado porque esse nome de pacote ainda possuía `current_mission = 0`. O comportamento é intencional: o código habilita a lista somente quando `current_mission > 0`, depois que existe progresso na campanha. **Iniciar campanha** permaneceu disponível e abriu Ostia normalmente.
+
+Depois do teste, o `.campaign` foi retirado da pasta ativa e preservado somente no scratch local; a campanha em diretório foi restaurada. Nenhum arquivo da Steam foi tocado.
+
 ## Limites honestos
 
 - fala e música do briefing RC01 foram confirmadas auditivamente em campanha por diretório; fallback, eventos intermediários, vitória e interrupção antecipada do áudio ainda não receberam evidência interativa específica;
-- o carregamento de campanha em diretório está exercitado; o caminho `.campaign` usa a infraestrutura já existente do Augustus e compilou em todas as plataformas, mas ainda não foi exercitado interativamente;
+- carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
 - esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
