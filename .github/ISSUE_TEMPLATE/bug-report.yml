@@ -1,8 +1,19 @@
-name: Relato de teste
-description: Informe um problema encontrado na beta PT-BR.
-title: "[Beta] "
+name: Relato de QA comunitário
+description: Informe um problema encontrado no pacote PT-BR ou na rota experimental de mídia nativa.
+title: "[QA] "
 labels: ["community-test"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de relatar, consulte o [checklist de QA comunitário](https://github.com/csfreitas/reconquered-ptbr/blob/feature/native-localized-media-package/COMMUNITY_QA_CHECKLIST.md). Não anexe assets originais ou conteúdo privado de Tester.
+  - type: input
+    id: package
+    attributes:
+      label: Versão do pacote PT-BR
+      placeholder: "v1.0.0-rc.2 ou commit da branch experimental"
+    validations:
+      required: true
   - type: input
     id: mission
     attributes:
@@ -16,6 +27,13 @@ body:
       label: Versão ou commit do Augustus
     validations:
       required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Sistema operacional e arquitetura
+      placeholder: "Windows 11 x64, Linux x64, macOS ARM64..."
+    validations:
+      required: true
   - type: dropdown
     id: install
     attributes:
@@ -24,10 +42,31 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: campaign_format
+    attributes:
+      label: Formato da campanha
+      options: [Diretório, Pacote .campaign, Não se aplica]
+    validations:
+      required: true
+  - type: input
+    id: locale
+    attributes:
+      label: Locale selecionado
+      placeholder: "pt-BR"
+    validations:
+      required: true
+  - type: dropdown
     id: category
     attributes:
       label: Categoria
       options: [Tradução, Layout ou glifo, Áudio ou volume, Gatilho ou evento, Travamento, Instalação, Outro]
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Passos para reproduzir
+      placeholder: "Descreva desde a seleção da campanha até o problema."
     validations:
       required: true
   - type: textarea
@@ -42,10 +81,24 @@ body:
       label: Resultado esperado
     validations:
       required: true
+  - type: dropdown
+    id: repeatable
+    attributes:
+      label: O problema se repete?
+      options: [Sim, Não, Ainda não tentei repetir]
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log relevante
+      description: Cole somente o trecho necessário e remova dados pessoais ou caminhos sensíveis.
   - type: checkboxes
     id: rights
     attributes:
       label: Confirmação
       options:
         - label: Não anexei assets originais do Reconquered ou Caesar III.
+          required: true
+        - label: Não anexei conteúdo obtido em canais privados de Tester.
           required: true
