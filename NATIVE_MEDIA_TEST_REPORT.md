@@ -82,9 +82,24 @@ O botão **Seleção de cenários** apareceu desativado porque esse nome de paco
 
 Depois do teste, o `.campaign` foi retirado da pasta ativa e preservado somente no scratch local; a campanha em diretório foi restaurada. Nenhum arquivo da Steam foi tocado.
 
+### Matriz de fallback de mídia
+
+Quatro variações temporárias do companion de RC01 foram exercitadas na campanha em diretório. O arquivo aprovado foi copiado antes da rodada e restaurado ao final com igualdade exata de SHA-256: `5E990DBD056CDE78539D5969C461C3438A44013889681481F7E7FB52E57DCBB7`.
+
+| Caso | Companion | Resultado confirmado |
+|---|---|---|
+| fala localizada aponta para arquivo ausente | válido; música localizada presente | texto PT-BR, fala canônica em inglês e música localizada |
+| música localizada aponta para arquivo ausente | válido; fala localizada presente | texto e fala PT-BR, música canônica `ROME2.wav` |
+| versão do companion incompatível | inválido (`version="2"`) | texto PT-BR preservado; fala e música canônicas |
+| entrada `intro` ausente | válido; outras entradas preservadas | texto PT-BR; fala e música canônicas |
+
+Nos casos válidos, o log confirmou o carregamento do overlay textual e do companion. No caso inválido, confirmou primeiro o overlay textual e depois registrou `Unsupported custom message media localization version` e `Unable to load custom message media localization`, sem descartar a tradução. Todos os quatro resultados auditivos foram confirmados pelo responsável.
+
+As preferências globais foram preservadas antes de cada execução. Depois da última rodada, a comparação retornou 32 arquivos, zero divergência e zero ausência. A instalação Steam não participou dos testes.
+
 ## Limites honestos
 
-- fala e música do briefing RC01 foram confirmadas auditivamente em campanha por diretório; fallback, eventos intermediários, vitória e interrupção antecipada do áudio ainda não receberam evidência interativa específica;
+- fala, música e os quatro fallbacks do briefing RC01 foram confirmados auditivamente em campanha por diretório; eventos intermediários, vitória e interrupção antecipada do áudio ainda não receberam evidência interativa específica;
 - carregamento por diretório e `.campaign` está exercitado no artefato Windows; a execução funcional nativa nas demais plataformas continua dependente de QA comunitário;
 - esta rota não substitui o instalador da `v1.0.0-rc.2` enquanto o suporte não estiver estabilizado;
 - a prova funcional interativa deverá usar somente uma cópia de teste, sem alterar a instalação Steam principal.
