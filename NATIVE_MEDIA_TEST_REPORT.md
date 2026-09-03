@@ -25,6 +25,7 @@ O companion aceita `speech` e `background_music`. Entradas ou arquivos ausentes 
 
 ## Geração do pacote
 
+- CI do pacote: [Windows, Linux e macOS aprovados](https://github.com/csfreitas/reconquered-ptbr/actions/runs/33755566527);
 - 20 companions gerados a partir dos planos aprovados;
 - 20/20 companions reproduzíveis em modo `--check`;
 - UIDs conferidos contra os overlays textuais;
